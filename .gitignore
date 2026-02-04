@@ -1,0 +1,8 @@
+.env
+.gradle
+.idea
+build
+run
+.cache
+
+.idea

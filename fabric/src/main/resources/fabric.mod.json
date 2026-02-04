@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "lost_lore",
+  "version": "${version}",
+  "name": "LostLore",
+  "description": "This addon aims to add the extended canon that is the anime/movies, side games & manga to Cobblemon!",
+  "authors": [
+    "YajatKaul",
+    "Lvantic"
+  ],
+  "contact": {
+    "homepage": "https://github.com/Lvnatic-T/Lost-Lore"
+  },
+  "license": "CC-BY-NC-SA-4.0",
+  "icon": "assets/lost_lore/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.github.lvantic.lost_lore.fabric.LostLoreFabric"
+    ],
+    "client": [
+      "com.github.lvantic.lost_lore.fabric.client.LostLoreFabricClient"
+    ]
+  },
+  "mixins": [
+    "lost_lore.mixins.json",
+    "lost_lore.fabric.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.17.2",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "architectury": ">=13.0.8",
+    "fabric-api": "*",
+    "cobblemon": ">=1.7",
+    "mega_showdown": ">=1.2+1.7+1.21.1",
+    "accessories": ">=1.1.0-beta.52+1.21.1"
+  }
+}

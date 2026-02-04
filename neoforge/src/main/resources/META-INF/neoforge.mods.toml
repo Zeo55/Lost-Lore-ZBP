@@ -1,0 +1,62 @@
+modLoader = "javafml"
+loaderVersion = "[2,)"
+#issueTrackerURL = ""
+license = "CC-BY-NC-SA-4.0"
+
+[[mods]]
+modId = "lost_lore"
+version = "${version}"
+displayName = "lost_lore"
+authors = "YajatKaul, Lvantic"
+description = '''
+This addon aims to add the extended canon that is the anime/movies, side games & manga to Cobblemon!
+'''
+logoFile = "assets/lost_lore/icon.png"
+
+[[dependencies.lost_lore]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.lost_lore]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.lost_lore]]
+modId = "architectury"
+type = "required"
+versionRange = "[13.0.8,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.lost_lore]]
+modId = "cobblemon"
+type = "required"
+versionRange = "[1.7.0, )"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.lost_lore]]
+modId = "mega_showdown"
+type = "required"
+versionRange = "[1.6.4+1.7+2.21.1,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.lost_lore]]
+modId = "accessories"
+type = "required"
+versionRange = "[1.1.0-beta.52+1.21.1, )"
+ordering = "AFTER"
+side = "BOTH"
+
+[[mixins]]
+config = "lost_lore.mixins.json"
+
+[[mixins]]
+config = "lost_lore.neo.mixins.json"

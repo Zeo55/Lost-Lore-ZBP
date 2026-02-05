@@ -18,7 +18,7 @@ public class LLTabs {
             "lost_lore_main",
             () -> CreativeTabRegistry.create(
                     Component.translatable("itemgroup.lost_lore.lostlore_items"),
-                    () -> new ItemStack(LLItems.SHADOW_MEWTWONITE_X) // Icon
+                    () -> new ItemStack(LLItems.BINDING_ARMOR) // Icon
             )
     );
 

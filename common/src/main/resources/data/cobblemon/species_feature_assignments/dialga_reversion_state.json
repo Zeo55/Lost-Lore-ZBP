@@ -1,0 +1,4 @@
+{
+  "pokemon": ["dialga"],
+  "features": ["reversion_state"]
+}

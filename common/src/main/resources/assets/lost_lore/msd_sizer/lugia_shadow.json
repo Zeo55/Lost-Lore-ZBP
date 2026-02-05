@@ -1,0 +1,19 @@
+{
+  "pokemon": "lugia",
+  "size_config": {
+    "Shadow": {
+      "msd:tera_shadow": {
+        "scale": [1.0, 1.0, 1.0],
+        "translate": [0.0, 0.0, 0.0]
+      },
+      "msd:tera_water": {
+        "scale": [1.0, 1.0, 1.0],
+        "translate": [0, 0, 0]
+      },
+      "msd:tera_crystal": {
+        "scale": [1.0, 1.0, 1.0],
+        "translate": [0, 0, 0]
+      }
+    }
+  }
+}

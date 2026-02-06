@@ -1,4 +1,27 @@
 {
+  "cobblemon.type.shadow": "Shadow",
+
+  "cobblemon.ability.shadowpressure": "Shadow Pressure",
+  "cobblemon.ability.shadowpressure.desc": "Puts other Pokémon under pressure with its shadowy aura, causing them to expend more PP to use their moves.",
+  "cobblemon.ability.shadowguard": "Shadow Guard",
+  "cobblemon.ability.shadowguard.desc": "A dark cloak that reduces the amount of damage the Pokémon takes while its HP is full",
+  "cobblemon.ability.shadowboost": "Shadow Boost",
+  "cobblemon.ability.shadowboost.desc": "The dark aura around the Pokémon powers up super effective moves even further",
+
+  "cobblemon.move.shadowblast": "Shadow Blast",
+  "cobblemon.move.shadowblast.desc": "A wicked blade of air is formed using a shadowy aura.",
+  "cobblemon.move.shadowdown": "Shadow Down",
+  "cobblemon.move.shadowdown.desc": "A shadowy aura sharply cuts the foe's Defense.",
+  "cobblemon.move.shadowshed": "Shadow Shed",
+  "cobblemon.move.shadowshed.desc": "A shadowy aura eliminates barriers such as Reflect or Light Screen while lowering their evasiveness.",
+  "cobblemon.move.shadowstorm": "Shadow Storm",
+  "cobblemon.move.shadowstorm.desc": "A shadowy aura is used to whip up a vicious tornado.",
+  "cobblemon.move.blackvortex": "Black Vortex",
+  "cobblemon.move.blackvortex.desc": "A powerful Vortex made of Shadows",
+  "cobblemon.move.maxvoid": "Max Void",
+  "cobblemon.move.maxvoid.desc": "This is a Shadow-type attack Dynamax Pokémon use. This boosts ally Pokémon’s Speed stats.",
+
+
   "cobblemon.ui.pokedex.region.pokestar": "Pokestar Studios",
   
   "cobblemon.move.kaijucataclysm": "Kaiju Cataclysm",
@@ -72,6 +95,49 @@
   "cobblemon.ui.pokedex.info.form.zarude": "",
   "cobblemon.ui.pokedex.info.form.zarude-dada": "Dada",
 
+  "cobblemon.ui.pokedex.info.form.groudon-virus": "Meta",
+
+  "cobblemon.ui.pokedex.info.form.incineroar-acepride": "Ace Pride Shirt",
+  "cobblemon.ui.pokedex.info.form.incineroar-bipride": "Bi Pride Shirt",
+  "cobblemon.ui.pokedex.info.form.incineroar-champion": "Champion Suit",
+  "cobblemon.ui.pokedex.info.form.incineroar-dancer": "Dancer Shorts",
+  "cobblemon.ui.pokedex.info.form.incineroar-panpride": "Pan Pride Shirt",
+  "cobblemon.ui.pokedex.info.form.incineroar-pride": "Pride Shirt",
+  "cobblemon.ui.pokedex.info.form.incineroar-royalmask": "Royal Mask",
+  "cobblemon.ui.pokedex.info.form.incineroar-summer": "Summer Fit",
+  "cobblemon.ui.pokedex.info.form.incineroar-teamskull": "Team Skull Outfit",
+  "cobblemon.ui.pokedex.info.form.incineroar-tekken": "Tekken Costume",
+  "cobblemon.ui.pokedex.info.form.incineroar-transpride": "Trans Pride Shirt",
+
+  "cobblemon.ui.pokedex.info.form.lucario-captaincostume": "Captain Costume",
+  "cobblemon.ui.pokedex.info.form.lucario-chefcostume": "Chef Costume",
+  "cobblemon.ui.pokedex.info.form.lucario-cafecostume": "Cafe Costume",
+  "cobblemon.ui.pokedex.info.form.lucario-concertcostume": "Concert Costume",
+  "cobblemon.ui.pokedex.info.form.lucario-costume_partycostume": "Costume Party Costume",
+  "cobblemon.ui.pokedex.info.form.lucario-holidaycostume": "Holiday Costume",
+  "cobblemon.ui.pokedex.info.form.lucario-martial_artscostume": "Martial Arts Costume",
+  "cobblemon.ui.pokedex.info.form.lucario-pmdscarf": "Red Scarf",
+  "cobblemon.ui.pokedex.info.form.lucario-psmdscarf": "Green Scarf",
+  "cobblemon.ui.pokedex.info.form.lucario-ruinscostume": "Ruins Costume",
+  "cobblemon.ui.pokedex.info.form.lucario-spacecostume": "Space Costume",
+
+  "cobblemon.ui.pokedex.info.form.lugia": "",
+  "cobblemon.ui.pokedex.info.form.lugia-shadow": "Shadow",
+
+  "cobblemon.ui.pokedex.info.form.mewtwo-armored": "Armored",
+  "cobblemon.ui.pokedex.info.form.mewtwo-shadow": "Shadow",
+  "cobblemon.ui.pokedex.info.form.mewtwo-megasx": "Shadow Mega X",
+  "cobblemon.ui.pokedex.info.form.mewtwo-megasy": "Shadow Mega Y",
+
+  "cobblemon.ui.pokedex.info.form.pichu-spikyeared": "Spiky Eared",
+
+  "cobblemon.ui.pokedex.info.form.riolu": "",
+  "cobblemon.ui.pokedex.info.form.riolu-pmdscarf": "Red Scarf",
+  "cobblemon.ui.pokedex.info.form.riolu-psmdscarf": "Green Scarf",
+
+  "cobblemon.ui.pokedex.info.form.slowbro-megay": "Galarian Mega",
+
+
   "cobblemon.species.mimikyu-acerola.desc": "This Mimikyu, lovely nicknamed Mimikins is said to have awakened in the ruins of the Thrifty Megamart, drawn to Acerola’s presence. Unlike others of its kind, it rarely shows aggression, instead clinging to her like a protective shadow. Some claim it no longer disguises itself out of envy - but out of reverence, masking a spirit that once knew Acerola in life.",
   "cobblemon.species.mimikyu-busted-acerola.desc": "After its disguise is damaged, Mimikins reveals something far older and colder than cloth beneath. When exposed, its presence chills the air and silences nearby Pokémon. Some say Acerola can still understand its cries, hinting at a bond forged not in life—but in death.",
   "cobblemon.species.rayquaza-illusion.desc": "A terrifying mirage conjured by Mismagius’s psychic cries. Though not real, its presence warps reality, and even seasoned Trainers struggle to distinguish it from the real Rayquaza. It vanishes when disbelief breaks the illusion.",
@@ -117,25 +183,45 @@
   "cobblemon.species.kecleon-reddy.desc": "Together with its best friend Greeny it likes stealing trinkets so people play hide and seek with him. It is also known for being significantly harder to catch.",
   "cobblemon.species.zarude-dada.desc": "This scarf wearing Zarude, often named Dada is the protector of the jungle. It's known for its fierce loyalty towards the forest and its inhabitants, showing a compassionate side rarely seen in other Zarude.",
 
+  "cobblemon.species.groudon-virus.desc": "This grotesque imitation of Groudon was born from a corrupted wish. Unlike the true Groudon, it devours life instead of nurturing it, growing stronger as it absorbs Pokémon, people, and nature alike.",
 
-  "cobblemon.type.shadow": "Shadow",
+  "cobblemon.species.incineroar-ace-pride.desc":"This Incineroar is showing their ace pride.",
+  "cobblemon.species.incineroar-bi-pride.desc":"This Incineroar is showing their bi pride.",
+  "cobblemon.species.incineroar-champion.desc":"Having proven itself against the strongest opponent, this Incineroar dons the suit of champions.",
+  "cobblemon.species.incineroar-dancer.desc":"This Incineroar has chosen to hit up the dance floor in these stunning shorts.",
+  "cobblemon.species.incineroar-pan-pride.desc":"This Incineroar is showing their pan pride.",
+  "cobblemon.species.incineroar-pride.desc":"This Incineroar is showing their pride.",
+  "cobblemon.species.incineroar-royalmask.desc":"This Incineroar has chosen to take up the mantle of the Masked Royal.",
+  "cobblemon.species.incineroar-summer.desc":"This Incineroar seems to be on summer vacation.",
+  "cobblemon.species.incineroar-team-skull.desc":"This Incineroar embraced his darker impulses and joined up with Team Skull.",
+  "cobblemon.species.incineroar-tekken.desc":"This Incineroar has donned the outfit of a legendary luchador who fights for his orphanage.",
+  "cobblemon.species.incineroar-trans-pride.desc":"This Incineroar is showing their trans pride.",
 
-  "cobblemon.ability.shadowpressure": "Shadow Pressure",
-  "cobblemon.ability.shadowpressure.desc": "Puts other Pokémon under pressure with its shadowy aura, causing them to expend more PP to use their moves.",
-  "cobblemon.ability.shadowguard": "Shadow Guard",
-  "cobblemon.ability.shadowguard.desc": "A dark cloak that reduces the amount of damage the Pokémon takes while its HP is full",
+  "cobblemon.species.lucario-cafe.desc":"With precise movements and calm focus, this Lucario serves coffee and pastries while sensing the moods of its customers. It uses aura to brew the perfect cup, adjusting flavor to match emotions.",
+  "cobblemon.species.lucario-captain.desc":"As the steadfast captain of a mystery dungeon vessel, this Lucario navigates by reading aura signatures on the wind. It commands its crew with quiet authority and protects them from threats at sea.",
+  "cobblemon.species.lucario-chef.desc":"Wielding blades with the skill of a master, this Lucario channels aura into culinary artistry. It can taste a dish’s balance before it's served and adjusts ingredients in real time for maximum flavor harmony.",
+  "cobblemon.species.lucario-concert.desc":"This Lucario harnesses aura not for battle, but for rhythm. Its synchronized moves dazzle on stage, and it can amplify emotional energy into sound waves that stir hearts across the crowd.",
+  "cobblemon.species.lucario-costume_party.desc":"Wearing the garments of the ancient Aura Guardian, this Lucario embodies the legacy of sacrifice and honor. Its aura resonates with echoes of the past, allowing it to guide others with the same wisdom and bravery as Sir Aaron once did.",
+  "cobblemon.species.lucario-holiday.desc":"This Lucario wears the crown not for power, but as a symbol of wisdom earned through unity. It rules not by strength alone, but by sensing and understanding the will of those it protects.",
+  "cobblemon.species.lucario-martial_arts.desc":"Trained in legendary martial disciplines, this Lucario blends aura and technique in perfect harmony. It moves only when necessary and strikes with intent honed by years of quiet, focused discipline.",
+  "cobblemon.species.lucario-mega.desc":"Bathed in explosive energy, its combative instincts have awakened. For its enemies, it has no mercy whatsoever.",
+  "cobblemon.species.lucario-pmd.desc":"This Lucario has become a guardian of its exploration team, using its mastery of aura to guide and protect. Calm and resolute, it acts without hesitation when allies are in need, earning the respect of even the fiercest dungeon dwellers.",
+  "cobblemon.species.lucario-psmd.desc":"Tempered by countless trials, this Lucario's aura burns with the strength of its unwavering bond. It leads with instinct and heart, often venturing into the unknown to ensure no friend is left behind.",
+  "cobblemon.species.lucario-ruins.desc":"Clad in relics of an ancient civilization, this Lucario guards sacred tombs hidden deep in mystery dungeons. Its aura connects with ancient glyphs, allowing it to uncover secrets lost to time.",
+  "cobblemon.species.lucario-space.desc":"Equipped with a high-tech suit, this Lucario explores the cosmos. It uses aura to track unfamiliar lifeforms across alien worlds, keeping its balance even in zero gravity with energy-based stabilization.",
+  "cobblemon.species.lugia-shadow.desc": "This Lugia has had the door to its heart shut by the criminal syndicate Cipher, believed to be the ultimate Shadow Pokémon and completely immune to purification.",
 
-  "cobblemon.move.shadowblast": "Shadow Blast",
-  "cobblemon.move.shadowblast.desc": "A wicked blade of air is formed using a shadowy aura.",
-  "cobblemon.move.shadowdown": "Shadow Down",
-  "cobblemon.move.shadowdown.desc": "A shadowy aura sharply cuts the foe's Defense.",
-  "cobblemon.move.shadowshed": "Shadow Shed",
-  "cobblemon.move.shadowshed.desc": "A shadowy aura eliminates barriers such as Reflect or Light Screen while lowering their evasiveness.",
-  "cobblemon.move.shadowstorm": "Shadow Storm",
-  "cobblemon.move.shadowstorm.desc": "A shadowy aura is used to whip up a vicious tornado.",
-  "cobblemon.move.blackvortex": "Black Vortex",
-  "cobblemon.move.blackvortex.desc": "A powerful Vortex made of Shadows",
-  "cobblemon.move.maxvoid": "Max Void",
-  "cobblemon.move.maxvoid.desc": "Just testing if this works"
+  "cobblemon.species.mewtwo-armored.desc": "This Mewtwo was equipt with a durable armor by unknown scientists. It suppresses its true psychic powers while making it more durable.",
+  "cobblemon.species.mewtwo-shadow-mega-x.desc": "Amplified by shadow energy and Mega Evolution, this form radiates raw, chaotic power. Its crystal core surges uncontrollably, making it nearly impossible to stop in battle.",
+  "cobblemon.species.mewtwo-shadow-mega-y.desc": "In its Mega Y form, Shadow Mewtwo becomes faster and more unstable. Its psychic energy spirals out of control, distorting reality around it with every devastating strike.",
+  "cobblemon.species.mewtwo-shadow.desc": "A powerful Mewtwo corrupted by shadow energy. It wields overwhelming psychic force through a dark crystal, fighting with relentless aggression and unstable power.",
 
+  "cobblemon.species.pichu-spikyeared.desc":"This rare Pichu is said to have traveled through time with Celebi. Unlike others of its kind, it cannot evolve, as it is bound to an era long past. Its spiky ear is a mark of that journey—an echo of a world that once was.",
+  "cobblemon.species.pikachu-partner.desc":" This Pikachu wears its partner's cap, which is brimming with memories of traveling through many different regions. Since the cap's not the right size, the fit is a bit loose.",
+
+  "cobblemon.species.riolu-pmd.desc":"This Riolu shows unwavering loyalty to its teammates. Through its aura, it senses emotions, allowing it to protect allies in danger. Though small, it’s driven by a fierce sense of justice born from its time as an explorer.",
+  "cobblemon.species.riolu-psmd.desc":"Forged in the trials of mystery dungeons, this Riolu channels the emotions of others to navigate perilous missions. Its strong bond with its partner fuels its courage, even when the odds seem impossible.",
+
+  "cobblemon.species.slowbro-mega-galar.desc": "Upon Mega evolving, the Shellder on his arm fully fuses with its nervous system, unleashing unstable psychic energy. Trainers report that it often mutters cryptic phrases in battle, as if channeling voices from another dimension.",
+  "cobblemon.species.slowbro-megay.desc": "Upon Mega evolving, the Shellder on his arm fully fuses with its nervous system, unleashing unstable psychic energy. Trainers report that it often mutters cryptic phrases in battle, as if channeling voices from another dimension."
 }

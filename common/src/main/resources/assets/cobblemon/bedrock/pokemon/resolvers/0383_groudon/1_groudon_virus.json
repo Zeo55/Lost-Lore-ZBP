@@ -1,0 +1,37 @@
+{
+  "species": "cobblemon:groudon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "virus"
+      ],
+      "poser": "cobblemon:groudon",
+      "model": "cobblemon:virusgroudon.geo",
+      "texture": "cobblemon:textures/pokemon/0383_groudon/virusgroudon.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0383_groudon/virusgroudon_emissive.png",
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "virus"
+      ],
+      "texture": "cobblemon:textures/pokemon/0383_groudon/virusgroudon.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0383_groudon/virusgroudon_emissive.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

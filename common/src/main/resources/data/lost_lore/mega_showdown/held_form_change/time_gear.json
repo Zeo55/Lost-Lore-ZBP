@@ -3,17 +3,17 @@
   "effect": "mega_showdown:terapagos_effect",
   "tradable": false,
   "aspect_conditions": {
-    "aspects": ["reversion_state=primal"],
     "apply": {
+      "aspects": ["reversion_state=primal"],
       "aspect": {
         "blacklist_aspects": [["primal"], ["origin"]]
       }
     },
     "revert": {
+      "aspects": ["reversion_state=standard"],
       "aspect": {
         "required_aspects": [["primal"]]
-      },
-      "aspects": ["reversion_state=standard"]
+      }
     }
   }
 }

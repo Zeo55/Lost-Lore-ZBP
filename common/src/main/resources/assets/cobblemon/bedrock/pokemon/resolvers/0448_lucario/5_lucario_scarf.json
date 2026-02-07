@@ -1,6 +1,6 @@
 {
   "species": "cobblemon:lucario",
-  "order": 0,
+  "order": 5,
   "variations": [
     {
       "aspects": ["cosmetic_item-red_scarf"],

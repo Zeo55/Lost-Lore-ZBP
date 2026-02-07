@@ -1,0 +1,105 @@
+{
+  "species": "cobblemon:incineroar",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["champion-costume"],
+      "model": "cobblemon:champion_incineroar.geo",
+      "texture": "cobblemon:textures/pokemon/0727_incineroar/champion_incineroar.png"
+    },
+    {
+      "aspects": ["shiny", "champion-costume"],
+      "texture": "cobblemon:textures/pokemon/0727_incineroar/champion_incineroar_shiny.png"
+    },
+    {
+      "aspects": ["royal_mask-costume"],
+      "model": "cobblemon:royal_mask_incineroar.geo",
+      "texture": "cobblemon:textures/pokemon/0727_incineroar/royal_mask_incineroar.png"
+    },
+    {
+      "aspects": ["shiny", "royal_mask-costume"],
+      "texture": "cobblemon:textures/pokemon/0727_incineroar/royal_mask_incineroar_shiny.png"
+    },
+    {
+      "aspects": ["summer-costume"],
+      "model": "cobblemon:summer_incineroar.geo",
+      "texture": "cobblemon:textures/pokemon/0727_incineroar/summer_incineroar.png"
+    },
+    {
+      "aspects": ["shiny", "summer-costume"],
+      "texture": "cobblemon:textures/pokemon/0727_incineroar/summer_incineroar_shiny.png"
+    },
+    {
+      "aspects": ["dancer-costume"],
+      "model": "cobblemon:zootopia_dancer_incineroar.geo",
+      "texture": "cobblemon:textures/pokemon/0727_incineroar/zootopia_dancer_incineroar.png"
+    },
+    {
+      "aspects": ["shiny", "dancer-costume"],
+      "texture": "cobblemon:textures/pokemon/0727_incineroar/zootopia_dancer_incineroar_shiny.png"
+    },
+    {
+      "aspects": ["1pride-costume"],
+      "model": "cobblemon:pride_incineroar.geo",
+      "texture": "cobblemon:textures/pokemon/0727_incineroar/pride_incineroar.png"
+    },
+    {
+      "aspects": ["shiny", "1pride-costume"],
+      "texture": "cobblemon:textures/pokemon/0727_incineroar/pride_incineroar_shiny.png"
+    },
+    {
+      "aspects": ["trans_pride-costume"],
+      "model": "cobblemon:pride_incineroar_trans.geo",
+      "texture": "cobblemon:textures/pokemon/0727_incineroar/pride_incineroar_trans.png"
+    },
+    {
+      "aspects": ["shiny", "trans_pride-costume"],
+      "texture": "cobblemon:textures/pokemon/0727_incineroar/pride_incineroar_trans_shiny.png"
+    },
+    {
+      "aspects": ["ace_pride-costume"],
+      "model": "cobblemon:pride_incineroar_ace.geo",
+      "texture": "cobblemon:textures/pokemon/0727_incineroar/pride_incineroar_ace.png"
+    },
+    {
+      "aspects": ["shiny", "ace_pride-costume"],
+      "texture": "cobblemon:textures/pokemon/0727_incineroar/pride_incineroar_ace_shiny.png"
+    },
+    {
+      "aspects": ["bi_pride-costume"],
+      "model": "cobblemon:pride_incineroar.geo",
+      "texture": "cobblemon:textures/pokemon/0727_incineroar/pride_incineroar_bi.png"
+    },
+    {
+      "aspects": ["shiny", "bi_pride-costume"],
+      "texture": "cobblemon:textures/pokemon/0727_incineroar/pride_incineroar_bi_shiny.png"
+    },
+    {
+      "aspects": ["pan_pride-costume"],
+      "model": "cobblemon:pride_incineroar.geo",
+      "texture": "cobblemon:textures/pokemon/0727_incineroar/pride_incineroar_pan.png"
+    },
+    {
+      "aspects": ["shiny", "pan_pride-costume"],
+      "texture": "cobblemon:textures/pokemon/0727_incineroar/pride_incineroar_pan_shiny.png"
+    },
+    {
+      "aspects": ["tekken-costume"],
+      "model": "cobblemon:tekken_incineroar.geo",
+      "texture": "cobblemon:textures/pokemon/0727_incineroar/tekken_incineroar.png"
+    },
+    {
+      "aspects": ["shiny", "tekken-costume"],
+      "texture": "cobblemon:textures/pokemon/0727_incineroar/tekken_incineroar_shiny.png"
+    },
+    {
+      "aspects": ["team_skull-costume"],
+      "model": "cobblemon:team_skull_incineroar.geo",
+      "texture": "cobblemon:textures/pokemon/0727_incineroar/team_skull_incineroar.png"
+    },
+    {
+      "aspects": ["shiny", "team_skull-costume"],
+      "texture": "cobblemon:textures/pokemon/0727_incineroar/team_skull_incineroar_shiny.png"
+    }
+  ]
+}

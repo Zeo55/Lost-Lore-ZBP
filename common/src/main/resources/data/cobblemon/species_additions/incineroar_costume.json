@@ -1,0 +1,61 @@
+{
+  "target": "cobblemon:incineroar",
+  "features": ["incineroar_costume"],
+  "forms": [
+	  {
+      "name": "Summer",
+      "aspects": ["summer-costume"],
+      "pokedex": ["cobblemon.species.incineroar-summer.desc"]
+    },
+	  {
+      "name": "Champion",
+      "aspects": ["champion-costume"],
+      "pokedex": ["cobblemon.species.incineroar-champion.desc"]
+    },
+	  {
+      "name": "Royal-Mask",
+      "aspects": ["royal_mask-costume"],
+      "pokedex": ["cobblemon.species.incineroar-royalmask.desc"]
+    },
+    {
+      "name": "Dancer",
+      "aspects": ["dancer-costume"],
+      "pokedex": ["cobblemon.species.incineroar-dancer.desc"]
+    },
+    {
+      "name": "Pride",
+      "aspects": ["1pride-costume"],
+      "pokedex": ["cobblemon.species.incineroar-pride.desc"]
+    },
+    {
+      "name": "Trans-Pride",
+      "aspects": ["trans_pride-costume"],
+      "pokedex": ["cobblemon.species.incineroar-trans-pride.desc"]
+    },
+    {
+      "name": "Ace-Pride",
+      "aspects": ["ace_pride-costume"],
+      "pokedex": ["cobblemon.species.incineroar-ace-pride.desc"]
+    },
+    {
+      "name": "Bi-Pride",
+      "aspects": ["bi_pride-costume"],
+      "pokedex": ["cobblemon.species.incineroar-bi-pride.desc"]
+    },
+    {
+      "name": "Pan-Pride",
+      "aspects": ["pan_pride-costume"],
+      "pokedex": ["cobblemon.species.incineroar-pan-pride.desc"]
+    },
+    {
+      "name": "Tekken",
+      "aspects": ["tekken-costume"],
+      "pokedex": ["cobblemon.species.incineroar-tekken.desc"]
+    },
+    {
+      "name": "Team-Skull",
+      "aspects": ["team_skull-costume"],
+      "pokedex": ["cobblemon.species.incineroar-team-skull.desc"]
+    }
+  ]
+}

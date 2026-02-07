@@ -1,0 +1,88 @@
+{
+  "species": "cobblemon:lucario",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["cafe-costume"],
+      "poser": "cobblemon:lucario_atm",
+      "model": "cobblemon:lucariocafe.geo",
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucariocafe.png"
+    },
+    {
+      "aspects": ["cafe-costume","shiny"],
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucariocafe_shiny.png"
+    },
+    {
+      "aspects": ["captain-costume"],
+      "model": "cobblemon:lucariocaptain.geo",
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucariocaptain.png"
+    },
+    {
+      "aspects": ["captain-costume","shiny"],
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucariocaptain_shiny.png"
+    },
+    {
+      "aspects": ["chef-costume"],
+      "model": "cobblemon:lucariochef.geo",
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucariochef.png"
+    },
+    {
+      "aspects": ["chef-costume","shiny"],
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucariochef_shiny.png"
+    },
+    {
+      "aspects": ["concert-costume"],
+      "model": "cobblemon:lucarioconcert.geo",
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucarioconcert.png"
+    },
+    {
+      "aspects": ["concert-costume","shiny"],
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucarioconcert_shiny.png"
+    },
+    {
+      "aspects": ["holiday-costume"],
+      "model": "cobblemon:lucarioholiday.geo",
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucarioholiday.png"
+    },
+    {
+      "aspects": ["holiday-costume","shiny"],
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucarioholiday_shiny.png"
+    },
+    {
+      "aspects": ["martial_arts-costume"],
+      "model": "cobblemon:lucariomartialarts.geo",
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucariomartialarts.png"
+    },
+    {
+      "aspects": ["martial_arts-costume","shiny"],
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucariomartialarts_shiny.png"
+    },
+    {
+      "aspects": ["costume_party-costume"],
+      "model": "cobblemon:lucariocostumeparty.geo",
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucariocostumeparty.png"
+    },
+    {
+      "aspects": ["costume_party-costume","shiny"],
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucariocostumeparty_shiny.png"
+    },
+    {
+      "aspects": ["ruins-costume"],
+      "model": "cobblemon:lucarioruins.geo",
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucarioruins.png"
+    },
+    {
+      "aspects": ["ruins-costume","shiny"],
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucarioruins_shiny.png"
+    },
+    {
+      "aspects": ["space-costume"],
+      "model": "cobblemon:lucariospace.geo",
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucariospace.png"
+    },
+    {
+      "aspects": ["space-costume","shiny"],
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucariospace_shiny.png"
+    }
+  ]
+}

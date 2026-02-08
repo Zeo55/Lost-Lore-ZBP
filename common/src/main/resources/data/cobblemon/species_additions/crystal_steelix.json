@@ -6,6 +6,7 @@
       "name": "Crystal",
       "pokedex": ["cobblemon.species.steelix-crystal.desc"],
       "aspects": ["crystal"],
+      "baseScale": 0.85,
 	    "abilities": [
         "waterabsorb",
         "h:waterabsorb"
@@ -15,6 +16,7 @@
       "name": "Crystal-Mega",
       "primaryType": "steel",
       "secondaryType": "ground",
+      "baseScale": 0.85,
       "maleRatio": 0.5,
       "height": 105,
       "weight": 7400,

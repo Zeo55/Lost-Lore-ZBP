@@ -22,7 +22,6 @@
       "rival-costume",
       "santa-costume",
       "team_rocket-costume",
-      "team_rainbow_rocket-costume",
       "team_rainbow_anime-costume",
       "team_magma-costume",
       "team_magma_oras-costume",
@@ -191,17 +190,9 @@
       },
       {
         "apply": {
-          "aspects": ["incineroar_costume=team_rainbow_rocket"],
-          "aspect": {
-            "required_aspects": [["team_rocket-costume"]]
-          }
-        }
-      },
-      {
-        "apply": {
           "aspects": ["incineroar_costume=team_rainbow_anime"],
           "aspect": {
-            "required_aspects": [["team_rainbow_rocket-costume"]]
+            "required_aspects": [["team_rocket-costume"]]
           }
         }
       },
@@ -231,30 +222,29 @@
       }
     ],
     "effects": [
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box"
+        "mega_showdown:costume_box_incineroar",
+        "mega_showdown:costume_box_incineroar",
+        "mega_showdown:costume_box_incineroar",
+        "mega_showdown:costume_box_incineroar",
+        "mega_showdown:costume_box_incineroar",
+        "mega_showdown:costume_box_incineroar",
+        "mega_showdown:costume_box_incineroar",
+        "mega_showdown:costume_box_incineroar",
+        "mega_showdown:costume_box_incineroar",
+        "mega_showdown:costume_box_incineroar",
+        "mega_showdown:costume_box_incineroar",
+        "mega_showdown:costume_box_incineroar",
+        "mega_showdown:costume_box_incineroar",
+        "mega_showdown:costume_box_incineroar",
+        "mega_showdown:costume_box_incineroar",
+        "mega_showdown:costume_box_incineroar",
+        "mega_showdown:costume_box_incineroar",
+        "mega_showdown:costume_box_incineroar",
+        "mega_showdown:costume_box_incineroar",
+        "mega_showdown:costume_box_incineroar",
+        "mega_showdown:costume_box_incineroar",
+        "mega_showdown:costume_box_incineroar",
+        "mega_showdown:costume_box_incineroar",
+        "mega_showdown:costume_box_incineroar"
     ]
   }

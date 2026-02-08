@@ -90,7 +90,7 @@
     {
       "name": "Rival",
       "aspects": ["rival-costume"],
-      "pokedex": ["cobblemon.species.rival.desc"]
+      "pokedex": ["cobblemon.species.incineroar-rival.desc"]
     },
     {
       "name": "Santa",
@@ -101,11 +101,6 @@
       "name": "Team-Rocket",
       "aspects": ["team_rocket-costume"],
       "pokedex": ["cobblemon.species.incineroar-team_rocket.desc"]
-    },
-    {
-      "name": "Team-Rainbow-Rocket",
-      "aspects": ["team_rainbow_rocket-costume"],
-      "pokedex": ["cobblemon.species.incineroar-team_rainbow_rocket.desc"]
     },
     {
       "name": "Team-Rainbow-Anime",
@@ -125,7 +120,7 @@
     {
       "name": "PMD",
       "aspects": ["pmd-costume"],
-      "pokedex": ["cobblemon.species.incineroar-detective.desc"]
+      "pokedex": ["cobblemon.species.incineroar-pmd.desc"]
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "minecraft": {
-    "particle_apply": "minecraft:enchant",
-    "particle_revert": "minecraft:white_ash",
+    "particle_apply": "minecraft:crimson_spore",
+    "particle_revert": "minecraft:crimson_spore",
     "sound_revert": {
-      "sound_id": "minecraft:entity.allay.item_taken"
+      "sound_id": "minecraft:item.armor.equip_leather"
     },
     "sound_apply": {
-      "sound_id": "minecraft:entity.allay.ambient_without_item"
+      "sound_id": "minecraft:item.armor.equip_leather"
     },
     "animations": {
       "animations_revert": ["cry"],

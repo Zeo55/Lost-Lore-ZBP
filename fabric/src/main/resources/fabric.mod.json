@@ -2,11 +2,21 @@
   "schemaVersion": 1,
   "id": "lost_lore",
   "version": "${version}",
-  "name": "Lost Lore",
+  "name": "Cobblemon: Lost Lore",
   "description": "This addon aims to add the extended canon that is the anime/movies, side games & manga to Cobblemon!",
   "authors": [
-    "YajatKaul",
     "Lvnatic"
+  ],
+  "contributors": [
+    "BlazeHydroxide",
+    "HeyImBlue",
+    "JoeSeff",
+    "Omniv",
+    "Sanji1",
+    "Sevonents",
+    "YajatKaul",
+    "Zalno",
+    "Zayden"
   ],
   "contact": {
     "homepage": "https://github.com/Lvnatic-T/Lost-Lore"
@@ -35,5 +45,20 @@
     "cobblemon": ">=1.7.3",
     "mega_showdown": ">=1.6.9+1.7.3+1.21.1",
     "accessories": ">=1.1.0-beta.52+1.21.1"
+  },
+  "recommends": {},
+  "breaks": {
+    "mr_hiddenmons_cobblemon": "*"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.modrinth": "https://modrinth.com/mod/allthemons-x-mega-showdown",
+        "modmenu.discord": "https://discord.gg/y7fXYrHkpV",
+        "modmenu.kofi": "https://ko-fi.com/allthemons",
+        "modmenu.license": "https://docs.google.com/document/d/1tPvYDxqcby4cU0LlDGnxFKE-_fZ7GSg733G7MBN8Dos/edit?tab=t.y0gf8gi0vspf",
+        "modmenu.source": "https://github.com/Lvnatic-T/Lost-Lore"
+      }
+    }
   }
 }

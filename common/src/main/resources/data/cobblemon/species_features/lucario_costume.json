@@ -1,7 +1,7 @@
 {
   "type": "choice",
   "keys": [
-    "costume"
+    "lucario_costume"
   ],
   "default": "no",
   "choices": [

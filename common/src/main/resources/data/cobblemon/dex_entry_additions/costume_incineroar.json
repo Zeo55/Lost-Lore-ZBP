@@ -44,6 +44,58 @@
     {
       "displayForm": "Team-Skull",
       "unlockForms": ["team-skull"]
+    },
+    {
+      "displayForm": "Astronaut",
+      "unlockForms": ["astronaut"]
+    },
+    {
+      "displayForm": "Band",
+      "unlockForms": ["band"]
+    },
+    {
+      "displayForm": "Bionicle",
+      "unlockForms": ["bionicle"]
+    },
+    {
+      "displayForm": "Cafe",
+      "unlockForms": ["cafe"]
+    },
+    {
+      "displayForm": "Detective",
+      "unlockForms": ["detective"]
+    },
+    {
+      "displayForm": "El-Brave",
+      "unlockForms": ["el-brave"]
+    },
+    {
+      "displayForm": "Rival",
+      "unlockForms": ["rival"]
+    },
+    {
+      "displayForm": "Santa",
+      "unlockForms": ["santa"]
+    },
+    {
+      "displayForm": "Team-Rocket",
+      "unlockForms": ["team-rocket"]
+    },
+    {
+      "displayForm": "Team-Rainbow-Rocket",
+      "unlockForms": ["team-rainbow-rocket"]
+    },
+    {
+      "displayForm": "Team-Rainbow-Anime",
+      "unlockForms": ["team-rainbow-anime"]
+    },
+    {
+      "displayForm": "Team-Magma",
+      "unlockForms": ["team-magma"]
+    },
+    {
+      "displayForm": "Team-Magma-ORAS",
+      "unlockForms": ["team-magma-oras"]
     }
   ]
 }

@@ -13,6 +13,19 @@
       "pan_pride-costume",
       "tekken-costume",
       "team_skull-costume",
+      "astronaut-costume",
+      "band-costume",
+      "bionicle-costume",
+      "cafe-costume",
+      "detective-costume",
+      "el_brave-costume",
+      "rival-costume",
+      "santa-costume",
+      "team_rocket-costume",
+      "team_rainbow_rocket-costume",
+      "team_rainbow_anime-costume",
+      "team_magma-costume",
+      "team_magma_oras-costume",
       "no-costume"
     ],
     "aspect_conditions": [
@@ -106,14 +119,131 @@
       },
       {
         "apply": {
-          "aspects": ["incineroar_costume=no"],
+          "aspects": ["incineroar_costume=astronaut"],
           "aspect": {
             "required_aspects": [["team_skull-costume"]]
+          }
+        }
+      },
+      {
+        "apply": {
+          "aspects": ["incineroar_costume=band"],
+          "aspect": {
+            "required_aspects": [["astronaut-costume"]]
+          }
+        }
+      },
+      {
+        "apply": {
+          "aspects": ["incineroar_costume=bionicle"],
+          "aspect": {
+            "required_aspects": [["band-costume"]]
+          }
+        }
+      },
+      {
+        "apply": {
+          "aspects": ["incineroar_costume=cafe"],
+          "aspect": {
+            "required_aspects": [["bionicle-costume"]]
+          }
+        }
+      },
+      {
+        "apply": {
+          "aspects": ["incineroar_costume=detective"],
+          "aspect": {
+            "required_aspects": [["cafe-costume"]]
+          }
+        }
+      },
+      {
+        "apply": {
+          "aspects": ["incineroar_costume=el_brave"],
+          "aspect": {
+            "required_aspects": [["detective-costume"]]
+          }
+        }
+      },
+      {
+        "apply": {
+          "aspects": ["incineroar_costume=rival"],
+          "aspect": {
+            "required_aspects": [["el_brave-costume"]]
+          }
+        }
+      },
+      {
+        "apply": {
+          "aspects": ["incineroar_costume=santa"],
+          "aspect": {
+            "required_aspects": [["rival-costume"]]
+          }
+        }
+      },
+      {
+        "apply": {
+          "aspects": ["incineroar_costume=team_rocket"],
+          "aspect": {
+            "required_aspects": [["santa-costume"]]
+          }
+        }
+      },
+      {
+        "apply": {
+          "aspects": ["incineroar_costume=team_rainbow_rocket"],
+          "aspect": {
+            "required_aspects": [["team_rocket-costume"]]
+          }
+        }
+      },
+      {
+        "apply": {
+          "aspects": ["incineroar_costume=team_rainbow_anime"],
+          "aspect": {
+            "required_aspects": [["team_rainbow_rocket-costume"]]
+          }
+        }
+      },
+      {
+        "apply": {
+          "aspects": ["incineroar_costume=team_magma"],
+          "aspect": {
+            "required_aspects": [["team_rainbow_anime-costume"]]
+          }
+        }
+      },
+      {
+        "apply": {
+          "aspects": ["incineroar_costume=team_magma_oras"],
+          "aspect": {
+            "required_aspects": [["team_magma-costume"]]
+          }
+        }
+      },
+      {
+        "apply": {
+          "aspects": ["incineroar_costume=no"],
+          "aspect": {
+            "required_aspects": [["team_magma_oras-costume"]]
           }
         }
       }
     ],
     "effects": [
+        "mega_showdown:costume_box",
+        "mega_showdown:costume_box",
+        "mega_showdown:costume_box",
+        "mega_showdown:costume_box",
+        "mega_showdown:costume_box",
+        "mega_showdown:costume_box",
+        "mega_showdown:costume_box",
+        "mega_showdown:costume_box",
+        "mega_showdown:costume_box",
+        "mega_showdown:costume_box",
+        "mega_showdown:costume_box",
+        "mega_showdown:costume_box",
+        "mega_showdown:costume_box",
         "mega_showdown:costume_box",
         "mega_showdown:costume_box",
         "mega_showdown:costume_box",

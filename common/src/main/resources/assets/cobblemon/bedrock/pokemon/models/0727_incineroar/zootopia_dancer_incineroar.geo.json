@@ -153,6 +153,14 @@
 					]
 				},
 				{
+					"name": "item_face",
+					"parent": "eyes",
+					"pivot": [0, 44.5, -3.25],
+					"locators": {
+						"item_face": [0, 44, -4]
+					}
+				},
+				{
 					"name": "eyebrows",
 					"parent": "head_angle",
 					"pivot": [0, 43.95, -3.95]
@@ -461,6 +469,14 @@
 					]
 				},
 				{
+					"name": "item_hat",
+					"parent": "head",
+					"pivot": [0, 40, 0.25],
+					"locators": {
+						"item_hat": [0, 48, 0]
+					}
+				},
+				{
 					"name": "shoulder_right_spikes",
 					"parent": "chest",
 					"pivot": [-9.75, 37, 0],
@@ -682,6 +698,17 @@
 					"cubes": [
 						{"origin": [-39.1, 35, 1.5], "size": [1, 1, 0], "uv": [114, 88], "mirror": true}
 					]
+				},
+				{
+					"name": "item",
+					"parent": "hand_right",
+					"pivot": [-30.5, 35, 0],
+					"locators": {
+						"item": {
+							"offset": [-32, 33, 0],
+							"rotation": [0, -87.5, 0]
+						}
+					}
 				},
 				{
 					"name": "shoulder_left1",

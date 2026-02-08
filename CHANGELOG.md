@@ -4,13 +4,16 @@
 - Yajat made it a mod
   - Items now show in creative, JEI/REI/EMI
   - Items are now translatable _if_ anyone wants to contribute more languages 
-  - _(lang file is located at `assets\lost_lore\lang\en_us.json`)_ 
+  - _(lang files are located at `assets\lost_lore\lang\en_us.json` & `assets\cobblemon\lang\en_us.json`)_ 
 ## Additions/Changes from ATM x MSD:
 - Added most Fanon content _(Shadow Lugia, Meta Groudon, Spiky-eared Pichu, Primal Dialga)_
+- Added all Megas _(Galarian Mega Slowbro, Shadow Mega Mewtwo X & Y)_
 - Added all costumes _(Lucario & Incineroar)_
 - Added all cosmetics _(Pledge Fragment, Ancient Light Ball, Water Shuriken, Red/Green Scarf)_
 - Recolored Time Gear to match the color in Mystery Dungeon
 - Fully reworked Shadow Energy & Pokémon - more info below
+## Added more Costumes for Incineroar (Fire Fits for Fire Cats):
+- Added Astronaut, Band, Bionicle, Cafe, Detective, El Brave, Rivals of Aether, Santa, Team Rocket (+Anime variant), Team Magma (+OR/AS variant) costumes!
 ## Shadow type, energy & forms rework:
 ### Shadow Type & Energy:
 - Added a new Shadow type which is super effective against every other type (except shadow itself 0.5x)

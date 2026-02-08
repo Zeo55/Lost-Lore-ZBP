@@ -108,8 +108,9 @@ public class LLItems {
     }
 
     private static RegistrySupplier<Item> registerNormal(String name) {
-        return ITEMS.register(name, () -> new Item(
-                        new Item.Properties().arch$tab(LLTabs.MAIN_TAB)
+        return ITEMS.register(name, () -> new MegaStone(
+                        new Item.Properties()
+                                .arch$tab(LLTabs.MAIN_TAB)
                 )
         );
     }

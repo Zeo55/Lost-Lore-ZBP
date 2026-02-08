@@ -7,7 +7,7 @@ license = "CC-BY-NC-SA-4.0"
 modId = "lost_lore"
 version = "${version}"
 displayName = "lost_lore"
-authors = "YajatKaul, Lvantic"
+authors = "YajatKaul, Lvnatic"
 description = '''
 This addon aims to add the extended canon that is the anime/movies, side games & manga to Cobblemon!
 '''
@@ -37,14 +37,14 @@ side = "BOTH"
 [[dependencies.lost_lore]]
 modId = "cobblemon"
 type = "required"
-versionRange = "[1.7.0, )"
+versionRange = "[1.7.3, )"
 ordering = "AFTER"
 side = "BOTH"
 
 [[dependencies.lost_lore]]
 modId = "mega_showdown"
 type = "required"
-versionRange = "[1.6.4+1.7+2.21.1,)"
+versionRange = "[1.6.9+1.7.3+1.21.1,)"
 ordering = "AFTER"
 side = "BOTH"
 

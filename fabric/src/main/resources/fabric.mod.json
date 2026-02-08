@@ -6,7 +6,7 @@
   "description": "This addon aims to add the extended canon that is the anime/movies, side games & manga to Cobblemon!",
   "authors": [
     "YajatKaul",
-    "Lvantic"
+    "Lvnatic"
   ],
   "contact": {
     "homepage": "https://github.com/Lvnatic-T/Lost-Lore"
@@ -32,8 +32,8 @@
     "java": ">=21",
     "architectury": ">=13.0.8",
     "fabric-api": "*",
-    "cobblemon": ">=1.7",
-    "mega_showdown": ">=1.2+1.7+1.21.1",
+    "cobblemon": ">=1.7.3",
+    "mega_showdown": ">=1.6.9+1.7.3+1.21.1",
     "accessories": ">=1.1.0-beta.52+1.21.1"
   }
 }

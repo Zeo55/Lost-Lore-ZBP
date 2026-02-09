@@ -1,31 +1,6 @@
 {
     "itemgroup.lost_lore.lostlore_items": "Lost Lore",
-  
-    "tooltip.lost_lore.costume.tooltip": "§9Costume§r",
-    "tooltip.lost_lore.cosmetic.tooltip": "§9Cosmetic§r",
-    "tooltip.lost_lore.formchange.tooltip": "§9Form Changes§r",
-    "tooltip.lost_lore.megaevolution.tooltip": "§9Mega Evolution§r",
-  
-    "tooltip.lost_lore.ancient_light_ball.tooltip": "§7A rare relic from a distant time - it has a strange effect on female Pichu§r",
-    "tooltip.lost_lore.binding_armor.tooltip": "§7Focuses and restrains Mewtwo's Powers by covering him with a Binding Armor Set§r",
-    "tooltip.lost_lore.corrupted_wish.tooltip": "§7A wish tag granted by Jirachi, tainted by evil intentions - it turns Groudon into a Virus like Creature§r",
-    "tooltip.lost_lore.costume_box_incineroar.tooltip": "§7A Box full of Incineroar's favorite costumes§r",
-    "tooltip.lost_lore.costume_box_lucario.tooltip": "§7A Box full of Lucario's favorite costumes§r",
-    "tooltip.lost_lore.dark_tyranitarium_z.tooltip": "§7Z-Crystal associated with the Black Tyranitar and allows it to upgrade its Rock Wrecker into the special Z-Move Kaiju Cataclysm§r",
-    "tooltip.lost_lore.dream_catcher.tooltip": "§7An Item associated with Mismagius which allows it to possess the power of dreams and fuse with Rayquaza§r",
-    "tooltip.lost_lore.green_scarf.tooltip": "§7A scarf typically worn by the Mystery Dungeon Team§r",
-    "tooltip.lost_lore.pledge_fragment.tooltip": "§7A piece of a rock where pledges are made. It has a strange effect on Keldeo§r",
-    "tooltip.lost_lore.red_scarf.tooltip": "§7A scarf typically worn by the Mystery Dungeon Team§r",
-    "tooltip.lost_lore.ripped_cape.tooltip": "§7A torn cape bearing the Pokédex number of Celebi, particularly liked by Zarude§r",
-    "tooltip.lost_lore.shadow_energy.tooltip": "§7It corrupts some Pokémon with its strange Aura§r",
-    "tooltip.lost_lore.shadow_gem.tooltip": "§7A faded gem that does nothing on its own§r",
-    "tooltip.lost_lore.shadow_mewtwonite_x.tooltip": "§7This corrupted Megastone allows Shadow Mewtwo to Mega Evolve into Shadow Mega X§r",
-    "tooltip.lost_lore.shadow_mewtwonite_y.tooltip": "§7This corrupted Megastone allows Shadow Mewtwo to Mega Evolve into Shadow Mega Y§r",
-    "tooltip.lost_lore.shadowium_z.tooltip": "§7Z-Crystal associated with the Shadow type and allows Pokémon to upgrade their Shadow-type moves to Z-Moves§r",
-    "tooltip.lost_lore.slowbrogonite.tooltip": "§7Allows Galarian Slowbro to Mega Evolve into Galarian Mega Slowbro§r",
-    "tooltip.lost_lore.time_gear.tooltip": "§7When resonating with Dialga, it unshackles its Primal instincts§r",
-    "tooltip.lost_lore.water_shuriken.tooltip": "§7A rare shuriken that allows you to change the appearance of Battle Bond Greninja§r",
-  
+
     "item.lost_lore.ancient_light_ball": "§5Ancient Light Ball§r",
     "item.lost_lore.binding_armor": "§5Binding Armor§r",
     "item.lost_lore.corrupted_wish": "§5Corrupted Wish§r",
@@ -46,5 +21,26 @@
     "item.lost_lore.shadowium_z": "Shadowium-Z",
     "item.lost_lore.slowbrogonite": "Slowbrogonite",
     "item.lost_lore.time_gear": "§5Time Gear§r",
-    "item.lost_lore.water_shuriken": "§5Water Shuriken§r"
+    "item.lost_lore.water_shuriken": "§5Water Shuriken§r",
+
+    "tooltip.lost_lore.ancient_light_ball.tooltip": "§7A rare relic from a distant time - it has a strange effect on female Pichu§r",
+    "tooltip.lost_lore.binding_armor.tooltip": "§7Focuses and restrains Mewtwo's Powers by covering him with a Binding Armor Set§r",
+    "tooltip.lost_lore.corrupted_wish.tooltip": "§7A wish tag granted by Jirachi, tainted by evil intentions - it turns Groudon into a Virus like Creature§r",
+    "tooltip.lost_lore.costume_box_incineroar.tooltip": "§7A Box full of Incineroar's favorite costumes§r",
+    "tooltip.lost_lore.costume_box_lucario.tooltip": "§7A Box full of Lucario's favorite costumes§r",
+    "tooltip.lost_lore.dark_tyranitarium_z.tooltip": "§7Z-Crystal associated with the Black Tyranitar and allows it to upgrade its Rock Wrecker into the special Z-Move Kaiju Cataclysm§r",
+    "tooltip.lost_lore.dream_catcher.tooltip": "§7An Item associated with Mismagius which allows it to possess the power of dreams and fuse with Rayquaza§r",
+    "tooltip.lost_lore.green_scarf.tooltip": "§7A scarf typically worn by the Mystery Dungeon Team§r",
+    "tooltip.lost_lore.pledge_fragment.tooltip": "§7A piece of a rock where pledges are made. It has a strange effect on Keldeo§r",
+    "tooltip.lost_lore.red_scarf.tooltip": "§7A scarf typically worn by the Mystery Dungeon Team§r",
+    "tooltip.lost_lore.ripped_cape.tooltip": "§7A torn cape bearing the Pokédex number of Celebi, particularly liked by Zarude§r",
+    "tooltip.lost_lore.shadow_energy.tooltip": "§7It corrupts some Pokémon with its strange Aura§r",
+    "tooltip.lost_lore.shadow_gem.tooltip": "§7A faded gem that does nothing on its own§r",
+    "tooltip.lost_lore.shadow_mewtwonite_x.tooltip": "§7This corrupted Megastone allows Shadow Mewtwo to Mega Evolve into Shadow Mega X§r",
+    "tooltip.lost_lore.shadow_mewtwonite_y.tooltip": "§7This corrupted Megastone allows Shadow Mewtwo to Mega Evolve into Shadow Mega Y§r",
+    "tooltip.lost_lore.shadowium_z.tooltip": "§7Z-Crystal associated with the Shadow type and allows Pokémon to upgrade their Shadow-type moves to Z-Moves§r",
+    "tooltip.lost_lore.slowbrogonite.tooltip": "§7Allows Galarian Slowbro to Mega Evolve into Galarian Mega Slowbro§r",
+    "tooltip.lost_lore.time_gear.tooltip": "§7When resonating with Dialga, it unshackles its Primal instincts§r",
+    "tooltip.lost_lore.water_shuriken.tooltip": "§7A rare shuriken that allows you to change the appearance of Battle Bond Greninja§r"
+
   }

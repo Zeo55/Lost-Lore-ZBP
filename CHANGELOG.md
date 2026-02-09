@@ -1,10 +1,11 @@
-# 1.9.0 Changelog
+# v2.0 Changelog
 ## Miscellaneous:
 - Mega Showdown 1.6.9+ is now a hard dependency
 - Yajat made it a mod
   - Items now show in creative, JEI/REI/EMI
   - Items are now translatable _if_ anyone wants to contribute more languages 
-  - _(lang files are located at `assets\lost_lore\lang\en_us.json` & `assets\cobblemon\lang\en_us.json`)_ 
+  - _(language files are located at `assets\lost_lore\lang\en_us.json` & `assets\cobblemon\lang\en_us.json`)_ 
+  - Added German localization!
 ## Additions/Changes from ATM x MSD:
 - Moved most Fanon content from to Lost Lore: 
   - _Shadow Lugia, Meta Groudon, Spiky-eared Pichu, Primal Dialga_
@@ -22,4 +23,4 @@
 - It will stay fully compatible as before
 - Code for Armored/Shadow Mewtwo has been ported over but the new models aren't ready yet
 - Since I am not allowed to port over the old models from ATM x MSD, I decided to leave them in there for now
-- Meaning you have to have ATM x MSD installed for Shadow/Armored Mewtwo to show visually
+- Meaning you have to have ATM x MSD installed for Shadow/Armored Mewtwo to visually show

@@ -2,15 +2,15 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "ddd",
-    "dgy",
+    "dGy",
     "yyy"
   ],
   "key": {
     "d": {
       "item": "mega_showdown:dark_tera_shard"
     },
-    "g": {
-      "item": "cobblemon:dark_gem"
+    "G": {
+      "item": "lost_lore:shadow_gem"
     },
     "y": {
       "item": "cobblemon:black_apricorn"

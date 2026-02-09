@@ -1,4 +1,4 @@
-# v2.0 Changelog
+# Changelog [v2.0]
 ## Miscellaneous:
 - Mega Showdown 1.6.9+ is now a hard dependency
 - Yajat made it a mod

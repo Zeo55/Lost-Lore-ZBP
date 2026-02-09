@@ -53,10 +53,9 @@
   "custom": {
     "modmenu": {
       "links": {
-        "modmenu.modrinth": "https://modrinth.com/mod/allthemons-x-mega-showdown",
+        "modmenu.modrinth": "https://modrinth.com/mod/poketwo",
         "modmenu.discord": "https://discord.gg/y7fXYrHkpV",
         "modmenu.kofi": "https://ko-fi.com/allthemons",
-        "modmenu.license": "https://docs.google.com/document/d/1tPvYDxqcby4cU0LlDGnxFKE-_fZ7GSg733G7MBN8Dos/edit?tab=t.y0gf8gi0vspf",
         "modmenu.source": "https://github.com/Lvnatic-T/Lost-Lore"
       }
     }

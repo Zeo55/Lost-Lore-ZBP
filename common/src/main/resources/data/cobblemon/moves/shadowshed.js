@@ -4,7 +4,7 @@
 	basePower: 0,
 	category: "Status",
 	name: "Shadow Shed",
-	pp: 15,
+	pp: 5,
 	priority: 0,
 	flags: {protect: 1, reflectable: 1, bypasssub: 1, metronome: 1},
 	onHit(target, source, move) {

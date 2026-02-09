@@ -4,7 +4,7 @@
 	basePower: 0,
 	category: "Status",
 	name: "Shadow Down",
-	pp: 40,
+	pp: 10,
 	priority: 0,
 	flags: {protect: 1, distance: 1, bypasssub: 1, allyanim: 1, metronome: 1},
 	boosts: {

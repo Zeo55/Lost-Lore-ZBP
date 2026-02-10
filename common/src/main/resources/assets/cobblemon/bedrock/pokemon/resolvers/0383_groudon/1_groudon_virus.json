@@ -3,21 +3,21 @@
   "order": 1,
   "variations": [
     {
-      "aspects": [
-        "virus"
-      ],
-      "poser": "cobblemon:groudon",
+      "aspects": ["virus"],
+      "poser": "cobblemon:virusgroudon",
       "model": "cobblemon:virusgroudon.geo",
       "texture": "cobblemon:textures/pokemon/0383_groudon/virusgroudon.png",
       "layers": [
         {
           "name": "eyes",
           "emissive": true,
+          "translucent": true,
           "texture": "cobblemon:textures/pokemon/0383_groudon/virusgroudon_emissive_eyes.png"
         },
         {
           "name": "emissive",
           "emissive": true,
+          "translucent": true,
           "texture": {
             "frames": [
               "cobblemon:textures/pokemon/0383_groudon/animated/virusgroudon_emissive.png",
@@ -44,20 +44,19 @@
       ]
     },
     {
-      "aspects": [
-        "virus",
-        "shiny"
-      ],
+      "aspects": ["virus", "shiny"],
       "texture": "cobblemon:textures/pokemon/0383_groudon/virusgroudon_shiny.png",
       "layers": [
         {
           "name": "eyes",
           "emissive": true,
+          "translucent": true,
           "texture": "cobblemon:textures/pokemon/0383_groudon/virusgroudon_emissive_eyes_shiny.png"
         },
         {
           "name": "emissive",
           "emissive": true,
+          "translucent": true,
           "texture": {
             "frames": [
               "cobblemon:textures/pokemon/0383_groudon/animated_shiny/virusgroudon_emissive_shiny.png",

@@ -11,25 +11,75 @@
       "texture": "cobblemon:textures/pokemon/0383_groudon/virusgroudon.png",
       "layers": [
         {
+          "name": "eyes",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0383_groudon/virusgroudon_emissive_eyes.png"
+        },
+        {
           "name": "emissive",
           "emissive": true,
-          "texture": "cobblemon:textures/pokemon/0383_groudon/virusgroudon_emissive.png",
-          "translucent": true
+          "texture": {
+            "frames": [
+              "cobblemon:textures/pokemon/0383_groudon/animated/virusgroudon_emissive.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated/virusgroudon_emissive2.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated/virusgroudon_emissive3.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated/virusgroudon_emissive4.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated/virusgroudon_emissive5.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated/virusgroudon_emissive6.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated/virusgroudon_emissive7.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated/virusgroudon_emissive8.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated/virusgroudon_emissive9.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated/virusgroudon_emissive8.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated/virusgroudon_emissive7.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated/virusgroudon_emissive6.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated/virusgroudon_emissive5.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated/virusgroudon_emissive4.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated/virusgroudon_emissive3.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated/virusgroudon_emissive2.png"
+            ],
+            "fps": 5,
+            "loop": true
+          }
         }
       ]
     },
     {
       "aspects": [
-        "shiny",
-        "virus"
+        "virus",
+        "shiny"
       ],
-      "texture": "cobblemon:textures/pokemon/0383_groudon/virusgroudon.png",
+      "texture": "cobblemon:textures/pokemon/0383_groudon/virusgroudon_shiny.png",
       "layers": [
+        {
+          "name": "eyes",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0383_groudon/virusgroudon_emissive_eyes_shiny.png"
+        },
         {
           "name": "emissive",
           "emissive": true,
-          "texture": "cobblemon:textures/pokemon/0383_groudon/virusgroudon_emissive.png",
-          "translucent": true
+          "texture": {
+            "frames": [
+              "cobblemon:textures/pokemon/0383_groudon/animated_shiny/virusgroudon_emissive_shiny.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated_shiny/virusgroudon_emissive2_shiny.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated_shiny/virusgroudon_emissive3_shiny.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated_shiny/virusgroudon_emissive4_shiny.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated_shiny/virusgroudon_emissive5_shiny.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated_shiny/virusgroudon_emissive6_shiny.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated_shiny/virusgroudon_emissive7_shiny.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated_shiny/virusgroudon_emissive8_shiny.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated_shiny/virusgroudon_emissive9_shiny.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated_shiny/virusgroudon_emissive8_shiny.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated_shiny/virusgroudon_emissive7_shiny.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated_shiny/virusgroudon_emissive6_shiny.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated_shiny/virusgroudon_emissive5_shiny.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated_shiny/virusgroudon_emissive4_shiny.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated_shiny/virusgroudon_emissive3_shiny.png",
+              "cobblemon:textures/pokemon/0383_groudon/animated_shiny/virusgroudon_emissive2_shiny.png"
+            ],
+            "fps": 5,
+            "loop": true
+          }
         }
       ]
     }

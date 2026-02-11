@@ -5,7 +5,7 @@
   "aspect_conditions": {
     "apply": {
       "aspects": ["shadows=true"],
-      "pokemon_properties": "tera_type=shadow friendship=0",
+      "pokemon_properties": "tera_type=shadow friendship=0 sh_shadow",
       "aspect": {
         "blacklist_aspects": [
           ["shadows"],

@@ -22,10 +22,10 @@
         "speed": 130
       },
       "moves": [
-        "1:shadowblast",
-        "1:shadowdown",
-        "1:shadowshed",
-        "1:shadowstorm",
+        "form_change:shadowblast",
+        "form_change:shadowdown",
+        "form_change:shadowshed",
+        "form_change:shadowstorm",
         "1:confusion",
         "1:disable",
         "1:barrier",

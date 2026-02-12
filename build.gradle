@@ -91,12 +91,21 @@ subprojects {
 publishMods {
     changelog = file("CHANGELOG.md").text
     type = STABLE
-    dryRun = env.MODRINTH_TOKEN.value == null
+    dryRun = env.MODRINTH_TOKEN.value == null || env.CURSEFORGE_TOKEN.value == null
 
     def mrOptions = modrinthOptions {
         accessToken = env.MODRINTH_TOKEN.value
         projectId = project.modrinth_id
         minecraftVersions.add("1.21.1")
+    }
+
+    def cfOptions = curseforgeOptions {
+        accessToken = env.CURSEFORGE_TOKEN.value
+        projectId = project.curseforge_id
+        clientRequired = true
+        serverRequired = true
+        minecraftVersions.add("1.21.1")
+        projectSlug = "lost-lore"
     }
 
     modrinth("modrinthFabric") {
@@ -108,7 +117,7 @@ publishMods {
         requires("accessories")
         requires("architectury-api")
         requires("owo-lib")
-        requires("mega_showdown")
+        requires("cobblemon-mega-showdown")
     }
     modrinth("modrinthNeoForge") {
         from mrOptions
@@ -118,7 +127,29 @@ publishMods {
         requires("accessories")
         requires("architectury-api")
         requires("owo-lib")
-        requires("mega_showdown")
+        requires("cobblemon-mega-showdown")
+    }
+
+    curseforge("curseforgeFabric") {
+        from cfOptions
+        file project(":fabric")
+        modLoaders.add("fabric")
+        requires("fabric-api")
+        requires("cobblemon")
+        requires("accessories")
+        requires("architectury-api")
+        requires("owo-lib")
+        requires("cobblemon-mega-showdown")
+    }
+
+    curseforge("curseforgeNeoForge") {
+        from cfOptions
+        file project(":neoforge")
+        modLoaders.add("neoforge")
+        requires("cobblemon")
+        requires("accessories")
+        requires("architectury-api")
+        requires("owo-lib")
+        requires("cobblemon-mega-showdown")
     }
 }
-

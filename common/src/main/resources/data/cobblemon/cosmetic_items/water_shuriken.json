@@ -3,7 +3,7 @@
   "cosmeticItems": [
     {
       "consumedItem": "lost_lore:water_shuriken",
-      "aspects": ["cosmetic_item-water_shuriken"]
+      "aspects": ["ash"]
     }
   ]
 }

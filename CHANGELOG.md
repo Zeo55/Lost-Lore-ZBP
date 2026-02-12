@@ -1,10 +1,11 @@
 # Changelog [v2.0]
 ## Miscellaneous:
 - Mega Showdown 1.6.9+ is now a hard dependency
+- Added compatibility with Shadowed Hearts
 - Yajat made it a mod
   - Items now show in creative, JEI/REI/EMI
   - Items are now translatable _if_ anyone wants to contribute more languages 
-  - _(language files are located at `assets\lost_lore\lang\en_us.json` & `assets\cobblemon\lang\en_us.json`)_ 
+  - _(language files are located at `assets\lost_lore\lang\X.json` & `assets\cobblemon\lang\X.json`)_ 
   - Added German localization!
 ## Additions/Changes from ATM x MSD:
 - Moved most Fanon content from to Lost Lore: 
@@ -19,6 +20,8 @@
 - I suggest reading the modrinth page to see all of them _(Shadow-type section)_
 ## Updated Fire Fits for Fire Cats (more Costumes for Incineroar):
 - Added Astronaut, Band, Bionicle, Cafe, Detective, El Brave, Rivals of Aether, Santa, Team Rocket (+Anime variant), Team Magma (+OR/AS variant) costumes!
+## Added Magical Music Sheet:
+- Allows Meloetta to show her Pirouette Form permanently _(cosmetic)_
 ## In relation to ATM x MSD:
 - It will stay fully compatible as before
 - Code for Armored/Shadow Mewtwo has been ported over but the new models aren't ready yet

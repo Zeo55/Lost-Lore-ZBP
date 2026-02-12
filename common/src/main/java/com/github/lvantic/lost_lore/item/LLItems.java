@@ -43,6 +43,7 @@ public class LLItems {
     // No function
     public static RegistrySupplier<Item> ANCIENT_LIGHT_BALL = registerNormal("ancient_light_ball");
     public static RegistrySupplier<Item> GREEN_SCARF = registerNormal("green_scarf");
+    public static RegistrySupplier<Item> MAGICAL_MUSIC_SHEET = registerNormal("magical_music_sheet");
     public static RegistrySupplier<Item> PLEDGE_FRAGMENT = registerNormal("pledge_fragment");
     public static RegistrySupplier<Item> RED_SCARF = registerNormal("red_scarf");
     public static RegistrySupplier<Item> RIPPED_CAPE = registerNormal("ripped_cape");

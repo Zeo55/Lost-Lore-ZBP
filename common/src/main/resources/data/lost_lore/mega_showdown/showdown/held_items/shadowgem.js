@@ -1,0 +1,14 @@
+{
+	name: "Shadow Gem",
+	spritenum: 919,
+	isGem: true,
+	onSourceTryPrimaryHit(target, source, move) {
+		if (target === source || move.category === 'Status') return;
+		if (move.type === 'Shadow' && source.useItem()) {
+			source.addVolatile('gem');
+		}
+	},
+	num: 929,
+	gen: 5,
+	isNonstandard: "Past",
+}

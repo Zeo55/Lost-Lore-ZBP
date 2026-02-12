@@ -40,6 +40,10 @@ public class LLItems {
     public static RegistrySupplier<Item> DARK_TYRANITARIUM_Z = registerZCrystal("dark_tyranitarium_z");
     public static RegistrySupplier<Item> SHADOWIUM_Z = registerZCrystal("shadowium_z");
 
+    // Showdown Items
+    public static RegistrySupplier<Item> SHADOW_GEM = registerShowdown("shadow_gem");
+
+
     // No function
     public static RegistrySupplier<Item> ANCIENT_LIGHT_BALL = registerNormal("ancient_light_ball");
     public static RegistrySupplier<Item> GREEN_SCARF = registerNormal("green_scarf");
@@ -48,7 +52,6 @@ public class LLItems {
     public static RegistrySupplier<Item> RED_SCARF = registerNormal("red_scarf");
     public static RegistrySupplier<Item> RIPPED_CAPE = registerNormal("ripped_cape");
     public static RegistrySupplier<Item> WATER_SHURIKEN = registerNormal("water_shuriken");
-    public static RegistrySupplier<Item> SHADOW_GEM = registerNormal("shadow_gem");
 
     private static RegistrySupplier<Item> registerMegaStone(String name) {
         return ITEMS.register(name, () -> new MegaStone(
@@ -104,6 +107,15 @@ public class LLItems {
         return ITEMS.register(name, () -> new MegaStone(
                         new Item.Properties()
                                 .component(MegaShowdownDataComponents.REGISTRY_TYPE_COMPONENT.get(), RegistryLocator.Z_CRYSTAL_ITEM)
+                                .component(MegaShowdownDataComponents.RESOURCE_LOCATION_COMPONENT.get(), ResourceLocation.fromNamespaceAndPath(LostLore.MOD_ID, name))
+                                .arch$tab(LLTabs.MAIN_TAB)
+                )
+        );
+    }
+    private static RegistrySupplier<Item> registerShowdown(String name) {
+        return ITEMS.register(name, () -> new MegaStone(
+                        new Item.Properties()
+                                .component(MegaShowdownDataComponents.REGISTRY_TYPE_COMPONENT.get(), RegistryLocator.SHOWDOWN_ITEM)
                                 .component(MegaShowdownDataComponents.RESOURCE_LOCATION_COMPONENT.get(), ResourceLocation.fromNamespaceAndPath(LostLore.MOD_ID, name))
                                 .arch$tab(LLTabs.MAIN_TAB)
                 )

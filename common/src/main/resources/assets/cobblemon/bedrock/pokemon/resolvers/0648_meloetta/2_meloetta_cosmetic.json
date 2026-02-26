@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:meloetta",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["magical_music_sheet"],
+      "poser": "cobblemon:meloetta_pirouette",
+      "model": "cobblemon:meloetta_pirouette.geo",
+      "texture": "cobblemon:textures/pokemon/0648_meloetta/meloetta_pirouette.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "magical_music_sheet"],
+      "texture": "cobblemon:textures/pokemon/0648_meloetta/meloetta_pirouette_shiny.png"
+    }
+  ]
+}

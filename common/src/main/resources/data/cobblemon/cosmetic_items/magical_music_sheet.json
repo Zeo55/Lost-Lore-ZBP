@@ -3,7 +3,7 @@
   "cosmeticItems": [
     {
       "consumedItem": "lost_lore:magical_music_sheet",
-      "aspects": ["pirouette-forme"]
+      "aspects": ["magical_music_sheet"]
     }
   ]
 }

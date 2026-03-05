@@ -267,6 +267,7 @@
       "aspects": ["mega_y", "shadows"],
       "pokedex": ["cobblemon.species.mewtwo-shadow-mega-y.desc"],
       "abilities": ["shadowshield", "h:shadowshield"],
+      "dynamaxBlocked": true,
       "baseStats": {
         "hp": 106,
         "attack": 170,
@@ -283,6 +284,7 @@
       "aspects": ["mega_x", "shadows"],
       "pokedex": ["cobblemon.species.mewtwo-shadow-mega-x.desc"],
       "abilities": ["steadfast", "h:steadfast"],
+      "dynamaxBlocked": true,
       "baseStats": {
         "hp": 106,
         "attack": 210,

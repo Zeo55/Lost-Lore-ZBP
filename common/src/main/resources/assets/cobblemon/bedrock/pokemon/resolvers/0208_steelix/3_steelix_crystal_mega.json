@@ -4,7 +4,7 @@
   "variations": [
     {
       "aspects": [
-        "mega",
+        "mega_y",
         "crystal"
       ],
       "poser": "cobblemon:steelix_crystal",
@@ -20,7 +20,7 @@
     },
     {
       "aspects": [
-        "mega",
+        "mega_y",
         "crystal",
         "shiny"
       ],

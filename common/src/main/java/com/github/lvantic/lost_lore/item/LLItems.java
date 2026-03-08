@@ -17,6 +17,7 @@ public class LLItems {
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(LostLore.MOD_ID, Registries.ITEM);
 
     //Mega
+    public static RegistrySupplier<Item> CRYSTALLINE_STEELIXITE = registerMegaStone("crystalline_steelixite");
     public static RegistrySupplier<Item> SHADOW_MEWTWONITE_X = registerMegaStone("shadow_mewtwonite_x");
     public static RegistrySupplier<Item> SHADOW_MEWTWONITE_Y = registerMegaStone("shadow_mewtwonite_y");
     public static RegistrySupplier<Item> SLOWBROGONITE = registerMegaStone("slowbrogonite");

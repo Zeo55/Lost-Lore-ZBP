@@ -1,8 +1,12 @@
 {
   "cobblemon.type.shadow": "Crypto",
 
+  "cobblemon.ability.crystalline": "Kristallin",
+  "cobblemon.ability.crystalline.desc": "Attacken vom Typ Gestein nehmen den Typ Stahl an und ihre Stärke erhöht sich ein wenig.",
   "cobblemon.ability.frostywinds": "Eisiger Wind",
   "cobblemon.ability.frostywinds.desc": "Kalte Winde verstärken Genauigkeit und Schaden von Schnitt-Attacken",
+  "cobblemon.ability.hallofmirrors": "Spiegelsaal",
+  "cobblemon.ability.hallofmirrors.desc": "Wenn Lichtkanone benutzt wird verringert sich die Sp. Def des Ziels",
   "cobblemon.ability.shadowboost": "Crypto Boost",
   "cobblemon.ability.shadowboost.desc": "Die dunkle Aura um das Pokémon verstärkt superwirksame Attacken noch weiter",
   "cobblemon.ability.shadowguard": "Crypto Wache",

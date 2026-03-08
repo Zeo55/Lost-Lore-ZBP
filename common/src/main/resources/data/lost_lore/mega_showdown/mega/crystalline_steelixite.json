@@ -1,0 +1,15 @@
+{
+  "showdown_id": "crystalline_steelixite",
+  "pokemons": ["Steelix"],
+  "aspect_conditions": {
+    "apply": {
+      "aspects": ["mega_evolution=mega_y"],
+      "aspect": {
+          "required_aspects": [["crystal"]]
+        }
+     },
+    "revert": {
+      "aspects": ["mega_evolution=none"]
+    }
+  }
+}

@@ -1,9 +1,9 @@
 {
-  name: "Steelixite",
+  name: "Crystalline Steelixite",
   spritenum: 621,
-  megaStone: "Steelix-Mega",
-  megaEvolves: ["Steelix", "Steelix-Crystal"],
-  itemUser: ["Steelix"],
+  megaStone: "Steelix-Crystal-Mega",
+  megaEvolves: ["Steelix-Crystal"],
+  itemUser: ["Steelix-Crystal"],
   onTakeItem(item, source) {
   	const name = source.species.name;
   	const base = source.baseSpecies.baseSpecies;

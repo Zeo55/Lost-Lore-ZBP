@@ -1,6 +1,8 @@
 {
   "cobblemon.type.shadow": "Crypto",
 
+  "cobblemon.ability.frostywinds": "Eisiger Wind",
+  "cobblemon.ability.frostywinds.desc": "Kalte Winde verstärken Genauigkeit und Schaden von Schnitt-Attacken",
   "cobblemon.ability.shadowboost": "Crypto Boost",
   "cobblemon.ability.shadowboost.desc": "Die dunkle Aura um das Pokémon verstärkt superwirksame Attacken noch weiter",
   "cobblemon.ability.shadowguard": "Crypto Wache",

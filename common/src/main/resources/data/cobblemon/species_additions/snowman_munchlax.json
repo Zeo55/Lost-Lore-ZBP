@@ -5,13 +5,20 @@
       "name": "Snowman",
       "aspects": ["snowman"],
       "pokedex": ["cobblemon.species.munchlax-snowman.desc"],
-      "primaryType": "normal",
-      "secondaryType": "ice",
+      "primaryType": "ice",
       "abilities": [
         "icebody",
         "thickfat",
         "h:hustle"
       ],
+      "baseStats": {
+        "hp": 135,
+        "attack": 40,
+        "defence": 40,
+        "special_attack": 85,
+        "special_defence": 85,
+        "speed": 5
+      },
       "moves": [
         "1:odorsleuth",
         "1:tackle",

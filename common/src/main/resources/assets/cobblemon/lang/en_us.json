@@ -1,6 +1,8 @@
 {
   "cobblemon.type.shadow": "Shadow",
 
+  "cobblemon.ability.frostywinds": "Frosty Winds",
+  "cobblemon.ability.frostywinds.desc": "Cold winds boost the accuracy and power of wind moves",
   "cobblemon.ability.shadowboost": "Shadow Boost",
   "cobblemon.ability.shadowboost.desc": "The dark aura around the Pokémon powers up super effective moves even further",
   "cobblemon.ability.shadowguard": "Shadow Guard",

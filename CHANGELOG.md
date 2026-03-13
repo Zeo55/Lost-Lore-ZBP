@@ -1,27 +1,44 @@
-# Changelog v2.0
-### It's a full mod now! _(thanks to Yajat)_
-- Items now show in creative & JEI/REI/EMI _(sadly old items lose their textures and have to be recrafted for the last time!)_
-- Items are now translatable _if_ anyone wants to contribute more languages 
-- _(language files are located at `assets\lost_lore\lang\X.json` & `assets\cobblemon\lang\X.json`)_ 
-- Added German localization!
-### Moved most Fanon content from ATM x MSD to this: 
-- Shadow Lugia, Meta Groudon, Spiky-eared Pichu, Primal Dialga
-- Galarian Mega Slowbro, Shadow Mega Mewtwo X & Y
-- Lucario & Incineroar Costumes
-- Pledge Fragment, Water Shuriken, Red/Green Scarf cosmetics
-### Shadow type, energy & forms rework:
-- I decided to remove this whole section from the changelog itself since there's many - MANY big changes
-- I suggest reading the modrinth page to see all of them _(Shadow-type section)_
-### Regarding AllTheMons x Mega Showdown:
-- It will stay fully compatible as before
-- It will be compatible with ATM x MSD v3.3.0, the ones before that might cause issues with LL-2.0 specifically
-- Code for Armored/Shadow Mewtwo has been ported over but the new models aren't ready yet
-- Since I am not allowed to port over the old models from ATM x MSD, I decided to leave them in there for now
-- Meaning you have to have ATM x MSD installed for Shadow/Armored Mewtwo to visually show
-### Miscellaneous:
-- Added Astronaut, Band, Bionicle, Cafe, Detective, El Brave, Rivals of Aether, Santa, Team Rocket (+Anime variant), Team Magma (+OR/AS variant) Incineroar costumes!
-- Added Magical Music Sheet which allows Meloetta to show her Pirouette Form permanently
-- Recolored Time Gear to match the color in Mystery Dungeon
-- Mega Showdown 1.6.9+ is now a hard dependency
-- Fully reworked Shadow Energy, Type & Pokémon
-- Added compatibility with Shadowed Hearts
+~~# Changelog v2.1.0
+## Fixed multiplayer compatibility _(for FABRIC only yet)_:
+- Your Pokémon shouldn't disappear on Fabric anymore
+- These were Mega Showdown fixes so it requires at least 1.7.0 of MSD
+- On **NeoForge** You will still be prevented from joining the server, have to wait for MSD to fix it in a later release!
+## Updated many existing Move Pools:
+I consulted [Shadowboxed](https://modrinth.com/user/shadowboxed) - primarily known for his work on [Project Lazuli](https://modrinth.com/datapack/project-lazuli-for-cobblemon-preview-version), and he came up with maaaaaany great suggestions so big thanks to him! Most of the changes were made to give the mons distinct identities and reasons to use them over their regular variants. Attention to "lore accuracy" was of course also paid so no worries!
+### MT
+Most of these Changes are made to differentiate MT and MT2 a bit more, giving them unique identities and leaning more into how they worked in the games, with it being inferior to MT2 due to its Fire weakness and not being able to use the power of dragons.
+- Removed all fire-type moves, all Dragon-type attacks, Rock Polish, Shadow Claw, Spite & Ancient Power
+- Added Heavy Slam, Steel Beam, Charge Beam, Wild Charge, Body Press, Autotomize, Haze, Circle Throw & Brutal Swing
+- Made it way heavier - around Mega Steelix's weight _(for Heavy Slam and other weight based moves like Autotomize)_
+### MT2
+MT2 in the movie was developed by the main antagonist throwing infinite wads of cash at engineers without thinking after he had heard that MT1 went down to a fire-type move. Given as how it's imbued with enough draconic energy to use Dragon Pulse, have steel armor strong enough to absorb fire, and the ability to even use fire, certainly it had to have given up some coolant. Eerie Impulse is due to it messing with radio transmitters in the movie, and Clear Smog is kinda like MT1's Haze but not ice type.
+- Removed all Ice-type moves, Rock Polish, Shadow Claw, Spite, Ancient Power & Dragon Dance
+- Added Heat Crash, Heavy Slam, Crush Claw, Steel Beam, Supercell Slam, Eerie Impulse, Shift Gear, Autotomize, Charge Beam & Clear Smog
+- Made it way heavier _(for Heavy Slam and other weight based moves like Autotomize)_
+### Snowman Munchlax/Snorlax
+- Removed the normal type and made it mono ice type (since well, it's technically just snow haha)
+- Swapped its attack and special attack, swapped out some moves accordingly
+- Replaced its hidden ability (Furcoat) with a custom one (Frosty Winds) that boosts the accuracy and power of wind moves
+### Crystal Onix
+I don't wanna go into the whole Breaking Bad reference saying that minerals, crystals and rock are not the same - so I won't. The entire line was changed to give it more of a unique identity and have some fun playing around with different abilities _(honestly the custom abilities Shadowboxed suggested sounded cool and I wanted to code them so I might as well just use them xD)_.
+- Changed to be a mono Steel type
+- Mirror Armor as an alternative ability to Water absorb
+- Added some steel moves and Power Gem to its move pool
+### Crystal Steelix
+- Added some moves like Power Gem & Flash Cannon to its move pool
+- Added Crystalline (Rock type moves become steel type) as an alternative ability
+### Crystal Mega Steelix
+- Now Requires Crystalline Steelixite _(due to it having custom Stats & Ability)_
+- Swapped its attack and special attack
+- Added Hall of Mirrors (Using Flash Cannon lower the targets sp. def)
+## New Icon for Lost Lore:
+- Updated the Icon - big thanks to [Dogtor Bloo](https://modrinth.com/user/dogtorbloo)!
+- It's a homage to the first Pokémon movie, the new aromored Mewtwo model that will be added soon, as well as the first Pokémon that were ever added to this addon - the starter clones! 
+- Man this addon has really come a loooong way from being _just a side project I work on to relieve some stress_
+## Miscellaneous & General fixes:
+- Updated Lucario resolvers for compatibility with Navas ZA
+- Due to the way Navas implements it, you **can't** Mega Z Lucario in a costume. Only fixable once it gets integrated into MSD itself
+- Fixed not being able to land and dismount Illusionary Rayquaza
+- Fixed Magical Music Sheet blocking Pirouette form change from triggering
+- Fixed Water Shuriken blocking Battle Bond from triggering
+- Fixed Shadow Mega Mewtwo X/Y being able to Dynamax

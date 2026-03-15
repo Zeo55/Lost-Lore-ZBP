@@ -38,7 +38,8 @@ I don't wanna go into the whole Breaking Bad reference saying that minerals, cry
 ## Miscellaneous & General fixes:
 - Updated Lucario resolvers for compatibility with Navas ZA
 - Due to the way Navas implements it, you **can't** Mega Z Lucario in a costume. Only fixable once it gets integrated into MSD itself
-- Fixed not being able to land and dismount Illusionary Rayquaza
+- Fixed Shadow Mewtwo's Shadow Boost ability setting all non-shadow moves to 0 damage
 - Fixed Magical Music Sheet blocking Pirouette form change from triggering
+- Fixed not being able to land and dismount Illusionary Rayquaza
 - Fixed Water Shuriken blocking Battle Bond from triggering
 - Fixed Shadow Mega Mewtwo X/Y being able to Dynamax

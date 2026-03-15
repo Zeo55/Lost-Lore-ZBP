@@ -3,6 +3,8 @@
 
   "cobblemon.ability.crystalline": "Kristallin",
   "cobblemon.ability.crystalline.desc": "Attacken vom Typ Gestein nehmen den Typ Stahl an und ihre Stärke erhöht sich ein wenig.",
+  "cobblemon.ability.filmscript": "Drehbuch",
+  "cobblemon.ability.filmscript.desc": "Das Drehbuch des Films verlangt massiven Schaden gegen Helden",
   "cobblemon.ability.frostywinds": "Eisiger Wind",
   "cobblemon.ability.frostywinds.desc": "Kalte Winde verstärken Genauigkeit und Schaden von Schnitt-Attacken",
   "cobblemon.ability.hallofmirrors": "Spiegelsaal",
@@ -13,6 +15,8 @@
   "cobblemon.ability.shadowguard.desc": "Ein dunkler Umhang, der den Schaden reduziert, den das Pokémon erleidet, solange seine KP voll sind",
   "cobblemon.ability.shadowpressure": "Crypto Erzwinger",
   "cobblemon.ability.shadowpressure.desc": "Setzt andere Pokémon mit seiner schattenhaften Aura unter Druck, wodurch sie mehr PP verbrauchen, um ihre Attacken einzusetzen",
+
+  "cobblemon.battle.activate.filmscript": "Das Drehbuch verlangt, dass %1$s den Helden auslöscht!",
 
   "cobblemon.move.blackvortex": "Schwarzer Wirbel",
   "cobblemon.move.blackvortex.desc": "Ein mächtiger Wirbel aus Crypto Energie.",

@@ -19,7 +19,7 @@
   "aspects": [],
   "abilities": [
     "flashfire",
-    "h:flashfire"
+    "h:filmscript"
   ],
   "eggGroups": [
     "undiscovered"
@@ -45,7 +45,7 @@
   "catchRate": 30,
   "eggCycles": 120,
   "baseFriendship": 35,
-  "baseScale": 0.71,
+  "baseScale": 1.01,
   "hitbox": {
     "width": 2.1,
     "height": 4.20,

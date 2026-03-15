@@ -43,7 +43,7 @@
   "catchRate": 30,
   "eggCycles": 120,
   "baseFriendship": 35,
-  "baseScale": 0.71,
+  "baseScale": 0.91,
   "hitbox": {
     "width": 2.1,
     "height": 4.20,

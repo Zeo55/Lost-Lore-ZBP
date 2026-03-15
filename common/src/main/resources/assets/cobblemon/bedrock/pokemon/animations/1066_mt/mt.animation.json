@@ -1653,16 +1653,9 @@
 				}
 			}
 		},
-		"animation.mt.defaultspeed": {
-			"loop": true,
-			"bones": {
-				"ironthorns": {
-					"position": [0, 0, "0-query.anim_time *90 *0.19"]
-				}
-			}
-		},
 		"animation.mt.mouth_open": {
-			"animation_length": 3.6667,
+			"loop": true,
+			"animation_length": 1.337,
 			"bones": {
 				"chest": {
 					"rotation": [10, 0, 0]

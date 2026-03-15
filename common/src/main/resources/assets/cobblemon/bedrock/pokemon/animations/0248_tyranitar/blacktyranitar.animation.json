@@ -21,7 +21,8 @@
 			}
 		},
 		"animation.blacktyranitar.mouth_open": {
-			"animation_length": 3.6667,
+			"loop": true,
+			"animation_length": 1.337,
 			"bones": {
 				"chest": {
 					"rotation": [10, 0, 0]

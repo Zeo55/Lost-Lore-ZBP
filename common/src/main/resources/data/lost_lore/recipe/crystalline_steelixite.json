@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " c ",
+    "brb",
+    " i "
+  ],
+  "key": {
+    "c": {
+      "item": "cobblemon:amethyst_shard"
+    },
+    "r": {
+      "item": "mega_showdown:steelixite"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "i": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "id": "lost_lore:crystalline_steelixite"
+  }
+}

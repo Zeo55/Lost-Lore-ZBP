@@ -24,13 +24,16 @@ I don't wanna go into the whole Breaking Bad reference saying that minerals, cry
 - Changed to be a mono Steel type
 - Mirror Armor as an alternative ability to Water absorb
 - Added some steel moves and Power Gem to its move pool
+- 50 BST increase
 ### Crystal Steelix
 - Added some moves like Power Gem & Flash Cannon to its move pool
 - Added Crystalline (Rock type moves become steel type) as an alternative ability
+- 50 BST increase
 ### Crystal Mega Steelix
 - Now Requires Crystalline Steelixite _(due to it having custom Stats & Ability)_
 - Swapped its attack and special attack
 - Added Hall of Mirrors (Using Flash Cannon lower the targets sp. def)
+- 50 BST increase
 ## New Icon for Lost Lore:
 - Updated the Icon - big thanks to [Dogtor Bloo](https://modrinth.com/user/dogtorbloo)!
 - It's a homage to the first Pokémon movie, the new aromored Mewtwo model that will be added soon, as well as the first Pokémon that were ever added to this addon - the starter clones! 

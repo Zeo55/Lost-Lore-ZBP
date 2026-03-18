@@ -11,6 +11,14 @@
         "waterabsorb",
         "crystalline"
 	  ],
+      "baseStats": {
+        "hp": 105,
+        "attack": 105,
+        "defence": 200,
+        "special_attack": 55,
+        "special_defence": 65,
+        "speed": 30
+      },
       "moves": [
         "1:thunderfang",
         "1:icefang",
@@ -199,10 +207,10 @@
         "hallofmirrors"
       ],
       "baseStats": {
-        "hp": 75,
+        "hp": 105,
         "attack": 55,
         "defence": 230,
-        "special_attack": 125,
+        "special_attack": 145,
         "special_defence": 95,
         "speed": 30
       },

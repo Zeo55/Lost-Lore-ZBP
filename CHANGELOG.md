@@ -5,7 +5,7 @@
 - On **NeoForge** you will still be prevented from joining the server, have to wait for MSD to fix it in a later release! _(a temporary workaround is also to join a singleplayer world first and then the server)_
 ## New Icon for Lost Lore:
 - Updated the Icon - big thanks to [Dogtor Bloo](https://modrinth.com/user/dogtorbloo)!
-- It's a homage to the first Pokémon movie, the new aromored Mewtwo model that will be added soon, as well as the first Pokémon that were ever added to this addon - the starter clones!
+- It's a homage to the first Pokémon movie, the new armored Mewtwo model that will be added soon, as well as the first Pokémon that were ever added to this addon - the starter clones!
 - Man this addon has really come a loooong way from being _just a side project I work on to relieve some stress_
 ## Miscellaneous & General fixes:
 - Updated Lucario resolvers for compatibility with Navas ZA

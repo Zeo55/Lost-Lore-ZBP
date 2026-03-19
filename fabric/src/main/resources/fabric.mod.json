@@ -48,7 +48,9 @@
   },
   "recommends": {},
   "breaks": {
-    "mr_hiddenmons_cobblemon": "*"
+    "mr_hiddenmons_cobblemon": "*",
+    "mr_complete_cobblemoncollectionwlegendaryspawns": "*",
+    "mr_complete_cobblemoncollectionmythsandlegendscompat": "*"
   },
   "custom": {
     "modmenu": {

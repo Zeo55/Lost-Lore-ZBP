@@ -40,9 +40,11 @@ public class LLItems {
     // Z Crystal
     public static RegistrySupplier<Item> DARK_TYRANITARIUM_Z = registerZCrystal("dark_tyranitarium_z");
     public static RegistrySupplier<Item> SHADOWIUM_Z = registerZCrystal("shadowium_z");
+    public static RegistrySupplier<Item> CRYSTALIUM_Z = registerZCrystal("crystalium_z");
 
     // Showdown Items
     public static RegistrySupplier<Item> SHADOW_GEM = registerShowdown("shadow_gem");
+    public static RegistrySupplier<Item> CRYSTAL_GEM = registerShowdown("crystal_gem");
 
 
     // No function

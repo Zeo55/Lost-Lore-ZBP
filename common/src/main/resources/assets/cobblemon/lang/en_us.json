@@ -1,6 +1,10 @@
 {
   "cobblemon.type.shadow": "Shadow",
+  "cobblemon.type.crystal": "Crystal",
 
+  "cobblemon.ability.brittlecrystal": "Brittle Crystal",
+  "cobblemon.ability.brittlecrystal.desc": "Brittle Crystals shatter when the Pokémon is hit, lowering its defense, increasing its speed & damaging the attacker.",
+  "cobblemon.battle.damage.brittlecrystal": "%1$s was hurt by sharp crystal shards!",
   "cobblemon.ability.crystalline": "Crystalline",
   "cobblemon.ability.crystalline.desc": "Rock-type moves become Steel-type moves. The power of those moves is boosted a little.",
   "cobblemon.ability.filmscript": "Movie Script",
@@ -19,9 +23,13 @@
   "cobblemon.battle.activate.filmscript": "§e§lThe Script demands obliterating the Hero!§r",
 
   "cobblemon.move.blackvortex": "Black Vortex",
-  "cobblemon.move.blackvortex.desc": "A powerful Vortex made of Shadows",
+  "cobblemon.move.blackvortex.desc": "A powerful Vortex made of Shadows.",
+  "cobblemon.move.glintingbeam": "Glinting Beam",
+  "cobblemon.move.glintingbeam.desc": "A colorful Beam of prismatic Energy.",
   "cobblemon.move.kaijucataclysm": "Kaiju Cataclysm",
-  "cobblemon.move.kaijucataclysm.desc": "Removes all Terrain, raises defenses by 1 stage & makes the enemy flinch ",
+  "cobblemon.move.kaijucataclysm.desc": "Removes all Terrain, raises defenses by 1 stage & makes the enemy flinch.",
+  "cobblemon.move.maxprism": "Max Prism",
+  "cobblemon.move.maxprism.desc": "This is a Crystal-type attack Dynamax Pokémon use. This boosts ally Pokémon’s Defensive stats.",
   "cobblemon.move.maxvoid": "Max Void",
   "cobblemon.move.maxvoid.desc": "This is a Shadow-type attack Dynamax Pokémon use. This boosts ally Pokémon’s Speed stats.",
   "cobblemon.move.shadowblast": "Shadow Blast",

@@ -1,6 +1,10 @@
 {
   "cobblemon.type.shadow": "Crypto",
+  "cobblemon.type.crystal": "Kristall",
 
+  "cobblemon.ability.brittlecrystal": "Kristallbruch",
+  "cobblemon.ability.brittlecrystal.desc": "Zerbrechliche Kristalle splittern wenn getroffen,verringert seine Verteidigung, erhöht Geschwindigkeit & schadet dem Angreifer.",
+  "cobblemon.battle.damage.brittlecrystal": "%1$s wurde von scharfen Kristallscherben verletzt!",
   "cobblemon.ability.crystalline": "Kristallin",
   "cobblemon.ability.crystalline.desc": "Attacken vom Typ Gestein nehmen den Typ Stahl an und ihre Stärke erhöht sich ein wenig.",
   "cobblemon.ability.filmscript": "Drehbuch",
@@ -20,8 +24,12 @@
 
   "cobblemon.move.blackvortex": "Schwarzer Wirbel",
   "cobblemon.move.blackvortex.desc": "Ein mächtiger Wirbel aus Crypto Energie.",
+  "cobblemon.move.glintingbeam": "Glänzernder Strahl",
+  "cobblemon.move.glintingbeam.desc": "Ein farbenfroher Strahl prismatischer Energie.",
   "cobblemon.move.kaijucataclysm": "Kaiju-Katastrophe",
   "cobblemon.move.kaijucataclysm.desc": "Entfernt alle Feldeffekte, erhöht alle Verteidigungen um 1 Stufe und lässt den Gegner zurückschrecken.",
+  "cobblemon.move.maxprism": "Dyna-Prisma",
+  "cobblemon.move.maxprism.desc": "Dies ist eine Kristall-Typ Attacke, die Dynamax-Pokémon einsetzen. Sie erhöht die Verteidigungen verbündeter Pokémon.",
   "cobblemon.move.maxvoid": "Dyna-Leere",
   "cobblemon.move.maxvoid.desc": "Dies ist eine Crypto-Typ Attacke, die Dynamax-Pokémon einsetzen. Sie erhöht die Geschwindigkeit verbündeter Pokémon.",
   "cobblemon.move.shadowblast": "Cryptostrahl",

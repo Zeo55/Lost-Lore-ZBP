@@ -21,6 +21,7 @@
     Stellar: 0,
     Water: 0,
     Shadow: 1,
+    Crystal: 1,
   },
   HPivs: {},
 }

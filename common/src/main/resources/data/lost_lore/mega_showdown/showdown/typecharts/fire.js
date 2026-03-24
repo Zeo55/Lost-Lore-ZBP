@@ -21,6 +21,7 @@
     Stellar: 0,
     Water: 1,
     Shadow: 1,
+    Crystal: 0,
   },
   HPivs: {atk: 30, spa: 30, spe: 30},
   HPdvs: {atk: 14, def: 12},

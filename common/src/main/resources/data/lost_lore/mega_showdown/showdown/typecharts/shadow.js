@@ -19,6 +19,7 @@
     Steel: 0,
     Stellar: 0,
     Water: 0,
-    Shadow: 2
+    Shadow: 2,
+    Crystal: 0,
   }
 }

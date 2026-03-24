@@ -6,7 +6,7 @@
         ];
 		if (move.type === 'Rock' && !noModifyType.includes(move.id) &&
 			!(move.isZ && move.category !== 'Status') && !(move.name === 'Tera Blast' && pokemon.terastallized)) {
-			move.type = 'Steel';
+			move.type = 'Crystal';
 			move.typeChangerBoosted = this.effect;
 		}
 	},

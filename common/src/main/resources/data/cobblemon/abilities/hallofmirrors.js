@@ -3,11 +3,13 @@
     num: 9982,
     rating: 4,
     flags: {},
-
-    onSourceHit(target, source, move) {
-        if (source !== this.effectState.target) return;
-        if (move.id !== "flashcannon") return;
-        this.add('-ability', source, this.effect);
-        this.boost({spd: -1}, target, source, null, true);
+    onTryHit(target, source, move) {
+        if (target !== this.effectState.target) return;
+        if (this.randomChance(1, 15)) {
+            this.add('-activate', target, 'ability: Hall of Mirrors');
+            this.add('-miss', source, target);
+            source.addVolatile('confusion');
+            return null;
+        }
     }
 }

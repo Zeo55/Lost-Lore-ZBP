@@ -4,7 +4,7 @@
 	basePower: 10,
 	category: "Physical",
 	isNonstandard: "Past",
-	name: "Max Void",
+	name: "Max Prism",
 	pp: 10,
 	priority: 0,
 	flags: {},

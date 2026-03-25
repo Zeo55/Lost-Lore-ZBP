@@ -21,10 +21,10 @@
         "cobblemon.species.lugia-shadow.desc"
       ],
       "moves": [
-        "form_change:shadowblast",
-        "form_change:shadowdown",
-        "form_change:shadowshed",
-        "form_change:shadowstorm",
+        "1:shadowblast",
+        "1:shadowdown",
+        "1:shadowshed",
+        "1:shadowstorm",
         "1:whirlwind",
         "1:weatherball",
         "1:gust",

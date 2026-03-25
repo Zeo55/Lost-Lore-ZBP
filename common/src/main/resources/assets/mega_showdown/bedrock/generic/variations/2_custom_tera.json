@@ -1,0 +1,18 @@
+{
+  "name": "cobblemon:tera_hat",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["msd:tera_crystal"],
+      "poser": "cobblemon:tera_hat",
+      "model": "mega_showdown:crystal_tera_hat.geo",
+      "texture": "mega_showdown:textures/tera_hat/crystal_tera_hat.png"
+    },
+    {
+      "aspects": ["msd:tera_shadow"],
+      "poser": "cobblemon:tera_hat",
+      "model": "mega_showdown:shadow_tera_hat.geo",
+      "texture": "mega_showdown:textures/tera_hat/shadow_tera_hat.png"
+    }
+  ]
+}

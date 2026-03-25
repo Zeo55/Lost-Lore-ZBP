@@ -1,6 +1,7 @@
 {
   "cobblemon.type.shadow": "Shadow",
   "cobblemon.type.crystal": "Crystal",
+  "cobblemon.ui.stash.crystal": "Crystals",
 
   "cobblemon.ability.brittlecrystal": "Brittle Crystal",
   "cobblemon.ability.brittlecrystal.desc": "Brittle Crystals shatter when the Pokémon is hit, lowering its defense, increasing its speed & damaging the attacker.",

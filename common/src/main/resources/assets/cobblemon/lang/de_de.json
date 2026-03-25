@@ -1,6 +1,7 @@
 {
   "cobblemon.type.shadow": "Crypto",
   "cobblemon.type.crystal": "Kristall",
+  "cobblemon.ui.stash.crystal": "Kristalle",
 
   "cobblemon.ability.brittlecrystal": "Kristallbruch",
   "cobblemon.ability.brittlecrystal.desc": "Zerbrechliche Kristalle splittern wenn getroffen,verringert seine Verteidigung, erhöht Geschwindigkeit & schadet dem Angreifer.",

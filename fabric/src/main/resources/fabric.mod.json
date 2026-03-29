@@ -5,7 +5,8 @@
   "name": "Cobblemon: Lost Lore",
   "description": "This addon aims to add the extended canon that is the anime/movies, side games & manga to Cobblemon!",
   "authors": [
-    "Lvnatic"
+    "Lvnatic",
+    "YajatKaul"
   ],
   "contributors": [
     "BlazeHydroxide",
@@ -14,7 +15,6 @@
     "Omniv",
     "Sanji1",
     "Sevonents",
-    "YajatKaul",
     "Zalno",
     "Zayden"
   ],
@@ -48,7 +48,9 @@
   },
   "recommends": {},
   "breaks": {
+    "mr_lasers_additions": "*",
     "mr_hiddenmons_cobblemon": "*",
+    "mr_cobblemon_journeymounts": "*",
     "mr_complete_cobblemoncollectionwlegendaryspawns": "*",
     "mr_complete_cobblemoncollectionmythsandlegendscompat": "*"
   },

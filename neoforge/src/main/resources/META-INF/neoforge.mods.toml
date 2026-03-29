@@ -7,7 +7,7 @@ license = "CC-BY-NC-SA-4.0"
 modId = "lost_lore"
 version = "${version}"
 displayName = "Cobblemon: Lost Lore"
-authors = "YajatKaul, Lvnatic"
+authors = "Lvnatic, YajatKaul"
 description = '''
 This addon aims to add the extended canon that is the anime/movies, side games & manga to Cobblemon!
 '''
@@ -80,6 +80,22 @@ modId = "mr_complete_cobblemoncollectionwlegendaryspawns"
 type = "incompatible"
 versionRange = "*"
 reason = "Sadly Lost Lore doesn't work with CCC, it will break Shadow Mewtwo & Lugia among other smaller things!"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.lost_lore]]
+modId = "mr_cobblemon_journeymounts"
+type = "incompatible"
+versionRange = "*"
+reason = "Sadly JourneyMounts breaks stuff including Mewtwo, Lugia, Lucario among other things!"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.lost_lore]]
+modId = "mr_lasers_additions"
+type = "incompatible"
+versionRange = "*"
+reason = "Sadly breaks Shadow Megas abilities!"
 ordering = "AFTER"
 side = "BOTH"
 

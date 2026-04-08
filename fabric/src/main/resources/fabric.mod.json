@@ -49,7 +49,6 @@
   "recommends": {},
   "breaks": {
     "mr_lasers_additions": "*",
-    "mr_hiddenmons_cobblemon": "*",
     "mr_cobblemon_journeymounts": "*",
     "mr_complete_cobblemoncollectionwlegendaryspawns": "*",
     "mr_complete_cobblemoncollectionmythsandlegendscompat": "*"

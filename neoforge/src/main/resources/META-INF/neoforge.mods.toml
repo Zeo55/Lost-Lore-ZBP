@@ -60,14 +60,6 @@ ordering = "AFTER"
 side = "BOTH"
 
 [[dependencies.lost_lore]]
-modId = "mr_hiddenmons_cobblemon"
-type = "incompatible"
-versionRange = "[0.3.3+1.21.1,)"
-reason = "Hiddenmons is already included in AllTheMons x Mega Showdown. Please uninstall it and use ATM x MSD instead!"
-ordering = "AFTER"
-side = "BOTH"
-
-[[dependencies.lost_lore]]
 modId = "mr_complete_cobblemoncollectionmythsandlegendscompat"
 type = "incompatible"
 versionRange = "*"

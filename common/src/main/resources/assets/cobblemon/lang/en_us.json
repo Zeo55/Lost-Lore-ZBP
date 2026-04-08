@@ -46,6 +46,21 @@
   "cobblemon.move.zshadowshed": "Z Shadow Shed",
   "cobblemon.move.zshadowshed.desc": "A shadowy aura  boosts the users evasiveness.",
 
+  "cobblemon.move.shinyglare": "Shiny Glare",
+  "cobblemon.move.shinyglare.desc": "The user imposes the target with shiny gemstones. The target becomes unable to flee.",
+  "cobblemon.move.crystalbarrier": "Crystal Barrier",
+  "cobblemon.move.crystalbarrier.desc": "The user reinforces the crystals on its body, increasing defense but lower speed.",
+  "cobblemon.move.crystalcannon": "Crystal Cannon",
+  "cobblemon.move.crystalcannon.desc": "The user focuses light hitting its crystals and releases it at once. This may also burn the target.",
+  "cobblemon.move.crystalveil": "Crystal Veil",
+  "cobblemon.move.crystalveil.desc": "The user blinds the target with a veil of light cast by its crystals. Lowers the targets accuracy.",
+  "cobblemon.move.crystallineoverload": "Crystalline Overload",
+  "cobblemon.move.crystallineoverload.desc": "The user focuses intense beams of light into a powerful steam of energy. This also lowers the users special attack a lot.",
+  "cobblemon.move.shardstrike": "Shard Strike",
+  "cobblemon.move.shardstrike.desc": "The user hits the target with sharp shards of gems.",
+  "cobblemon.move.unstablesurge": "Unstable Surge",
+  "cobblemon.move.unstablesurge.desc": "The user overloads itself unleasing intense energy. If this move misses, the user takes damage instead.",
+  "cobblemon.battle.damage.unstablesurge": "%1$s couldn't handle the amount of energy!",
 
   "cobblemon.ui.pokedex.region.pokestar": "Pokestar Studios",
 

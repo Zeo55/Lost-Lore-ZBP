@@ -3,13 +3,13 @@
   "order": 11,
   "variations": [
     {
-      "aspects": ["cosmetic_item_mega"],
+      "aspects": ["cosmetic_item-mega"],
       "poser": "cobblemon:lucario_mega_ll",
       "model": "cobblemon:lucario_mega_ll.geo",
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucariomega.png"
     },
     {
-      "aspects": ["cosmetic_item_mega","shiny"],
+      "aspects": ["cosmetic_item-mega","shiny"],
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucariomega_shiny.png"
     }
   ]

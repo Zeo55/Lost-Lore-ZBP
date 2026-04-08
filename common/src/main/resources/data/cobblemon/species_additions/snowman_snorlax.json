@@ -6,6 +6,7 @@
       "aspects": ["snowman"],
       "pokedex": ["cobblemon.species.munchlax-snowman.desc"],
       "primaryType": "ice",
+      "preEvolution": "munchlax snowman",
       "abilities": [
         "icebody",
         "thickfat",
@@ -260,8 +261,7 @@
     },
     {
       "name": "Snowman-Gmax",
-      "primaryType": "normal",
-      "secondaryType": "ice",
+      "primaryType": "ice",
       "maleRatio": 0.875,
       "height": 350,
       "weight": 0,

@@ -6,7 +6,7 @@
       "aspects": ["clone"],
       "pokedex": ["cobblemon.species.charmeleon-clone.desc"],
 	  "experienceGroup": "fast",
-	  "preEvolution": "charmander clone=true",
+	  "preEvolution": "charmander clone",
       "evolutions": [
 		{
 		  "id": "charmeleonclone_charizardclone",

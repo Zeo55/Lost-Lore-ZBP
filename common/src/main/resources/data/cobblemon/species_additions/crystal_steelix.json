@@ -20,7 +20,7 @@
         "special_defence": 90,
         "speed": 35
       },
-      "preEvolution": "onix crystal=true",
+      "preEvolution": "onix crystal",
       "moves": [
         "1:tackle",
         "1:harden",

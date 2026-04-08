@@ -6,7 +6,7 @@
       "aspects": ["clone"],
       "pokedex": ["cobblemon.species.blastoise-clone.desc"],
       "experienceGroup": "fast",
-      "preEvolution": "wartortle clone=true",
+      "preEvolution": "wartortle clone",
       "riding": {
         "behaviours": {
           "AIR": {

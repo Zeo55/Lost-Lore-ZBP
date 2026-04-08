@@ -5,12 +5,8 @@
 	  "name": "Illusion",
 	  "primaryType": "ghost",
 	  "secondaryType": "flying",
-	  "pokedex": [
-		"cobblemon.species.rayquaza-illusion.desc"
-	  ],
-      "aspects": [
-		"illusion"
-	  ],
+	  "pokedex": ["cobblemon.species.rayquaza-illusion.desc"],
+      "aspects": ["illusion"],
 	  "baseStats": {
         "hp": 105,
     	"attack": 150,

@@ -6,7 +6,7 @@
       "aspects": ["clone"],
       "pokedex": ["cobblemon.species.charizard-clone.desc"],
       "experienceGroup": "fast",
-      "preEvolution": "charmeleon clone=true",
+      "preEvolution": "charmeleon clone",
       "riding": {
         "behaviours": {
           "AIR": {

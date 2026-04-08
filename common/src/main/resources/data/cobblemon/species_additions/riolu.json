@@ -11,16 +11,16 @@
     "entityInteract": {
       "avoidedBySkeleton": true
     },
-	  "resting": {
-	    "canSleep": true,
-	    "willSleepOnBed": true,
-	    "depth": "normal",
-	    "light": "0-4"
-	  },
-	  "swim": {
-	    "swimSpeed": 0.1,
-	    "canSwimInWater": true,
-	    "canBreatheUnderwater": false
-	  }
+	"resting": {
+	  "canSleep": true,
+	  "willSleepOnBed": true,
+	  "depth": "normal",
+	  "light": "0-4"
+	},
+	"swim": {
+	  "swimSpeed": 0.1,
+	  "canSwimInWater": true,
+	  "canBreatheUnderwater": false
+	}
   }
 }

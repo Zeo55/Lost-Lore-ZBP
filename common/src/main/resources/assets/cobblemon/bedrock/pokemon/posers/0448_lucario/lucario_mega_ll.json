@@ -5,8 +5,8 @@
   "profileScale": 0.52,
   "profileTranslation": [0, 1.05, 0],
   "animations": {
-   "faint": "q.bedrock_primary('lucario_mega', 'faint', q.curve('one'))",
-   "cry": "q.bedrock_stateful('lucario_mega', 'cry')"
+   "faint": "q.bedrock_primary('lucario_mega_ll', 'faint', q.curve('one'))",
+   "cry": "q.bedrock_stateful('lucario_mega_ll', 'cry')"
  },
   "poses": {
     "standing": {
@@ -15,10 +15,10 @@
       "isBattle": false,
       "animations": [
         "q.look('head')",
-        "q.bedrock('lucario_mega', 'ground_idle')"
+        "q.bedrock('lucario_mega_ll', 'ground_idle')"
       ],
       "quirks": [
-        "q.bedrock_quirk('lucario_mega', 'blink', 2, 5, 1)"
+        "q.bedrock_quirk('lucario_mega_ll', 'blink', 2, 5, 1)"
       ]
     },
     "walking": {
@@ -26,10 +26,10 @@
       "poseTypes": ["WALK"],
       "animations": [
         "q.look('head')",
-        "q.bedrock('lucario_mega', 'ground_walk')"
+        "q.bedrock('lucario_mega_ll', 'ground_walk')"
       ],
       "quirks": [
-        "q.bedrock_quirk('lucario_mega', 'blink', 2, 5, 1)"
+        "q.bedrock_quirk('lucario_mega_ll', 'blink', 2, 5, 1)"
       ]
     },    
       "floating": {
@@ -38,10 +38,10 @@
       "isTouchingWater": true,
       "animations": [
         "q.look('head')",
-        "q.bedrock('lucario_mega', 'water_idle')"
+        "q.bedrock('lucario_mega_ll', 'water_idle')"
       ],
       "quirks": [
-        "q.bedrock_quirk('lucario_mega', 'blink', 2, 5, 1)"
+        "q.bedrock_quirk('lucario_mega_ll', 'blink', 2, 5, 1)"
       ]
     },
     "swimming": {
@@ -50,17 +50,17 @@
       "poseTypes": [ "SWIM" ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('lucario_mega', 'water_swim')"
+        "q.bedrock('lucario_mega_ll', 'water_swim')"
       ],
       "quirks": [
-        "q.bedrock_quirk('lucario_mega', 'blink', 2, 5, 1)"
+        "q.bedrock_quirk('lucario_mega_ll', 'blink', 2, 5, 1)"
       ]
     },
     "sleeping": {
       "transformTicks": 10,
       "poseTypes": ["SLEEP"],
       "animations": [
-        "q.bedrock('lucario_mega', 'sleep')"
+        "q.bedrock('lucario_mega_ll', 'sleep')"
       ]
     },
       "battle-idle": {
@@ -69,13 +69,13 @@
         "isBattle": true,
         "animations": [
           "q.look('head')",
-          "q.bedrock('lucario_mega', 'battle_idle')"
+          "q.bedrock('lucario_mega_ll', 'battle_idle')"
         ],
       "quirks": [
-        "q.bedrock_quirk('lucario_mega', 'blink', 2, 5, 1)",
-        "q.bedrock_quirk('lucario_mega', 'angerspike', 2, 2, 1)",
-        "q.bedrock_quirk('lucario_mega', 'twitch1', 8, 20, 1)",
-        "q.bedrock_quirk('lucario_mega', 'twitch2', 8, 20, 1)"
+        "q.bedrock_quirk('lucario_mega_ll', 'blink', 2, 5, 1)",
+        "q.bedrock_quirk('lucario_mega_ll', 'angerspike', 2, 2, 1)",
+        "q.bedrock_quirk('lucario_mega_ll', 'twitch1', 8, 20, 1)",
+        "q.bedrock_quirk('lucario_mega_ll', 'twitch2', 8, 20, 1)"
       ]
     }
   }

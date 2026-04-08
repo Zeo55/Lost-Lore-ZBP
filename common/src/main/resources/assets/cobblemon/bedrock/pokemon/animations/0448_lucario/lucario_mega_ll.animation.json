@@ -1,7 +1,7 @@
 {
 	"format_version": "1.8.0",
 	"animations": {
-		"animation.lucario_mega.ground_idle": {
+		"animation.lucario_mega_ll.ground_idle": {
 			"loop": true,
 			"bones": {
 				"torso": {
@@ -150,7 +150,7 @@
 				}
 			}
 		},
-		"animation.lucario_mega.ground_walk": {
+		"animation.lucario_mega_ll.ground_walk": {
 			"loop": true,
 			"animation_length": 1,
 			"bones": {
@@ -427,7 +427,7 @@
 				}
 			}
 		},
-		"animation.lucario_mega.ground_runwip": {
+		"animation.lucario_mega_ll.ground_runwip": {
 			"loop": true,
 			"animation_length": 0.5,
 			"bones": {
@@ -924,7 +924,7 @@
 				}
 			}
 		},
-		"animation.lucario_mega.water_idle": {
+		"animation.lucario_mega_ll.water_idle": {
 			"loop": true,
 			"bones": {
 				"body": {
@@ -1067,7 +1067,7 @@
 				}
 			}
 		},
-		"animation.lucario_mega.water_swim": {
+		"animation.lucario_mega_ll.water_swim": {
 			"loop": true,
 			"bones": {
 				"body": {
@@ -1182,7 +1182,7 @@
 				}
 			}
 		},
-		"animation.lucario_mega.battle_idlewip": {
+		"animation.lucario_mega_ll.battle_idlewip": {
 			"loop": true,
 			"bones": {
 				"body": {
@@ -1344,7 +1344,7 @@
 				}
 			}
 		},
-		"animation.lucario_mega.battle_idle": {
+		"animation.lucario_mega_ll.battle_idle": {
 			"loop": true,
 			"bones": {
 				"body": {
@@ -1604,7 +1604,7 @@
 				}
 			}
 		},
-		"animation.lucario_mega.battle_faintwip": {
+		"animation.lucario_mega_ll.battle_faintwip": {
 			"loop": true,
 			"animation_length": 3,
 			"bones": {
@@ -2104,7 +2104,7 @@
 				}
 			}
 		},
-		"animation.lucario_mega.sleep": {
+		"animation.lucario_mega_ll.sleep": {
 			"loop": true,
 			"bones": {
 				"body": {
@@ -2277,7 +2277,7 @@
 				}
 			}
 		},
-		"animation.lucario_mega.blink": {
+		"animation.lucario_mega_ll.blink": {
 			"animation_length": 0.1667,
 			"bones": {
 				"pupil_right_wide": {
@@ -2348,7 +2348,7 @@
 				}
 			}
 		},
-		"animation.lucario_mega.cry": {
+		"animation.lucario_mega_ll.cry": {
 			"animation_length": 0.75,
 			"bones": {
 				"chest": {
@@ -2437,7 +2437,7 @@
 				}
 			}
 		},
-		"animation.lucario_mega.angerspike": {
+		"animation.lucario_mega_ll.angerspike": {
 			"animation_length": 2.5,
 			"bones": {
 				"hand_right": {
@@ -2852,7 +2852,7 @@
 				}
 			}
 		},
-		"animation.lucario_mega.twitch1": {
+		"animation.lucario_mega_ll.twitch1": {
 			"animation_length": 0.08333,
 			"bones": {
 				"head": {
@@ -2899,7 +2899,7 @@
 				}
 			}
 		},
-		"animation.lucario_mega.twitch2": {
+		"animation.lucario_mega_ll.twitch2": {
 			"animation_length": 0.08333,
 			"bones": {
 				"head": {
@@ -2946,7 +2946,7 @@
 				}
 			}
 		},
-		"animation.lucario_mega.lookaround": {
+		"animation.lucario_mega_ll.lookaround": {
 			"animation_length": 3,
 			"bones": {
 				"waist": {

@@ -1,5 +1,6 @@
 {
   damageTaken: {
+    sandstorm: 3,
     Bug: 0,
     Dark: 0,
     Dragon: 0,

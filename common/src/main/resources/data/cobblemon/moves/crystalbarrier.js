@@ -9,7 +9,7 @@
 	flags: {snatch: 1, metronome: 1},
 	boosts: {
 		def: 1,
-		spd: -1,
+		spe: -1,
 	},
 	secondary: null,
 	target: "self",

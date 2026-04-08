@@ -94,7 +94,6 @@
     {
       "name": "Crystal-Mega",
       "primaryType": "crystal",
-      "secondaryType": "ground",
       "baseScale": 0.85,
       "maleRatio": 0.5,
       "height": 105,

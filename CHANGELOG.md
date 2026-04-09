@@ -7,18 +7,16 @@
 - More information on all of that can be found on the Mod-page
 ## Miscellaneous & Fixes:
 - Some smaller unnoteworthy file optimizations
+- Added recipe for Magical Music Sheet _(Meloetta cosmetic)_
 - Reduced Meta Groudon's walk speed _(no more zooming around)_
 - Added dummies for the Crystal & Shadow tera hats _(Shadow is WIP)_
 - Fixed Black Tyranitar being able to mega evolve outside of battles
 - Fixed an issue with Steelix's head locator, messing with its tera hat
 - Fixed a weird Mega Lucario interaction with my latest mod - Cosmetic Megas
-## Expanded incompatibility list
+## Expanded incompatibility list:
 - Temporarily added JourneyMounts as incompatible _(breaks the Mewtwo & Lugia riding/model & Lucario model due to their implementation method)_
-- Temporarily added Lasers Additions as incompatible _(Breaks Shadow Mewtwos abilities due to their implementation of existing forms as species_additions)_
-
-
-
-## TODO
-- Add textures for the crystal gem 
-- Add textures for the crystalium z, tackle crystal equivalent
-- Add crystal equivalent of tackle
+- Temporarily added Lasers Additions as incompatible _(breaks Shadow Mewtwos abilities due to their implementation of existing forms as species_additions)_
+## Regarding installation on Servers:
+- Mega Showdown still hasn't fixed the Server issues yet, and currently it's not looking good on a solution actually
+- Sadly fixing this is outside my expertise so we have to keep bugging Yajat about it and hope he doesn't remove custom types altogether
+- It is possible to join servers with this mod installed - but each player ***has** to join a singleplayer world before trying to connect to the server

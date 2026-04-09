@@ -44,7 +44,7 @@
   "cobblemon.move.zshadowdown": "Z Shadow Down",
   "cobblemon.move.zshadowdown.desc": "A shadowy aura boosts the users ATK.",
   "cobblemon.move.zshadowshed": "Z Shadow Shed",
-  "cobblemon.move.zshadowshed.desc": "A shadowy aura  boosts the users evasiveness.",
+  "cobblemon.move.zshadowshed.desc": "A shadowy aura boosts the users evasiveness.",
 
   "cobblemon.move.shinyglare": "Shiny Glare",
   "cobblemon.move.shinyglare.desc": "The user imposes the target with shiny gemstones. The target becomes unable to flee.",
@@ -61,6 +61,12 @@
   "cobblemon.move.unstablesurge": "Unstable Surge",
   "cobblemon.move.unstablesurge.desc": "The user overloads itself unleasing intense energy. If this move misses, the user takes damage instead.",
   "cobblemon.battle.damage.unstablesurge": "%1$s couldn't handle the amount of energy!",
+  "cobblemon.move.zcrystalveil": "Z Crystal Veil",
+  "cobblemon.move.zcrystalveil.desc": "Shiny crystals boost the users evasiveness.",
+  "cobblemon.move.zshinyglare": "Z Shiny Glare",
+  "cobblemon.move.zshinyglare.desc": "Shiny crystals boost the users defense.",
+  "cobblemon.move.zcrystalbarrier": "Z Crystal Barrier",
+  "cobblemon.move.zcrystalbarrier.desc": "Shiny crystals negate negative stat changes.",
 
   "cobblemon.ui.pokedex.region.pokestar": "Pokestar Studios",
 

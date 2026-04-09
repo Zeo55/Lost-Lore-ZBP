@@ -46,13 +46,13 @@
   "cobblemon.move.zshadowshed": "Z Cryptobruch",
   "cobblemon.move.zshadowshed.desc": "Eine schattenhafte Aura erhöht die Ausweichfähigkeit des Nutzers.",
 
-  "cobblemon.move.shinyglare": "Glänzender Blick",
+  "cobblemon.move.shinyglare": "Glanz Blick",
   "cobblemon.move.shinyglare.desc": "Der Anwender lockt das Ziel mit glänzenden Kristallen. Das Ziel kann nicht mehr fliehen.",
   "cobblemon.move.crystalbarrier": "Kristall Barriere",
   "cobblemon.move.crystalbarrier.desc": "Der Anwender verstärkt die Kristalle auf seinem Körper, erhöht Verteidigung aber senkt Geschwindigkeit.",
   "cobblemon.move.crystalcannon": "Kristall Kanone",
   "cobblemon.move.crystalcannon.desc": "Der Anwender fokussiert das Licht das seine Kristalle trifft und sendet es zum Ziel. Kann das Ziel verbrennen.",
-  "cobblemon.move.crystalveil": "Kristall Schleier",
+  "cobblemon.move.crystalveil": "Kristallschleier",
   "cobblemon.move.crystalveil.desc": "Der Anwender blendet das Ziel mit einem Lichtschleier seiner Kristalle. Senkt die Genauigkeit des Ziels.",
   "cobblemon.move.crystallineoverload": "Kristalline Überspannung",
   "cobblemon.move.crystallineoverload.desc": "Der Anwender fokussiert die intensiven Lichtspiele seiner Kristalle in einem Strom aus Energie. Verringert den Spezial Angriff des Anwenders enorm.",
@@ -61,6 +61,12 @@
   "cobblemon.move.unstablesurge": "Spannungspitze",
   "cobblemon.move.unstablesurge.desc": "Der Anwender überlastet sich und entfesselt intensive Energie. Wenn der Angriff verfehlt trifft sich der Anwender selbst.",
   "cobblemon.battle.damage.unstablesurge": "%1$s konnte der Energie nicht standhalten!",
+  "cobblemon.move.zcrystalveil": "Z Kristallschleier",
+  "cobblemon.move.zcrystalveil.desc": "Glänzende Kristalle erhöhen die Ausweichfähigkeit des Nutzers.",
+  "cobblemon.move.zshinyglare": "Z Glanz Blick",
+  "cobblemon.move.zshinyglare.desc": "Glänzende Kristalle erhöhen die Verteidigung des Anwenders.",
+  "cobblemon.move.zcrystalbarrier": "Z Kristall Barriere",
+  "cobblemon.move.zcrystalbarrier.desc": "Glänzende Kristalle neutralisieren negative Statuswertveränderungen.",
 
   "cobblemon.ui.pokedex.region.pokestar": "Pokéwood",
 

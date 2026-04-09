@@ -13,6 +13,6 @@
 	secondary: null,
 	target: "normal",
 	type: "Crystal",
-	zMove: {boost: {spd: 1}},
+	zMove: {boost: {def: 1}},
 	contestType: "Beautiful",
 }

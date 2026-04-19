@@ -3,6 +3,9 @@
   "cobblemon.type.crystal": "Crystal",
   "cobblemon.ui.stash.crystal": "Crystals",
 
+  "item.mega_showdown.custom_tera_shard": "Crystal Tera Shard",
+  "tooltip.mega_showdown.custom_tera_shardcrystal.tooltip": "§7Used to change a Pokémon’s Tera Type to the Crystal Tera Type",
+
   "cobblemon.ability.brittlecrystal": "Brittle Crystal",
   "cobblemon.ability.brittlecrystal.desc": "Brittle Crystals shatter when the Pokémon is hit, lowering its defense, increasing its speed & damaging the attacker.",
   "cobblemon.battle.damage.brittlecrystal": "%1$s was hurt by sharp crystal shards!",

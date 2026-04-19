@@ -3,6 +3,9 @@
   "cobblemon.type.crystal": "Kristall",
   "cobblemon.ui.stash.crystal": "Kristalle",
 
+  "item.mega_showdown.custom_tera_shard": "Kristall Tera-Stück",
+  "tooltip.mega_showdown.custom_tera_shardcrystal.tooltip": "§7Ändert den Tera-Typ eines Pokémon zum Krystal Tera-Typ",
+
   "cobblemon.ability.brittlecrystal": "Kristallbruch",
   "cobblemon.ability.brittlecrystal.desc": "Zerbrechliche Kristalle splittern wenn getroffen,verringert seine Verteidigung, erhöht Geschwindigkeit & schadet dem Angreifer.",
   "cobblemon.battle.damage.brittlecrystal": "%1$s wurde von scharfen Kristallscherben verletzt!",

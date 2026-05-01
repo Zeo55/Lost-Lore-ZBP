@@ -14,7 +14,7 @@
 - Fixed Black Tyranitar being able to mega evolve outside of battles
 - Fixed an issue with Steelix's head locator, messing with its tera hat
 - Fixed a weird Mega Lucario interaction with my latest mod - Cosmetic Megas
-- Changed Inceneroar & Lucario costumes to have their own buttons in the dex _(similar to Arbok patterns)_
+- Changed Inceneroar & Riolu/Lucario costumes/scarfs to have their own buttons in the dex _(similar to Arbok patterns)_
 ## Expanded incompatibility list:
 - Temporarily added JourneyMounts as incompatible _(breaks the Mewtwo & Lugia riding/model & Lucario model due to their implementation method)_
 - Temporarily added Lasers Additions as incompatible _(breaks Shadow Mewtwos abilities due to their implementation of existing forms as species_additions)_

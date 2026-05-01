@@ -95,7 +95,7 @@
   "cobblemon.ui.pokedex.info.form.wartortle-clone": "Klon",
   "cobblemon.ui.pokedex.info.form.blastoise-clone": "Klon",
   "cobblemon.ui.pokedex.info.form.blastoise-clonemega": "Mega (Klon)",
-  
+
   "cobblemon.ui.pokedex.info.form.eevee-lana": "Sandy",
   "cobblemon.ui.pokedex.info.form.eevee-lanagmax": "Gmax (Sandy)",
   "cobblemon.ui.pokedex.info.form.vaporeon": "",
@@ -119,12 +119,12 @@
   "cobblemon.ui.pokedex.info.form.mimikyu-bustedacerola": "Mimilein (Entlarvte Form)",
 
   "cobblemon.ui.pokedex.info.form.tyranitar-black": "Schwarz",
-  
+
   "cobblemon.ui.pokedex.info.form.onix": "",
   "cobblemon.ui.pokedex.info.form.onix-crystal": "Kristall",
   "cobblemon.ui.pokedex.info.form.steelix-crystal": "Kristall",
   "cobblemon.ui.pokedex.info.form.steelix-crystalmega": "Mega (Kristall)",
-  
+
   "cobblemon.ui.pokedex.info.form.rayquaza-illusion": "Illusionär",
   "cobblemon.ui.pokedex.info.form.rayquaza-illusionmega": "Mega (Illusionär)",
 
@@ -155,10 +155,6 @@
 
   "cobblemon.ui.pokedex.info.form.pichu-spikyeared": "Strubbelohr",
 
-  "cobblemon.ui.pokedex.info.form.riolu": "",
-  "cobblemon.ui.pokedex.info.form.riolu-pmdscarf": "Roter Schal",
-  "cobblemon.ui.pokedex.info.form.riolu-psmdscarf": "Grüner Schal",
-
   "cobblemon.ui.pokedex.info.form.slowbro-megay": "Galar-Mega",
 
 
@@ -181,7 +177,7 @@
   "cobblemon.species.sylveon-lana.desc":"Sandy entwickelte eine beruhigende Ausstrahlung, die selbst die aggressivsten Meeres-Pokémon besänftigt. Seine bandartigen Fühler sind durch die Meeresbrise immer leicht feucht. Seeleute sagen, dass das Erblicken eines solchen Sylveon ein Zeichen für eine sichere Überfahrt ist.",
   "cobblemon.species.umbreon-lana.desc":"Im Mondlicht, das sich auf den Wellen des Ozeans spiegelt, verwandelte sich Sandy in dieses ruhige und stille Nachtara. Es wandelt nachts an der Küste von Lana entlang, wobei seine leuchtenden Ringe mit dem Sternenlicht auf der Wasseroberfläche verschmelzen. Es beschützt diejenigen, denen sie vertraut, mit aller Kraft.",
   "cobblemon.species.vaporeon-lana.desc":"Sandy ist perfekt an das Meer angepasst und gleitet mühelos durch die Wellen. Er liebt es, neben Lanas Primarene zu surfen, und oft sieht man es in den Wellen tanzen. Seine gekräuselte Haube leuchtet im Mondlicht und führt verlorene Schwimmer in Sicherheit.",
-  
+
   "cobblemon.species.charmander-clone.desc":"GlumandaTu wurde mithilfe fortschrittlicher Klontechniken erschaffen. Obwohl es genetisch identisch mit dem Original ist, brennt seine Flamme etwas kälter, und es starrt oft auf seinen Schwanz, als würde es sich fragen, was es wirklich bedeutet, zu existieren.",
   "cobblemon.species.charmeleon-clone.desc":"GlutexoTu wurde für den Kampf geklont und reift schneller als das Original. Es kämpft mit gnadenloser Präzision und zeigt selten Emotionen. Die Markierungen entlang seines Körpers pulsieren schwach, wenn es wütend wird, als würde es auf einen inneren Energieschub reagieren.",
   "cobblemon.species.charizard-clone.desc":"GlurakTu verfügt über unglaubliche Kräfte und gilt als Wunderkind. Seine gestreifte Haut und sein stilles Wesen verunsichern seine Gegner. Es gehorcht keinem Trainer, es sei denn, dessen Wille ist stärker als sein eigener, und es erinnert sich an jeden Kampf, den es jemals verloren hat.",

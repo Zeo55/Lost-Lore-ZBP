@@ -19,6 +19,6 @@
 - Temporarily added JourneyMounts as incompatible _(breaks the Mewtwo & Lugia riding/model & Lucario model due to their implementation method)_
 - Temporarily added Lasers Additions as incompatible _(breaks Shadow Mewtwos abilities due to their implementation of existing forms as species_additions)_
 ## Regarding installation on Servers:
-- Mega Showdown still hasn't fixed the Server issues yet, and currently it's not looking good on a solution actually
+- Mega Showdown still hasn't fixed the Server issues yet, and currently it's not looking good on an actual solution on MSDs side
 - Sadly fixing this is outside my expertise so we have to keep bugging Yajat about it and hope he doesn't remove custom types altogether
 - It is possible to join servers with this mod installed - but each player ***has** to join a singleplayer world before trying to connect to the server

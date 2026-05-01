@@ -60,22 +60,6 @@ ordering = "AFTER"
 side = "BOTH"
 
 [[dependencies.lost_lore]]
-modId = "mr_complete_cobblemoncollectionmythsandlegendscompat"
-type = "incompatible"
-versionRange = "*"
-reason = "Sadly Lost Lore doesn't work with CCC, it will break Shadow Mewtwo & Lugia among other smaller things!"
-ordering = "AFTER"
-side = "BOTH"
-
-[[dependencies.lost_lore]]
-modId = "mr_complete_cobblemoncollectionwlegendaryspawns"
-type = "incompatible"
-versionRange = "*"
-reason = "Sadly Lost Lore doesn't work with CCC, it will break Shadow Mewtwo & Lugia among other smaller things!"
-ordering = "AFTER"
-side = "BOTH"
-
-[[dependencies.lost_lore]]
 modId = "mr_cobblemon_journeymounts"
 type = "incompatible"
 versionRange = "*"

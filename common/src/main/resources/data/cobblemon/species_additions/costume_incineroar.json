@@ -1,126 +1,101 @@
 {
   "target": "cobblemon:incineroar",
-  "features": ["incineroar_costume"],
   "forms": [
 	  {
       "name": "Summer",
-      "aspects": ["summer-costume"],
-      "pokedex": ["cobblemon.species.incineroar-summer.desc"]
+      "aspects": ["summer-costume"]
     },
 	  {
       "name": "Champion",
-      "aspects": ["champion-costume"],
-      "pokedex": ["cobblemon.species.incineroar-champion.desc"]
+      "aspects": ["champion-costume"]
     },
 	  {
       "name": "Royal-Mask",
-      "aspects": ["royal_mask-costume"],
-      "pokedex": ["cobblemon.species.incineroar-royalmask.desc"]
+      "aspects": ["royal_mask-costume"]
     },
     {
       "name": "Dancer",
-      "aspects": ["dancer-costume"],
-      "pokedex": ["cobblemon.species.incineroar-dancer.desc"]
+      "aspects": ["dancer-costume"]
     },
     {
       "name": "Pride",
-      "aspects": ["1pride-costume"],
-      "pokedex": ["cobblemon.species.incineroar-pride.desc"]
+      "aspects": ["1pride-costume"]
     },
     {
       "name": "Trans-Pride",
-      "aspects": ["trans_pride-costume"],
-      "pokedex": ["cobblemon.species.incineroar-trans-pride.desc"]
+      "aspects": ["trans_pride-costume"]
     },
     {
       "name": "Ace-Pride",
-      "aspects": ["ace_pride-costume"],
-      "pokedex": ["cobblemon.species.incineroar-ace-pride.desc"]
+      "aspects": ["ace_pride-costume"]
     },
     {
       "name": "Bi-Pride",
-      "aspects": ["bi_pride-costume"],
-      "pokedex": ["cobblemon.species.incineroar-bi-pride.desc"]
+      "aspects": ["bi_pride-costume"]
     },
     {
       "name": "Pan-Pride",
-      "aspects": ["pan_pride-costume"],
-      "pokedex": ["cobblemon.species.incineroar-pan-pride.desc"]
+      "aspects": ["pan_pride-costume"]
     },
     {
       "name": "Tekken",
-      "aspects": ["tekken-costume"],
-      "pokedex": ["cobblemon.species.incineroar-tekken.desc"]
+      "aspects": ["tekken-costume"]
     },
     {
       "name": "Team-Skull",
-      "aspects": ["team_skull-costume"],
-      "pokedex": ["cobblemon.species.incineroar-team-skull.desc"]
+      "aspects": ["team_skull-costume"]
     },
     {
       "name": "Astronaut",
-      "aspects": ["astronaut-costume"],
-      "pokedex": ["cobblemon.species.incineroar-astronaut.desc"]
+      "aspects": ["astronaut-costume"]
     },
     {
       "name": "Band",
-      "aspects": ["band-costume"],
-      "pokedex": ["cobblemon.species.incineroar-band.desc"]
+      "aspects": ["band-costume"]
     },
     {
       "name": "Bionicle",
-      "aspects": ["bionicle-costume"],
-      "pokedex": ["cobblemon.species.incineroar-bionicle.desc"]
+      "aspects": ["bionicle-costume"]
     },
     {
       "name": "Cafe",
-      "aspects": ["cafe-costume"],
-      "pokedex": ["cobblemon.species.incineroar-cafe.desc"]
+      "aspects": ["cafe-costume"]
     },
     {
       "name": "Detective",
-      "aspects": ["detective-costume"],
-      "pokedex": ["cobblemon.species.incineroar-detective.desc"]
+      "aspects": ["detective-costume"]
     },
     {
       "name": "El-Brave",
-      "aspects": ["el_brave-costume"],
-      "pokedex": ["cobblemon.species.incineroar-el-brave.desc"]
+      "aspects": ["el_brave-costume"]
     },
     {
       "name": "Rival",
-      "aspects": ["rival-costume"],
-      "pokedex": ["cobblemon.species.incineroar-rival.desc"]
+      "aspects": ["rival-costume"]
     },
     {
       "name": "Santa",
-      "aspects": ["santa-costume"],
-      "pokedex": ["cobblemon.species.incineroar-santa.desc"]
+      "aspects": ["santa-costume"]
     },
     {
       "name": "Team-Rocket",
-      "aspects": ["team_rocket-costume"],
-      "pokedex": ["cobblemon.species.incineroar-team_rocket.desc"]
+      "aspects": ["team_rocket-costume"]
     },
     {
       "name": "Team-Rainbow-Anime",
-      "aspects": ["team_rainbow_anime-costume"],
-      "pokedex": ["cobblemon.species.incineroar-team_rainbow_anime.desc"]
+      "aspects": ["team_rainbow_anime-costume"]
     },
     {
       "name": "Team-Magma",
-      "aspects": ["team_magma-costume"],
-      "pokedex": ["cobblemon.species.incineroar-team_magma.desc"]
+      "aspects": ["team_magma-costume"]
     },
     {
       "name": "Team-Magma-ORAS",
-      "aspects": ["team_magma_oras-costume"],
-      "pokedex": ["cobblemon.species.incineroar-team_magma_oras.desc"]
+      "aspects": ["team_magma_oras-costume"]
     },
     {
       "name": "PMD",
-      "aspects": ["pmd-costume"],
-      "pokedex": ["cobblemon.species.incineroar-pmd.desc"]
+      "aspects": ["pmd-costume"]
     }
   ]
 }

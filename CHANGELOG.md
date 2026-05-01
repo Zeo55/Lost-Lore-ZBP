@@ -7,12 +7,14 @@
 - More information on all of that can be found on the Mod-page
 ## Miscellaneous & Fixes:
 - Some smaller unnoteworthy file optimizations
+- Added Lucario scarfs still showing when Mega evolving
 - Added recipe for Magical Music Sheet _(Meloetta cosmetic)_
 - Reduced Meta Groudon's walk speed _(no more zooming around)_
 - Added dummies for the Crystal & Shadow tera hats _(Shadow is WIP)_
 - Fixed Black Tyranitar being able to mega evolve outside of battles
 - Fixed an issue with Steelix's head locator, messing with its tera hat
 - Fixed a weird Mega Lucario interaction with my latest mod - Cosmetic Megas
+- Changed Inceneroar & Lucario costumes to have their own buttons in the dex _(similar to Arbok patterns)_
 ## Expanded incompatibility list:
 - Temporarily added JourneyMounts as incompatible _(breaks the Mewtwo & Lugia riding/model & Lucario model due to their implementation method)_
 - Temporarily added Lasers Additions as incompatible _(breaks Shadow Mewtwos abilities due to their implementation of existing forms as species_additions)_

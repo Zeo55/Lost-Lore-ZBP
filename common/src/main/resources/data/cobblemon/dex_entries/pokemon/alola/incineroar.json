@@ -1,0 +1,46 @@
+{
+  "id": "cobblemon:incineroar",
+  "speciesId": "cobblemon:incineroar",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Normal",
+      "unlockForms": [
+        "Normal"
+      ]
+    }
+  ],
+  "variations": [
+    {
+      "displayName": "cobblemon.pokedex.variation.outfit",
+      "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
+      "aspects": [
+        "",
+        "champion-costume",
+        "royal_mask-costume",
+        "summer-costume",
+        "dancer-costume",
+        "1pride-costume",
+        "trans_pride-costume",
+        "ace_pride-costume",
+        "bi_pride-costume",
+        "pan_pride-costume",
+        "tekken-costume",
+        "team_skull-costume",
+        "astronaut-costume",
+        "band-costume",
+        "bionicle-costume",
+        "cafe-costume",
+        "detective-costume",
+        "el_brave-costume",
+        "rival-costume",
+        "santa-costume",
+        "team_rocket-costume",
+        "team_rainbow_anime-costume",
+        "team_magma-costume",
+        "team_magma_oras-costume"
+      ]
+    }
+  ]
+}

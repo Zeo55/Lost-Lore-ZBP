@@ -3,7 +3,7 @@
 - Crystal Onix/Steelix are now Crystal type
 - Crystal Onix got a new unique evolution method
 - They now feature unique stats, moves and abilities
-- Fully reworked Hall of Mirrors _(Mega Crystal Steelix's ability)_
+- Fully reworked Hall of Mirrors _(Crystal Mega Steelix's ability)_
 - More information on all of that can be found on the Lost Lore mod page
 ## Miscellaneous & Fixes:
 - Fixed spiky-eared Pichu Pokédex entry

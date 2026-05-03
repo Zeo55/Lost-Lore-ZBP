@@ -145,6 +145,8 @@
 
   "cobblemon.ui.pokedex.info.form.groudon-virus": "Meta",
 
+  "cobblemon.ui.pokedex.info.form.dialga-primal": "Primal",
+
   "cobblemon.ui.pokedex.info.form.lugia": "",
   "cobblemon.ui.pokedex.info.form.lugia-shadow": "Shadow",
 
@@ -202,6 +204,8 @@
   "cobblemon.species.kecleon-pmd.desc": "It quietly sets up shops deep within dungeons, and while it appears gentle and trustworthy, it never forgets a debt and will defend its wares without mercy.",
   "cobblemon.species.kecleon-reddy.desc": "Together with its best friend Greeny it likes stealing trinkets so people play hide and seek with him. It is also known for being significantly harder to catch.",
   "cobblemon.species.zarude-dada.desc": "This scarf wearing Zarude, often named Dada is the protector of the jungle. It's known for its fierce loyalty towards the forest and its inhabitants, showing a compassionate side rarely seen in other Zarude.",
+
+  "cobblemon.species.dialga-primal.desc":"Driven mad by a future where time has ceased to flow, Primal Dialga has lost all reason. It fights to preserve a broken reality, striking down any who threaten the frozen world it now rules.",
 
   "cobblemon.species.groudon-virus.desc": "This grotesque imitation of Groudon was born from a corrupted wish. Unlike the true Groudon, it devours life instead of nurturing it, growing stronger as it absorbs Pokémon, people, and nature alike.",
 

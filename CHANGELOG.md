@@ -7,6 +7,7 @@
 - More information on all of that can be found on the Lost Lore mod page
 ## Miscellaneous & Fixes:
 - Some smaller unnoteworthy file optimizations
+- Added missing Pokédex entry for Primal Dialga 
 - Added recipe for Magical Music Sheet _(Meloetta cosmetic)_
 - Updated Lucario scarfs - they now show when Mega evolved
 - Reduced Meta Groudon's walk speed _(no more zooming around)_

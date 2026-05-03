@@ -145,6 +145,8 @@
 
   "cobblemon.ui.pokedex.info.form.groudon-virus": "Meta",
 
+  "cobblemon.ui.pokedex.info.form.dialga-primal": "Schatten",
+
   "cobblemon.ui.pokedex.info.form.lugia": "",
   "cobblemon.ui.pokedex.info.form.lugia-shadow": "Crypto",
 
@@ -202,6 +204,8 @@
   "cobblemon.species.kecleon-pmd.desc": "Es richtet sich still und leise tief in den Verliesen ein und wirkt zwar sanft und vertrauenswürdig, vergisst jedoch niemals eine Schuld und verteidigt seine Waren gnadenlos.",
   "cobblemon.species.kecleon-reddy.desc": "Zusammen mit seinem besten Freund Greeny stiehlt es gerne Kleinigkeiten, damit die Leute mit ihm Verstecken spielen. Es ist auch dafür bekannt, dass es deutlich schwieriger zu fangen ist.",
   "cobblemon.species.zarude-dada.desc": "Dieses Schal-tragende Zarude wird oft Dada genannt und ist der Beschützer des Dschungels. Es ist bekannt für seine bedingungslose Treue gegenüber dem Wald und seinen Bewohnern und zeigt eine mitfühlende Seite, die man bei anderen Zarude selten sieht.",
+
+  "cobblemon.species.dialga-primal.desc":"In den Wahnsinn getrieben von einer Zukunft, in der die Zeit stehen geblieben ist, hat dieses Dialga jegliche Vernunft verloren. Er kämpft um den Erhalt einer zerbrochenen Realität und vernichtet jeden, der die erstarrte Welt bedroht, über die er nun herrscht.",
 
   "cobblemon.species.groudon-virus.desc": "Diese groteske Nachahmung von Groudon entstand aus einem verdorbenen Wunsch heraus. Im Gegensatz zum echten Groudon verschlingt es Leben, anstatt es zu nähren, und wird immer stärker, indem es Pokémon, Menschen und die Natur gleichermaßen absorbiert.",
 

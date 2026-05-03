@@ -6,6 +6,7 @@
 - Fully reworked Hall of Mirrors _(Mega Crystal Steelix's ability)_
 - More information on all of that can be found on the Lost Lore mod page
 ## Miscellaneous & Fixes:
+- Fixed spiky-eared Pichu Pokédex entry
 - Some smaller unnoteworthy file optimizations
 - Added missing Pokédex entry for Primal Dialga 
 - Added recipe for Magical Music Sheet _(Meloetta cosmetic)_

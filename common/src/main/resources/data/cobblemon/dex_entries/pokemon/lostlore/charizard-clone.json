@@ -1,0 +1,21 @@
+{
+  "id": "cobblemon:charizard-clone",
+  "speciesId": "cobblemon:charizard",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Clone",
+      "unlockForms": ["clone"]
+    },
+    {
+      "displayForm": "Clone-Mega-X",
+      "unlockForms": ["clone-mega-x"]
+    },
+    {
+      "displayForm": "Clone-Mega-Y",
+      "unlockForms": ["clone-mega-y"]
+    }
+  ],
+  "variations": []
+}

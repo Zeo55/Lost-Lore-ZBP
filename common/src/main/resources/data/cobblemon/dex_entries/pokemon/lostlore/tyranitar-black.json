@@ -1,0 +1,13 @@
+{
+  "id": "cobblemon:tyranitar-black",
+  "speciesId": "cobblemon:tyranitar",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Black",
+      "unlockForms": ["black"]
+    }
+  ],
+  "variations": []
+}

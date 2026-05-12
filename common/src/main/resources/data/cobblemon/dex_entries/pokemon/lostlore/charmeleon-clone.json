@@ -1,0 +1,13 @@
+{
+  "id": "cobblemon:charmeleon-clone",
+  "speciesId": "cobblemon:charmeleon",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Clone",
+      "unlockForms": ["clone"]
+    }
+  ],
+  "variations": []
+}

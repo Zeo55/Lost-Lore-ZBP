@@ -1,0 +1,17 @@
+{
+  "id": "cobblemon:eevee-lana",
+  "speciesId": "cobblemon:eevee",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Lana",
+      "unlockForms": ["lana"]
+    },
+    {
+      "displayForm": "Lana-Gmax",
+      "unlockForms": ["Lana-Gmax"]
+    }
+  ],
+  "variations": []
+}

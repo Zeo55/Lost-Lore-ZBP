@@ -1,0 +1,13 @@
+{
+  "id": "cobblemon:slowbro-mega-galarian",
+  "speciesId": "cobblemon:slowbro",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "MegaY",
+      "unlockForms": ["megay"]
+    }
+  ],
+  "variations": []
+}

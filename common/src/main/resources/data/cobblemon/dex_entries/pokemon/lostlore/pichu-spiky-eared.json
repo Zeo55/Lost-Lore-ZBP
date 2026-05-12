@@ -1,0 +1,13 @@
+{
+  "id": "cobblemon:pichu-spiky-eared",
+  "speciesId": "cobblemon:pichu",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Spiky-Eared",
+      "unlockForms": ["spiky-eared"]
+    }
+  ],
+  "variations": []
+}

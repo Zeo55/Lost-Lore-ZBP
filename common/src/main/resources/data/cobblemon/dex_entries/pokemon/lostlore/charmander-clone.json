@@ -1,0 +1,13 @@
+{
+  "id": "cobblemon:charmander-clone",
+  "speciesId": "cobblemon:charmander",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Clone",
+      "unlockForms": ["clone"]
+    }
+  ],
+  "variations": []
+}

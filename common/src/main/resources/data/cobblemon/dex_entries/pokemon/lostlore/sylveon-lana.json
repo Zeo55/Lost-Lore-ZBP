@@ -1,0 +1,13 @@
+{
+  "id": "cobblemon:sylveon-lana",
+  "speciesId": "cobblemon:sylveon",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Lana",
+      "unlockForms": ["lana"]
+    }
+  ],
+  "variations": []
+}

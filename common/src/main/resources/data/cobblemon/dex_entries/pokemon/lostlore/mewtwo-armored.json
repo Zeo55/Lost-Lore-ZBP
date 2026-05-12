@@ -1,0 +1,13 @@
+{
+  "id": "cobblemon:mewtwo-armored",
+  "speciesId": "cobblemon:mewtwo",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Armored",
+      "unlockForms": ["armored"]
+    }
+  ],
+  "variations": []
+}

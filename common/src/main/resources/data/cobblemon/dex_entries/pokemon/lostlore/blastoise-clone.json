@@ -1,0 +1,17 @@
+{
+  "id": "cobblemon:blastoise-clone",
+  "speciesId": "cobblemon:blastoise",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Clone",
+      "unlockForms": ["clone"]
+    },
+    {
+      "displayForm": "Clone-Mega",
+      "unlockForms": ["clone-mega"]
+    }
+  ],
+  "variations": []
+}

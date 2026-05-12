@@ -1,0 +1,13 @@
+{
+  "id": "cobblemon:ivysaur-clone",
+  "speciesId": "cobblemon:ivysaur",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Clone",
+      "unlockForms": ["clone"]
+    }
+  ],
+  "variations": []
+}

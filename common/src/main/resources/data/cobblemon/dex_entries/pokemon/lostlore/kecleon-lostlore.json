@@ -1,0 +1,17 @@
+{
+  "id": "cobblemon:kecleon-lostlore",
+  "speciesId": "cobblemon:kecleon",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "PMD",
+      "unlockForms": ["pmd"]
+    },
+    {
+      "displayForm": "Reddy",
+      "unlockForms": ["reddy"]
+    }
+  ],
+  "variations": []
+}

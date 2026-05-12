@@ -1,0 +1,17 @@
+{
+  "id": "cobblemon:snorlax-snowman",
+  "speciesId": "cobblemon:snorlax",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Snowman",
+      "unlockForms": ["snowman"]
+    },
+    {
+      "displayForm": "Snowman-Gmax",
+      "unlockForms": ["snowman-gmax"]
+    }
+  ],
+  "variations": []
+}

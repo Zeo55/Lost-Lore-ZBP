@@ -1,0 +1,13 @@
+{
+  "id": "cobblemon:mimikyu-acerola",
+  "speciesId": "cobblemon:mimikyu",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Acerola",
+      "unlockForms": ["acerola"]
+    }
+  ],
+  "variations": []
+}

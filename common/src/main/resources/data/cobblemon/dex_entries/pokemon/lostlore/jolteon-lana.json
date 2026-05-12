@@ -1,0 +1,13 @@
+{
+  "id": "cobblemon:jolteon-lana",
+  "speciesId": "cobblemon:jolteon",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Lana",
+      "unlockForms": ["lana"]
+    }
+  ],
+  "variations": []
+}

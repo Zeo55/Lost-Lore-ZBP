@@ -4,9 +4,10 @@
   "compatibilityLevel": "JAVA_21",
   "minVersion": "0.8",
   "client": [
+    "client.TypeWidgetMixin",
+    "client.TypeIconMixin"
   ],
   "mixins": [
-
   ],
   "injectors": {
     "defaultRequire": 1

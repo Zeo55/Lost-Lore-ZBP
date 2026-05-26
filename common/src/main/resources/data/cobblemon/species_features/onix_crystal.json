@@ -1,0 +1,21 @@
+{
+  "type": "integer",
+  "keys": ["onix_crystal"],
+  "default": 0,
+  "min": 0,
+  "max": 600,
+  "visible": true,
+  "display": {
+    "name": "cobblemon.ui.stash.crystal",
+    "colour": [135, 112, 198],
+    "underlay": "cobblemon:textures/gui/summary/summary_stats_other_bar.png",
+    "overlay": "cobblemon:textures/gui/summary/summary_stats_crystal_overlay.png"
+  },
+  "itemPoints": {
+    "minecraft:small_amethyst_bud": 2,
+    "minecraft:medium_amethyst_bud": 4,
+    "minecraft:large_amethyst_bud": 6,
+    "minecraft:amethyst_cluster": 8,
+    "minecraft:amethyst_shard": 1
+  }
+}

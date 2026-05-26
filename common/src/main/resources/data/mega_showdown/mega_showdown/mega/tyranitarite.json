@@ -1,0 +1,17 @@
+{
+  "showdown_id": "tyranitarite",
+  "pokemons": ["Tyranitar"],
+  "aspect_conditions": {
+    "apply": {
+      "aspects": ["mega_evolution=mega"],
+      "aspect": {
+        "blacklist_aspects": [
+          ["black"]
+        ]
+      }
+    },
+    "revert": {
+      "aspects": ["mega_evolution=none"]
+    }
+  }
+}

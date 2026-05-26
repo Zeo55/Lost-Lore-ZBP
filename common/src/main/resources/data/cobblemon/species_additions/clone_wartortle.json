@@ -6,7 +6,7 @@
       "aspects": ["clone"],
       "pokedex": ["cobblemon.species.wartortle-clone.desc"],
 	  "experienceGroup": "fast",
-	  "preEvolution": "squirtle clone=true",
+	  "preEvolution": "squirtle clone",
       "evolutions": [
 		{
 		  "id": "wartortleclone_blastoiseclone",

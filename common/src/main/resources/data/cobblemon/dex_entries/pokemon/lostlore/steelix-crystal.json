@@ -1,0 +1,17 @@
+{
+  "id": "cobblemon:steelix-crystal",
+  "speciesId": "cobblemon:steelix",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Crystal",
+      "unlockForms": ["crystal"]
+    },
+    {
+      "displayForm": "Crystal-Mega",
+      "unlockForms": ["crystal-mega"]
+    }
+  ],
+  "variations": []
+}

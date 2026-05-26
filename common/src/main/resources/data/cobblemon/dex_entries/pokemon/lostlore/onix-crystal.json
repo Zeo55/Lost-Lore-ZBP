@@ -1,0 +1,13 @@
+{
+  "id": "cobblemon:onix-crystal",
+  "speciesId": "cobblemon:onix",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Crystal",
+      "unlockForms": ["crystal"]
+    }
+  ],
+  "variations": []
+}

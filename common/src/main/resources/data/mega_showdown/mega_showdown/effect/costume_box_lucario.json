@@ -1,0 +1,16 @@
+{
+  "minecraft": {
+    "particle_apply": "minecraft:crimson_spore",
+    "particle_revert": "minecraft:crimson_spore",
+    "sound_revert": {
+      "sound_id": "minecraft:item.armor.equip_leather"
+    },
+    "sound_apply": {
+      "sound_id": "minecraft:item.armor.equip_leather"
+    },
+    "animations": {
+      "animations_revert": ["cry"],
+      "animations_apply": ["cry"]
+    }
+  }
+}

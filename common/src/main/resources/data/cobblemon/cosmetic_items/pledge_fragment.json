@@ -3,7 +3,7 @@
   "cosmeticItems": [
     {
       "consumedItem": "lost_lore:pledge_fragment",
-      "aspects": ["cosmetic_item-pledge_fragment"]
+      "aspects": ["resolute-form"]
     }
   ]
 }

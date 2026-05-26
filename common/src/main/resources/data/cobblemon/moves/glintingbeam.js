@@ -1,0 +1,16 @@
+{
+	num: 10100,
+	accuracy: true,
+	basePower: 1,
+	category: "Physical",
+	isNonstandard: "Past",
+	name: "Glinting Beam",
+	pp: 1,
+	priority: 0,
+	flags: {},
+	isZ: "crystaliumz",
+	secondary: null,
+	target: "normal",
+	type: "Crystal",
+	contestType: "Cool",
+}

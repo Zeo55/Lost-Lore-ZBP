@@ -1,0 +1,21 @@
+{
+  "type": "choice",
+  "keys": [
+    "lucario_costume"
+  ],
+  "default": "no",
+  "choices": [
+    "no",
+    "costume_party",
+    "martial_arts",
+    "concert",
+	"space",
+	"captain",
+	"cafe",
+	"chef",
+	"ruins",
+	"holiday"
+  ],
+  "isAspect": true,
+  "aspectFormat": "{{choice}}-costume"
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PPP",
+        "PMP",
+        "PPP"
+    ],
+    "key": {
+        "M": {
+            "tag": "c:music_discs"
+        },
+        "P": {
+            "item": "minecraft:paper"
+        }
+    },
+    "result": {
+    "id": "lost_lore:magical_music_sheet"
+  }
+}

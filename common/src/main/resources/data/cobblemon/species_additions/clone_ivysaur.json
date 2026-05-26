@@ -6,7 +6,7 @@
       "aspects": ["clone"],
       "pokedex": ["cobblemon.species.ivysaur-clone.desc"],
 	  "experienceGroup": "fast",
-      "preEvolution": "bulbasaur clone=true",
+      "preEvolution": "bulbasaur clone",
 	  "evolutions": [
 		{
 		  "id": "ivysaurclone_venusaurclone",

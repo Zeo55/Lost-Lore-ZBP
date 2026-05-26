@@ -17,6 +17,7 @@ public class LLItems {
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(LostLore.MOD_ID, Registries.ITEM);
 
     //Mega
+    public static RegistrySupplier<Item> CRYSTALLINE_STEELIXITE = registerMegaStone("crystalline_steelixite");
     public static RegistrySupplier<Item> SHADOW_MEWTWONITE_X = registerMegaStone("shadow_mewtwonite_x");
     public static RegistrySupplier<Item> SHADOW_MEWTWONITE_Y = registerMegaStone("shadow_mewtwonite_y");
     public static RegistrySupplier<Item> SLOWBROGONITE = registerMegaStone("slowbrogonite");
@@ -38,10 +39,18 @@ public class LLItems {
 
     // Z Crystal
     public static RegistrySupplier<Item> DARK_TYRANITARIUM_Z = registerZCrystal("dark_tyranitarium_z");
+    public static RegistrySupplier<Item> SHADOWIUM_Z = registerZCrystal("shadowium_z");
+    public static RegistrySupplier<Item> CRYSTALIUM_Z = registerZCrystal("crystalium_z");
+
+    // Showdown Items
+    public static RegistrySupplier<Item> SHADOW_GEM = registerShowdown("shadow_gem");
+    public static RegistrySupplier<Item> CRYSTAL_GEM = registerShowdown("crystal_gem");
+
 
     // No function
     public static RegistrySupplier<Item> ANCIENT_LIGHT_BALL = registerNormal("ancient_light_ball");
     public static RegistrySupplier<Item> GREEN_SCARF = registerNormal("green_scarf");
+    public static RegistrySupplier<Item> MAGICAL_MUSIC_SHEET = registerNormal("magical_music_sheet");
     public static RegistrySupplier<Item> PLEDGE_FRAGMENT = registerNormal("pledge_fragment");
     public static RegistrySupplier<Item> RED_SCARF = registerNormal("red_scarf");
     public static RegistrySupplier<Item> RIPPED_CAPE = registerNormal("ripped_cape");
@@ -106,10 +115,20 @@ public class LLItems {
                 )
         );
     }
+    private static RegistrySupplier<Item> registerShowdown(String name) {
+        return ITEMS.register(name, () -> new MegaStone(
+                        new Item.Properties()
+                                .component(MegaShowdownDataComponents.REGISTRY_TYPE_COMPONENT.get(), RegistryLocator.SHOWDOWN_ITEM)
+                                .component(MegaShowdownDataComponents.RESOURCE_LOCATION_COMPONENT.get(), ResourceLocation.fromNamespaceAndPath(LostLore.MOD_ID, name))
+                                .arch$tab(LLTabs.MAIN_TAB)
+                )
+        );
+    }
 
     private static RegistrySupplier<Item> registerNormal(String name) {
-        return ITEMS.register(name, () -> new Item(
-                        new Item.Properties().arch$tab(LLTabs.MAIN_TAB)
+        return ITEMS.register(name, () -> new MegaStone(
+                        new Item.Properties()
+                                .arch$tab(LLTabs.MAIN_TAB)
                 )
         );
     }

@@ -1,0 +1,47 @@
+{
+  "id": "cobblemon:lucario-costume",
+  "speciesId": "cobblemon:lucario",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Normal",
+      "unlockForms": [
+        "Normal"
+      ]
+    },
+    {
+      "displayForm": "Mega",
+      "unlockForms": [
+        "Mega"
+      ]
+    }
+  ],
+  "variations": [
+    {
+      "displayName": "cobblemon.pokedex.variation.outfit",
+      "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
+      "aspects": [
+        "",
+        "cafe-costume",
+        "captain-costume",
+        "chef-costume",
+        "concert-costume",
+        "costume_party-costume",
+        "holiday-costume",
+        "martial_arts-costume",
+        "ruins-costume",
+        "space-costume"
+      ]
+    },
+    {
+      "displayName": "cobblemon.pokedex.variation.scarf",
+      "icon": "cobblemon:textures/gui/pokedex/variation/scarf.png",
+      "aspects": [
+        "",
+        "cosmetic_item-red_scarf",
+        "cosmetic_item-green_scarf"
+      ]
+    }
+  ]
+}

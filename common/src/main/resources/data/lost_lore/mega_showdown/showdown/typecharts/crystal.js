@@ -1,0 +1,26 @@
+{
+  damageTaken: {
+    sandstorm: 3,
+    Bug: 0,
+    Dark: 0,
+    Dragon: 0,
+    Electric: 0,
+    Fairy: 2,
+    Fighting: 1,
+    Fire: 1,
+    Flying: 0,
+    Ghost: 0,
+    Grass: 0,
+    Ground: 2,
+    Ice: 2,
+    Normal: 0,
+    Poison: 0,
+    Psychic: 0,
+    Rock: 1,
+    Steel: 1,
+    Stellar: 0,
+    Water: 3,
+    Shadow: 2,
+    crystal: 0,
+  }
+}

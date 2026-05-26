@@ -5,13 +5,21 @@
       "name": "Snowman",
       "aspects": ["snowman"],
       "pokedex": ["cobblemon.species.munchlax-snowman.desc"],
-      "primaryType": "normal",
-      "secondaryType": "ice",
+      "primaryType": "ice",
+      "preEvolution": "munchlax snowman",
       "abilities": [
         "icebody",
         "thickfat",
-        "h:furcoat"
+        "h:frostywinds"
       ],
+      "baseStats": {
+        "hp": 160,
+        "attack": 65,
+        "defence": 65,
+        "special_attack": 110,
+        "special_defence": 110,
+        "speed": 30
+      },
       "riding": {
         "stats": {
           "SPEED": {
@@ -38,7 +46,7 @@
       "moves": [
         "1:tackle",
         "1:defensecurl",
-        "1:lick",
+        "1:calmmind",
         "1:block",
         "1:recycle",
         "1:fling",
@@ -55,12 +63,12 @@
         "1:sheercold",
         "12:yawn",
         "15:iceshard",
-        "16:bite",
+        "16:fairywind",
         "20:rest",
         "20:sleeptalk",
         "20:snore",
         "20:icepunch",
-        "24:crunch",
+        "24:aircutter",
         "25:icywind",
         "28:bodyslam",
         "30:frostbreath",
@@ -70,7 +78,7 @@
         "40:highhorsepower",
         "40:icefang",
         "44:hammerarm",
-        "45:iciclecrash",
+        "45:freezedry",
         "48:bellydrum",
         "50:snowscape",
         "52:belch",
@@ -192,7 +200,6 @@
         "tutor:hypervoice",
         "tutor:iceball",
         "tutor:icebeam",
-        "tutor:icepunch",
         "tutor:icywind",
         "tutor:ironhead",
         "tutor:lastresort",
@@ -254,8 +261,7 @@
     },
     {
       "name": "Snowman-Gmax",
-      "primaryType": "normal",
-      "secondaryType": "ice",
+      "primaryType": "ice",
       "maleRatio": 0.875,
       "height": 350,
       "weight": 0,
@@ -273,12 +279,20 @@
       "abilities": [
         "icebody",
         "thickfat",
-        "h:furcoat"
+        "h:frostywinds"
       ],
+      "baseStats": {
+        "hp": 160,
+        "attack": 65,
+        "defence": 65,
+        "special_attack": 110,
+        "special_defence": 110,
+        "speed": 30
+      },
       "moves": [
         "1:tackle",
         "1:defensecurl",
-        "1:lick",
+        "1:calmmind",
         "1:block",
         "1:recycle",
         "1:fling",
@@ -295,12 +309,12 @@
         "1:sheercold",
         "12:yawn",
         "15:iceshard",
-        "16:bite",
+        "16:fairywind",
         "20:rest",
         "20:sleeptalk",
         "20:snore",
         "20:icepunch",
-        "24:crunch",
+        "24:aircutter",
         "25:icywind",
         "28:bodyslam",
         "30:frostbreath",
@@ -310,7 +324,7 @@
         "40:highhorsepower",
         "40:icefang",
         "44:hammerarm",
-        "45:iciclecrash",
+        "45:freezedry",
         "48:bellydrum",
         "50:snowscape",
         "52:belch",
@@ -432,7 +446,6 @@
         "tutor:hypervoice",
         "tutor:iceball",
         "tutor:icebeam",
-        "tutor:icepunch",
         "tutor:icywind",
         "tutor:ironhead",
         "tutor:lastresort",

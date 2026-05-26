@@ -1,0 +1,41 @@
+{
+  "target": "cobblemon:lucario",
+  "forms": [
+    {
+      "name": "Cafe-Costume",
+      "aspects": ["cafe-costume"]
+    },
+    {
+      "name": "Captain-Costume",
+      "aspects": ["captain-costume"]
+    },
+    {
+      "name": "Chef-Costume",
+      "aspects": ["chef-costume"]
+    },
+    {
+      "name": "Concert-Costume",
+      "aspects": ["concert-costume"]
+    },
+    {
+      "name": "Costume_Party-Costume",
+      "aspects": ["costume_party-costume"]
+    },
+    {
+      "name": "Holiday-Costume",
+      "aspects": ["holiday-costume"]
+    },
+    {
+      "name": "Martial_Arts-Costume",
+      "aspects": ["martial_arts-costume"]
+    },
+    {
+      "name": "Ruins-Costume",
+      "aspects": ["ruins-costume"]
+    },
+    {
+      "name": "Space-Costume",
+      "aspects": ["space-costume"]
+    }
+  ]
+}

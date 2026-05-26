@@ -16,7 +16,7 @@
     "aspect_conditions": [
       {
         "apply": {
-          "aspects": ["costume=cafe"],
+          "aspects": ["lucario_costume=cafe"],
           "aspect": {
             "required_aspects": [["no-costume"]]
           }
@@ -24,7 +24,7 @@
       },
       {
         "apply": {
-          "aspects": ["costume=captain"],
+          "aspects": ["lucario_costume=captain"],
           "aspect": {
             "required_aspects": [["cafe-costume"]]
           }
@@ -32,7 +32,7 @@
       },
       {
         "apply": {
-          "aspects": ["costume=chef"],
+          "aspects": ["lucario_costume=chef"],
           "aspect": {
             "required_aspects": [["captain-costume"]]
           }
@@ -40,7 +40,7 @@
       },
       {
         "apply": {
-          "aspects": ["costume=concert"],
+          "aspects": ["lucario_costume=concert"],
           "aspect": {
             "required_aspects": [["chef-costume"]]
           }
@@ -48,7 +48,7 @@
       },
       {
         "apply": {
-          "aspects": ["costume=costume_party"],
+          "aspects": ["lucario_costume=costume_party"],
           "aspect": {
             "required_aspects": [["concert-costume"]]
           }
@@ -56,7 +56,7 @@
       },
       {
         "apply": {
-          "aspects": ["costume=holiday"],
+          "aspects": ["lucario_costume=holiday"],
           "aspect": {
             "required_aspects": [["costume_party-costume"]]
           }
@@ -64,7 +64,7 @@
       },
       {
         "apply": {
-          "aspects": ["costume=martial_arts"],
+          "aspects": ["lucario_costume=martial_arts"],
           "aspect": {
             "required_aspects": [["holiday-costume"]]
           }
@@ -72,7 +72,7 @@
       },
       {
         "apply": {
-          "aspects": ["costume=ruins"],
+          "aspects": ["lucario_costume=ruins"],
           "aspect": {
             "required_aspects": [["martial_arts-costume"]]
           }
@@ -80,7 +80,7 @@
       },
       {
         "apply": {
-          "aspects": ["costume=space"],
+          "aspects": ["lucario_costume=space"],
           "aspect": {
             "required_aspects": [["ruins-costume"]]
           }
@@ -88,7 +88,7 @@
       },
       {
         "apply": {
-          "aspects": ["costume=no"],
+          "aspects": ["lucario_costume=no"],
           "aspect": {
             "required_aspects": [["space-costume"]]
           }
@@ -96,15 +96,15 @@
       }
     ],
     "effects": [
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box",
-        "mega_showdown:costume_box"
+        "mega_showdown:costume_box_lucario",
+        "mega_showdown:costume_box_lucario",
+        "mega_showdown:costume_box_lucario",
+        "mega_showdown:costume_box_lucario",
+        "mega_showdown:costume_box_lucario",
+        "mega_showdown:costume_box_lucario",
+        "mega_showdown:costume_box_lucario",
+        "mega_showdown:costume_box_lucario",
+        "mega_showdown:costume_box_lucario",
+        "mega_showdown:costume_box_lucario"
     ]
   }

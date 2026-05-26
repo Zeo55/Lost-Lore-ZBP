@@ -1,0 +1,13 @@
+{
+  "id": "cobblemon:munchlax-snowman",
+  "speciesId": "cobblemon:munchlax",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Snowman",
+      "unlockForms": ["snowman"]
+    }
+  ],
+  "variations": []
+}

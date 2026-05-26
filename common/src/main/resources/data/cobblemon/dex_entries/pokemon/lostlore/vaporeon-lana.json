@@ -1,0 +1,13 @@
+{
+  "id": "cobblemon:vaporeon-lana",
+  "speciesId": "cobblemon:vaporeon",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Lana",
+      "unlockForms": ["lana"]
+    }
+  ],
+  "variations": []
+}

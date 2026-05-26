@@ -1,0 +1,101 @@
+{
+  "target": "cobblemon:incineroar",
+  "forms": [
+	  {
+      "name": "Summer",
+      "aspects": ["summer-costume"]
+    },
+	  {
+      "name": "Champion",
+      "aspects": ["champion-costume"]
+    },
+	  {
+      "name": "Royal-Mask",
+      "aspects": ["royal_mask-costume"]
+    },
+    {
+      "name": "Dancer",
+      "aspects": ["dancer-costume"]
+    },
+    {
+      "name": "Pride",
+      "aspects": ["1pride-costume"]
+    },
+    {
+      "name": "Trans-Pride",
+      "aspects": ["trans_pride-costume"]
+    },
+    {
+      "name": "Ace-Pride",
+      "aspects": ["ace_pride-costume"]
+    },
+    {
+      "name": "Bi-Pride",
+      "aspects": ["bi_pride-costume"]
+    },
+    {
+      "name": "Pan-Pride",
+      "aspects": ["pan_pride-costume"]
+    },
+    {
+      "name": "Tekken",
+      "aspects": ["tekken-costume"]
+    },
+    {
+      "name": "Team-Skull",
+      "aspects": ["team_skull-costume"]
+    },
+    {
+      "name": "Astronaut",
+      "aspects": ["astronaut-costume"]
+    },
+    {
+      "name": "Band",
+      "aspects": ["band-costume"]
+    },
+    {
+      "name": "Bionicle",
+      "aspects": ["bionicle-costume"]
+    },
+    {
+      "name": "Cafe",
+      "aspects": ["cafe-costume"]
+    },
+    {
+      "name": "Detective",
+      "aspects": ["detective-costume"]
+    },
+    {
+      "name": "El-Brave",
+      "aspects": ["el_brave-costume"]
+    },
+    {
+      "name": "Rival",
+      "aspects": ["rival-costume"]
+    },
+    {
+      "name": "Santa",
+      "aspects": ["santa-costume"]
+    },
+    {
+      "name": "Team-Rocket",
+      "aspects": ["team_rocket-costume"]
+    },
+    {
+      "name": "Team-Rainbow-Anime",
+      "aspects": ["team_rainbow_anime-costume"]
+    },
+    {
+      "name": "Team-Magma",
+      "aspects": ["team_magma-costume"]
+    },
+    {
+      "name": "Team-Magma-ORAS",
+      "aspects": ["team_magma_oras-costume"]
+    },
+    {
+      "name": "PMD",
+      "aspects": ["pmd-costume"]
+    }
+  ]
+}

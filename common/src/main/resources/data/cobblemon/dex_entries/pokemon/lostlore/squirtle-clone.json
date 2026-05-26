@@ -1,0 +1,13 @@
+{
+  "id": "cobblemon:squirtle-clone",
+  "speciesId": "cobblemon:squirtle",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Clone",
+      "unlockForms": ["clone"]
+    }
+  ],
+  "variations": []
+}

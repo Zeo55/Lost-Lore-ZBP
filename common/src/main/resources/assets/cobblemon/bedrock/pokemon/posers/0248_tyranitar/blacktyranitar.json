@@ -27,7 +27,7 @@
       "isBattle": true,
       "animations": [
         "q.look('head')", 
-		"q.bedrock('blacktyranitar', 'ground_idle')"
+		"q.bedrock('blacktyranitar', 'battle_idle')"
       ],
     "quirks": [
         "q.bedrock_quirk('blacktyranitar', 'blink')"

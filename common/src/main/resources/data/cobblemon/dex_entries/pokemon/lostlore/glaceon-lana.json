@@ -1,0 +1,13 @@
+{
+  "id": "cobblemon:glaceon-lana",
+  "speciesId": "cobblemon:glaceon",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Lana",
+      "unlockForms": ["lana"]
+    }
+  ],
+  "variations": []
+}

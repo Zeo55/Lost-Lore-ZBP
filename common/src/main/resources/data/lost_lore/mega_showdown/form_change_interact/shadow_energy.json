@@ -1,25 +1,35 @@
 {
   "pokemons": ["Mewtwo", "Lugia"],
-  "consume": 0,
+  "consume": 1,
   "effect": "mega_showdown:origin_g_effect",
   "aspect_conditions": {
     "apply": {
       "aspects": ["shadows=true"],
+      "pokemon_properties": "tera_type=shadow friendship=0 sh_shadow",
       "aspect": {
         "blacklist_aspects": [
-          ["shadows"], 
-          ["armored"], 
-          ["mega_y"], 
+          ["shadows"],
+          ["armored"],
+          ["mega_y"],
           ["mega_x"]
         ]
+      },
+      "friendship": {
+        "min_friendship": 250,
+        "max_friendship": 255
       }
     },
     "revert": {
       "aspects": ["shadows=false"],
+      "pokemon_properties": "tera_type=psychic friendship=0",
       "aspect": {
         "required_aspects": [
           ["shadows"]
         ]
+      },
+      "friendship": {
+        "min_friendship": 250,
+        "max_friendship": 255
       }
     }
   }

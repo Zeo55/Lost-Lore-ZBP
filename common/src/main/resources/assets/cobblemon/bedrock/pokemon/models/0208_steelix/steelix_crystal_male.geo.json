@@ -77,15 +77,6 @@
 					]
 				},
 				{
-					"name": "locator_head",
-					"parent": "head_rotation",
-					"pivot": [0, 31.25, 66.9],
-					"rotation": [-90, 0, 0],
-					"locators": {
-						"head": [0, 31.25, 66.9]
-					}
-				},
-				{
 					"name": "locator_face",
 					"parent": "head_rotation",
 					"pivot": [0, 22, 86.75],
@@ -158,6 +149,14 @@
 						{"origin": [-17, 32.5, 32], "size": [9, 5, 10], "pivot": [-12, 26.5, 36.15], "rotation": [5, 0, 0], "uv": [305, 55]},
 						{"origin": [8, 32.5, 32], "size": [9, 5, 10], "pivot": [12, 26.5, 36.15], "rotation": [5, 0, 0], "uv": [343, 55]}
 					]
+				},
+				{
+					"name": "locator_head",
+					"parent": "jaw_top",
+					"pivot": [0, 33.25, 56.9],
+					"locators": {
+						"head": [0, 33.25, 56.9]
+					}
 				},
 				{
 					"name": "locator_jaw_upper",

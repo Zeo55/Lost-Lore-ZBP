@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " M ",
+        "MUM",
+        " M "
+    ],
+    "key": {
+        "M": {
+            "item": "lost_lore:shadow_gem"
+        },
+        "U": {
+            "item": "mega_showdown:blank_z"
+        }
+    },
+    "result": {
+    "id": "lost_lore:shadowium_z"
+  }
+}

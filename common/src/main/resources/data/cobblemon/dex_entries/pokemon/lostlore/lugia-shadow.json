@@ -1,0 +1,13 @@
+{
+  "id": "cobblemon:lugia-shadow",
+  "speciesId": "cobblemon:lugia",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Shadow",
+      "unlockForms": ["shadow"]
+    }
+  ],
+  "variations": []
+}

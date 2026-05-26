@@ -1,0 +1,17 @@
+{
+  "id": "cobblemon:rayquaza-illusion",
+  "speciesId": "cobblemon:rayquaza",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Illusion",
+      "unlockForms": ["illusion"]
+    },
+    {
+      "displayForm": "Illusion-Mega",
+      "unlockForms": ["illusion-mega"]
+    }
+  ],
+  "variations": []
+}

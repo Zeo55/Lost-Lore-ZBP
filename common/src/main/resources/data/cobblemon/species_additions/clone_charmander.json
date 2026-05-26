@@ -10,7 +10,7 @@
 		{
 		  "id": "charmanderclone_charmeleonclone",
 		  "variant": "level_up",
-		  "result": "charmeleon clone=true",
+		  "result": "charmeleon clone",
 		  "consumeHeldItem": false,
 		  "learnableMoves": [],
 		  "requirements": [

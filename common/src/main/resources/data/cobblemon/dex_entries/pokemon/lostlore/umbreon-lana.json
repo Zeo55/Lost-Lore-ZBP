@@ -1,0 +1,13 @@
+{
+  "id": "cobblemon:umbreon-lana",
+  "speciesId": "cobblemon:umbreon",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Lana",
+      "unlockForms": ["lana"]
+    }
+  ],
+  "variations": []
+}

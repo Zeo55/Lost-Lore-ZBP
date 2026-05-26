@@ -1,0 +1,25 @@
+{
+  "id": "cobblemon:riolu",
+  "speciesId": "cobblemon:riolu",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Normal",
+      "unlockForms": [
+        "Normal"
+      ]
+    }
+  ],
+  "variations": [
+    {
+      "displayName": "cobblemon.pokedex.variation.scarf",
+      "icon": "cobblemon:textures/gui/pokedex/variation/scarf.png",
+      "aspects": [
+        "",
+        "cosmetic_item-red_scarf",
+        "cosmetic_item-green_scarf"
+      ]
+    }
+  ]
+}

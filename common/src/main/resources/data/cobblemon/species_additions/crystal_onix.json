@@ -3,33 +3,107 @@
   "forms": [
     {
       "name": "Crystal",
-      "pokedex": [
-        "cobblemon.species.onix-crystal.desc"
-      ],
-      "aspects": [
-		"crystal"
-	  ],
+      "primaryType": "crystal",
+	  "pokedex": ["cobblemon.species.onix-crystal.desc"],
+      "aspects": ["crystal"],
 	  "labels": [
 		"gen1",
 		"legendary"
 	  ],
 	  "abilities": [
-		"waterabsorb",
-		"waterabsorb",
-		"h:waterabsorb"
+		"brittlecrystal",
+		"crystalline"
 	  ],
-	  "evolutions": [
+	  "baseStats": {
+	    "hp": 60,
+	    "attack": 45,
+	    "defence": 130,
+	    "special_attack": 70,
+	    "special_defence": 80,
+	    "speed": 50
+	  },
+		"moves": [
+		  "1:tackle",
+		  "1:harden",
+		  "1:rockthrow",
+		  "1:bind",
+		  "5:crystalveil",
+		  "9:smackdown",
+		  "13:rocktomb",
+		  "17:shardstrike",
+		  "21:stealthrock",
+		  "25:crystalbarrier",
+		  "29:ancientpower",
+		  "33:shinyglare",
+		  "37:powergem",
+		  "40:crystalcannon",
+		  "45:sandstorm",
+		  "tm:attract",
+		  "tm:bulldoze",
+		  "tm:crunch",
+		  "tm:curse",
+		  "tm:darkpulse",
+		  "tm:doubleedge",
+		  "tm:earthquake",
+		  "tm:endure",
+		  "tm:explosion",
+		  "tm:facade",
+		  "tm:gigaimpact",
+		  "tm:gyroball",
+		  "tm:headbutt",
+		  "tm:heavyslam",
+		  "tm:ironhead",
+		  "tm:magnetrise",
+		  "tm:meteorbeam",
+		  "tm:mudslap",
+		  "tm:payback",
+		  "tm:protect",
+		  "tm:psychup",
+		  "tm:roar",
+		  "tm:rockblast",
+		  "tm:rockpolish",
+		  "tm:rockslide",
+		  "tm:rocksmash",
+		  "tm:rocktomb",
+		  "tm:rollout",
+		  "tm:sandtomb",
+		  "tm:scaryface",
+		  "tm:selfdestruct",
+		  "tm:sleeptalk",
+		  "tm:smackdown",
+		  "tm:stealthrock",
+		  "tm:steelbeam",
+		  "tm:steelroller",
+		  "tm:stompingtantrum",
+		  "tm:stoneedge",
+		  "tm:strength",
+		  "tm:substitute",
+		  "tm:sunnyday",
+		  "tm:taunt",
+		  "tm:terablast",
+		  "tm:torment",
+		  "tm:twister"
+		],
+	    "evolutions": [
         {
 		  "id": "onixcrystal_steelixcrystal",
-	  	  "variant": "trade",
-		  "result": "steelix crystal=true",
-		  "consumeHeldItem": true,
+	  	  "variant": "level_up",
+		  "result": "steelix crystal=true tera_type=crystal",
+		  "consumeHeldItem": false,
 		  "learnableMoves": [],
 		  "requirements": [
-		    {
-			  "variant": "held_item",
-			  "itemCondition": "cobblemon:metal_coat"
-		    }
+			{
+			  "variant": "properties",
+			  "target": "onix onix_crystal=600"
+		    },
+			{
+			  "variant": "time_range",
+			  "range": "dawn"
+			},
+			{
+			  "variant": "level",
+			  "range": "40"
+			}
 		  ]
 	    }
 	  ]

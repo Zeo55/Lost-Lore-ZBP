@@ -1,0 +1,13 @@
+{
+  "id": "cobblemon:wartortle-clone",
+  "speciesId": "cobblemon:wartortle",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Clone",
+      "unlockForms": ["Clone"]
+    }
+  ],
+  "variations": []
+}

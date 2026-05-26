@@ -1,0 +1,35 @@
+{
+  "type": "choice",
+  "keys": [
+    "incineroar_costume"
+  ],
+  "default": "no",
+  "choices": [
+    "no",
+    "champion",
+    "royal_mask",
+    "summer",
+    "dancer",
+    "1pride",
+    "trans_pride",
+    "ace_pride",
+    "bi_pride",
+    "pan_pride",
+    "tekken",
+    "team_skull",
+    "astronaut",
+    "band",
+    "bionicle",
+    "cafe",
+    "detective",
+    "el_brave",
+    "rival",
+    "santa",
+    "team_rocket",
+    "team_rainbow_anime",
+    "team_magma",
+    "team_magma_oras"
+  ],
+  "isAspect": true,
+  "aspectFormat": "{{choice}}-costume"
+}

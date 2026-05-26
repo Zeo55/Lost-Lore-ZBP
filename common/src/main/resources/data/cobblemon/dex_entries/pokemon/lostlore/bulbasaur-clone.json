@@ -1,0 +1,13 @@
+{
+  "id": "cobblemon:bulbasaur-clone",
+  "speciesId": "cobblemon:bulbasaur",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Clone",
+      "unlockForms": ["clone"]
+    }
+  ],
+  "variations": []
+}

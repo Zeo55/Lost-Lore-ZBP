@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " M ",
+        "MUM",
+        " M "
+    ],
+    "key": {
+        "M": {
+            "item": "minecraft:amethyst_cluster"
+        },
+        "U": {
+            "item": "mega_showdown:blank_z"
+        }
+    },
+    "result": {
+    "id": "lost_lore:crystalium_z"
+  }
+}

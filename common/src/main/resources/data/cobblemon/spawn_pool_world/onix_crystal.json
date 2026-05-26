@@ -5,14 +5,14 @@
   "spawns": [
     {
       "id": "onix-crystal-1T",
-      "pokemon": "onix crystal=true",
+      "pokemon": "onix crystal=true tera_type=crystal",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "rare",
-      "level": "14-60",
+      "level": "14-50",
       "weight": 5.0,
       "condition": {
         "minSkyLight": 0,

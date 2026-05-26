@@ -1,0 +1,13 @@
+{
+  "id": "cobblemon:groudon-meta",
+  "speciesId": "cobblemon:groudon",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Virus",
+      "unlockForms": ["virus"]
+    }
+  ],
+  "variations": []
+}

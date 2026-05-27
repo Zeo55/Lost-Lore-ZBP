@@ -19,7 +19,7 @@ public class CustomTypeRegistry {
     public static ElementalType CRYSTAL = createNewType(
             "Crystal",
             "cobblemon.type.crystal",
-            12364765,
+            4259788,
             "crystal",
             "Max Prism",
             "Glinting Beam"

@@ -7,6 +7,10 @@
     {
       "displayForm": "Acerola",
       "unlockForms": ["acerola"]
+    },
+    {
+      "displayForm": "Busted-Acerola",
+      "unlockForms": ["busted-acerola"]
     }
   ],
   "variations": []

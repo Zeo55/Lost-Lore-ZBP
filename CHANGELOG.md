@@ -7,6 +7,7 @@
 - More information on all of that can be found on the Lost Lore mod page
 ## Additions, updates & fixes:
 - Fixed spiky-eared Pichu Pokédex entry
+- Updated Gmax Snwoman Snorlax clouds
 - Some smaller unnoteworthy file optimizations
 - Updated Gmax Lana Eevee clouds & textures
 - Added missing Pokédex entry for Primal Dialga 

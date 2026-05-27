@@ -1,10 +1,10 @@
 {
   "species": "cobblemon:charizard",
-  "order": 3,
+  "order": 11,
   "variations": [
     {
       "aspects": [
-        "mega_y",
+        "cosmetic_item-mega_y",
         "clone"
       ],
       "model": "cobblemon:charizard_mega_y_clone.geo",
@@ -35,7 +35,7 @@
     },
     {
       "aspects": [
-        "mega_y",
+        "cosmetic_item-mega_y",
         "clone",
         "shiny"
       ],

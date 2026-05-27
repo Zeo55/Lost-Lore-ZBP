@@ -1,0 +1,37 @@
+{
+  "species": "cobblemon:steelix",
+  "order": 11,
+  "variations": [
+    {
+      "aspects": [
+        "cosmetic_item-mega_y",
+        "crystal"
+      ],
+      "poser": "cobblemon:steelix_crystal",
+      "model": "cobblemon:steelix_crystal_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0208_steelix/mega/steelix_crystal_mega.png",
+      "layers": [
+        {
+          "name": "translucent",
+          "texture": "cobblemon:textures/pokemon/0208_steelix/mega/steelix_crystal_mega_translucent.png",
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "cosmetic_item-mega_y",
+        "crystal",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0208_steelix/mega/steelix_crystal_mega.png",
+      "layers": [
+        {
+          "name": "translucent",
+          "texture": "cobblemon:textures/pokemon/0208_steelix/mega/steelix_crystal_mega_shiny_translucent.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

@@ -7,9 +7,10 @@
 - More information on all of that can be found on the Lost Lore mod page
 ## Additions, updates & fixes:
 - Fixed spiky-eared Pichu Pokédex entry
-- Fixed Gmax Lana Eevee clouds & textures
 - Some smaller unnoteworthy file optimizations
+- Updated Gmax Lana Eevee clouds & textures
 - Added missing Pokédex entry for Primal Dialga 
+- Reworked Clone Mega Charizard X & Y model & texture
 - Added recipe for Magical Music Sheet _(Meloetta cosmetic)_
 - Added full Dex page for every Pokémon added in Lost Lore
 - Updated Lucario scarfs - they now show when Mega evolved
@@ -17,8 +18,8 @@
 - Fixed Black Tyranitar being able to mega evolve outside of battles
 - Fixed an issue with Steelix's head locator, messing with its tera hat
 - Added placeholders for the Crystal & Shadow tera hats _(Shadow is WIP)_
-- Fixed a weird Mega Lucario interaction with my latest mod - Cosmetic Megas
-- Updated Inceneroar & Riolu/Lucario costumes/scarfs to have their own buttons in the dex
+- Added support for my [Cosmetic Megas](https://modrinth.com/datapack/cosmetic-megas) mod _(for Shadow & Crystal Megas)_
+- Inceneroar & Riolu/Lucario costumes/scarfs have their own buttons in the dex
 ## Expanded incompatibility list:
 - Added JourneyMounts as incompatible _(breaks the Mewtwo & Lugia riding/model & Lucario model due to their implementation method)_
 - Added Lasers Additions as incompatible _(breaks Shadow Mewtwos abilities due to their implementation of existing forms as species_additions)_

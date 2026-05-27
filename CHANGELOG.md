@@ -7,6 +7,7 @@
 - More information on all of that can be found on the Lost Lore mod page
 ## Additions, updates & fixes:
 - Fixed spiky-eared Pichu Pokédex entry
+- Fixed Gmax Lana Eevee clouds & textures
 - Some smaller unnoteworthy file optimizations
 - Added missing Pokédex entry for Primal Dialga 
 - Added recipe for Magical Music Sheet _(Meloetta cosmetic)_

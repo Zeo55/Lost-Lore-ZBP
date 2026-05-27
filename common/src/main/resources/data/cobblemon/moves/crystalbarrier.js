@@ -8,7 +8,7 @@
 	priority: 0,
 	flags: {snatch: 1, metronome: 1},
 	boosts: {
-		def: 1,
+		def: 2,
 		spe: -1,
 	},
 	secondary: null,

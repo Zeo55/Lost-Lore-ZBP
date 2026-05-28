@@ -1,4 +1,8 @@
 # Changelog v2.2.0
+## Fixed the Server issues:
+- Custom Types were ported over to Lost Lore _(obviously Yajat did all of that so big props as always)_
+- The issues when installing it on a server are finally fixed
+- This update requires MSD 1.8.3 or higher to function
 ## Added Crystal Type & Full Crystal Onix line rework!
 - Crystal Onix/Steelix are now Crystal type
 - Crystal Onix got a new unique evolution method
@@ -24,6 +28,3 @@
 ## Expanded incompatibility list:
 - Added JourneyMounts as incompatible _(breaks the Mewtwo & Lugia riding/model & Lucario model due to their implementation method)_
 - Added Lasers Additions as incompatible _(breaks Shadow Mewtwos abilities due to their implementation of existing forms as species_additions)_
-## Regarding installation on Servers:
-- The issues when installing it on a server are finally fixed
-- Custom Types were ported over to Lost Lore _(obviously Yajat did all of that so big props as always)_

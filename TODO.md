@@ -1,3 +1,5 @@
 # To-do List for next update:
-- Ask for Black Fog 
+## Pokopia
+- ~~Ask Beezy for permission to use the Pokopia models~~
+## General
 - Do the Gmax Clone Starters

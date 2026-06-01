@@ -74,6 +74,26 @@
   "cobblemon.move.zcrystalbarrier": "Z Kristall Barriere",
   "cobblemon.move.zcrystalbarrier.desc": "Glänzende Kristalle neutralisieren negative Statuswertveränderungen.",
 
+  "cobblemon.ability.ancienthorrors": "Uralte Albträume",
+  "cobblemon.ability.ancienthorrors.desc": "Gigantische Lebenskraft lässt den Anwender ein Mal pro Kampf Finale oder Explosion nutzen ohne kampfunfähig zu werden.",
+  "cobblemon.battle.activate.ancienthorrors": "§e§lSeine massive Lebenskraft ließ es die Explosion überstehen!§r",
+
+  "cobblemon.move.commandment": "Gebot",
+  "cobblemon.move.commandment.desc": "Der Anwender befehligt mehrere Nebulak. Diese können entweder den Anwender heilen, seine Verteidigungen verstärken oder seinen Spezial Angriff und kritische Trefferquote erhöhen.",
+  "cobblemon.battle.activate.commandment.restoration": "§e§lViele Nebulak erscheinen um Lebenskraft zu teilen!§r",
+  "cobblemon.battle.activate.commandment.fortification": "§e§lViele Nebulak erscheinen um Verteidigung zu verstärken!§r",
+  "cobblemon.battle.activate.commandment.judgement": "§e§lViele Nebulak erscheinen um zu richten!§r",
+
+  "cobblemon.move.multilick": "Mehrfach Schlecker",
+  "cobblemon.move.multilick.desc": "Der Anwender ruft 5 Nebulak um das Ziel anzugreifen. Die Attacke trifft 5 mal und verursacht physischen Schaden.",
+
+  "cobblemon.move.soulleech": "Seelensauger",
+  "cobblemon.move.soulleech.desc": "Der Anwender greift sich die Seele des Ziels und stielt jede Runde KP, die den Anwender heilen.",
+  "cobblemon.battle.start.soulleech": "%1$s's Seele wurde gegriffen!",
+  "cobblemon.battle.damage.soulleech": "%1$s's Seele wird von Seelensauger gestohlen!",
+  "cobblemon.battle.heal.soulleech": "%1$s heilt sich durch die gestohlene Lebenskraft!",
+  "cobblemon.battle.end.soulleech": "%1$s's Seele wurde befreit!",
+
   "cobblemon.ui.pokedex.region.pokestar": "Pokéwood",
   "cobblemon.ui.pokedex.region.lostlore": "Lost Lore",
 
@@ -131,6 +151,7 @@
 
   "cobblemon.species.mt.name": "MT",
   "cobblemon.species.mt2.name": "MT2",
+  "cobblemon.species.blackfog.name": "Schwarzer Nebel",
 
   "cobblemon.ui.pokedex.info.form.munchlax": "",
   "cobblemon.ui.pokedex.info.form.munchlax-snowman": "Schneemann",
@@ -197,6 +218,7 @@
 
   "cobblemon.species.mt.desc": "Ein Mech, der in „§oGiant Chasm§r“ mitspielt. Obwohl seine Fähigkeiten für den Film vorgegeben sind, zeigt er beeindruckende Stärke und Widerstandsfähigkeit.",
   "cobblemon.species.mt2.desc": "Ein modifizierter MT, der in §oSpace§r die Hauptrolle spielt. Sein metallischer Körper und seine großen Kräfte machen ihn zu einem furchterregenden Gegner. Wird seine wahre Kraft für filmische Effekte übertrieben dargestellt?",
+  "cobblemon.species.blackfog.desc": "Ein uralter Albtraum der Saffronia City terrorisiert. Es tötet seine Beute durch das stehlen ihrer Seele mit Traumfresser und verschwindet anschließend.",
 
   "cobblemon.species.munchlax-snowman.desc": "Mampfaxo frisst eifrig Schnee und gefrorene Beeren und formt seinen Körper zu einem runden, verspielten Schneemann. Es rollt bergab, um mehr Schnee zu sammeln, und wird umso größer, je mehr es spielt..",
   "cobblemon.species.snorlax-snowman.desc": "Der Körper dieses Relaxo ist mit verzaubertem Schnee gefüllt, sodass es selbst in Schneestürmen friedlich schlafen kann. Wenn es schnarcht, verhärtet die kalte Luft seine Oberfläche zu einer unzerbrechlichen, schneemannartigen Hülle.",

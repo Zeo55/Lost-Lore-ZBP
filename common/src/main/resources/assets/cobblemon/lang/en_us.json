@@ -65,7 +65,7 @@
   "cobblemon.move.shardstrike": "Shard Strike",
   "cobblemon.move.shardstrike.desc": "The user hits the target with sharp shards of gems.",
   "cobblemon.move.unstablesurge": "Unstable Surge",
-  "cobblemon.move.unstablesurge.desc": "The user overloads itself unleasing intense energy. If this move misses, the user takes damage instead.",
+  "cobblemon.move.unstablesurge.desc": "The user overloads itself unleashing intense energy. If this move misses, the user takes damage instead.",
   "cobblemon.battle.damage.unstablesurge": "%1$s couldn't handle the amount of energy!",
   "cobblemon.move.zcrystalveil": "Z Crystal Veil",
   "cobblemon.move.zcrystalveil.desc": "Shiny crystals boost the users evasiveness.",
@@ -73,6 +73,26 @@
   "cobblemon.move.zshinyglare.desc": "Shiny crystals boost the users defense.",
   "cobblemon.move.zcrystalbarrier": "Z Crystal Barrier",
   "cobblemon.move.zcrystalbarrier.desc": "Shiny crystals negate negative stat changes.",
+
+  "cobblemon.ability.ancienthorrors": "Ancient Horrors",
+  "cobblemon.ability.ancienthorrors.desc": "Massive lifeforces let the user survive self-destruct or explosion without fainting once per battle.",
+  "cobblemon.battle.activate.ancienthorrors": "§e§lIts massive vitality made it survive the explosion!§r",
+
+  "cobblemon.move.commandment": "Commandment",
+  "cobblemon.move.commandment.desc": "The user commands multiple Gastly. These can either heal the user, boost both its defenses or raise its special attack and critical hit ratio.",
+  "cobblemon.battle.activate.commandment.restoration": "§e§lMany Ghastly swarm in to restore vitality!§r",
+  "cobblemon.battle.activate.commandment.fortification": "§e§lMany Ghastly swarm in to fortify defenses!§r",
+  "cobblemon.battle.activate.commandment.judgement": "§e§lMany Ghastly swarm in to offer judgement!§r",
+
+  "cobblemon.move.multilick": "Multi Lick",
+  "cobblemon.move.multilick.desc": "The user commands 5 Gastly to attack the target. This move hits 5 times and deals physical damage.",
+
+  "cobblemon.move.soulleech": "Soul Leech",
+  "cobblemon.move.soulleech.desc": "The user grabs onto the soul of the target, trapping it and stealing some HP every turn.",
+  "cobblemon.battle.start.soulleech": "%1$s's soul was grabbed!",
+  "cobblemon.battle.damage.soulleech": "%1$s's soul is sapped by Soul Leech!",
+  "cobblemon.battle.heal.soulleech": "%1$s healed from the feasted soul!",
+  "cobblemon.battle.end.soulleech": "%1$s's soul was freed!",
 
   "cobblemon.ui.pokedex.region.pokestar": "Pokestar Studios",
   "cobblemon.ui.pokedex.region.lostlore": "Lost Lore",
@@ -131,6 +151,7 @@
 
   "cobblemon.species.mt.name": "MT",
   "cobblemon.species.mt2.name": "MT2",
+  "cobblemon.species.blackfog.name": "Black Fog",
 
   "cobblemon.ui.pokedex.info.form.munchlax": "",
   "cobblemon.ui.pokedex.info.form.munchlax-snowman": "Snowman",
@@ -197,6 +218,7 @@
 
   "cobblemon.species.mt.desc": "A Mech starring in §oGiant Chasm§r. Although its abilities are scripted for the film, it showcases impressive strength and durability.",
   "cobblemon.species.mt2.desc": "A modified MT starring in §oSpace§r. Its metallic body and great powers make it a formidable foe, is its true power exaggerated for cinematic effect?",
+  "cobblemon.species.blackfog.desc": "An ancient horror haunting Saffron City. It kills its prey by stealing their souls with its Dream Eater and disappears just after it does so.",
 
   "cobblemon.species.munchlax-snowman.desc": "Munchlax eagerly eats snow and frozen berries, shaping its body into a round, playful snowman. It rolls downhill to gather more snow, growing larger the more it plays.",
   "cobblemon.species.snorlax-snowman.desc": "This Snorlax’s body is packed with enchanted snow, letting it sleep peacefully even in blizzards. When it snores, the cold air hardens its surface into an unbreakable, snowman-like shell.",

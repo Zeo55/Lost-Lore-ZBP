@@ -8,8 +8,8 @@
         "clone"
       ],
       "poser": "cobblemon:charizard_gigantamax",
-      "model": "cobblemon:charizard_gigantamax.geo",
-      "texture": "cobblemon:textures/pokemon/0006_charizard/charizard_clone_gigantamax.png",
+      "model": "cobblemon:charizard_clone_gmax.geo",
+      "texture": "cobblemon:textures/pokemon/0006_charizard/charizard_clone_gmax.png",
       "layers": [
         {
           "name": "flame",
@@ -34,7 +34,7 @@
         "clone",
         "shiny"
       ],
-      "texture": "cobblemon:textures/pokemon/0006_charizard/charizard_clone_gigantamax_shiny.png",
+      "texture": "cobblemon:textures/pokemon/0006_charizard/charizard_clone_gmax_shiny.png",
       "layers": [
         {
           "name": "flame",

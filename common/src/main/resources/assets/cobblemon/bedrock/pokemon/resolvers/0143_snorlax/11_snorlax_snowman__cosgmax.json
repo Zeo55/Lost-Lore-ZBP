@@ -1,10 +1,10 @@
 {
   "species": "cobblemon:snorlax",
-  "order": 4,
+  "order": 11,
   "variations": [
     {
       "aspects": [
-        "gmax",
+        "cosmetic_item-gmax",
         "snowman"
       ],
       "poser": "cobblemon:snorlax_snowman_gigantamax",
@@ -20,7 +20,7 @@
     },
     {
       "aspects": [
-        "gmax",
+        "cosmetic_item-gmax",
         "snowman",
         "shiny"
       ],

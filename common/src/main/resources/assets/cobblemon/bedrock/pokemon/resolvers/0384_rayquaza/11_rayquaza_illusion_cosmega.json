@@ -1,10 +1,10 @@
 {
   "species": "cobblemon:rayquaza",
-  "order": 2,
+  "order": 11,
   "variations": [
     {
       "aspects": [
-        "mega",
+        "cosmetic_item-mega",
 		"illusion"
       ],
       "poser": "cobblemon:megarayquaza_illusion",
@@ -22,7 +22,7 @@
     {
       "aspects": [
         "shiny",
-        "mega",
+        "cosmetic_item-mega",
 		"illusion"
       ],
       "texture": "cobblemon:textures/pokemon/0384_rayquaza/megarayquaza_illusion_shiny.png",

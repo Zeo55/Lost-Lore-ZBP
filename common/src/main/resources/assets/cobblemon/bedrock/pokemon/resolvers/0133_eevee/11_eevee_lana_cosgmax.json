@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:eevee",
+  "order": 11,
+  "variations": [
+    {
+      "aspects": [
+        "cosmetic_item-gmax",
+        "cosmetic_item-lana"
+      ],
+      "poser": "cobblemon:eevee_lana_gigantamax",
+      "model": "cobblemon:eevee_lana_gigantamax.geo",
+      "texture": "cobblemon:textures/pokemon/0133_eevee/eevee_lana_gigantamax.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-gmax",
+		"cosmetic_item-lana",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0133_eevee/eevee_lana_gigantamax_shiny.png"
+    }
+  ]
+}

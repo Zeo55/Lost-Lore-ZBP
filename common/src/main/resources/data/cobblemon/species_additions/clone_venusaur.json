@@ -4,9 +4,9 @@
     {
       "name": "Clone",
       "aspects": ["clone"],
-	    "pokedex": ["cobblemon.species.venusaur-clone.desc"],
-	    "experienceGroup": "fast",
-	    "preEvolution": "ivysaur clone",
+      "pokedex": ["cobblemon.species.venusaur-clone.desc"],
+      "experienceGroup": "fast",
+	  "preEvolution": "ivysaur clone",
       "riding": {
         "behaviours": {
           "LAND": {
@@ -104,22 +104,22 @@
         ]
       }
     },
-	  {
+    {
       "name": "Clone-Mega",
       "aspects": [
-		    "clone",
-		    "mega"
+        "clone",
+        "mega"
 	    ],
       "pokedex": ["cobblemon.species.venusaur-mega-clone.desc"],
-	    "primaryType": "grass",
-	    "secondaryType": "poison",
+      "primaryType": "grass",
+	  "secondaryType": "poison",
       "maleRatio": 0.875,
       "height": 24,
       "weight": 1555,
-	    "abilities": [
-		    "thickfat",
-		    "h:thickfat"
-	    ],
+	  "abilities": [
+        "thickfat",
+        "h:thickfat"
+	  ],
       "baseStats": {
         "hp": 80,
         "attack": 100,
@@ -128,10 +128,9 @@
         "special_defence": 120,
         "speed": 80
       },
-	    "experienceGroup": "fast",
-	    "baseExperienceYield": 315,
+	  "experienceGroup": "fast",
+	  "baseExperienceYield": 315,
       "dynamaxBlocked": true,
-      "evolutions": [],
       "battleOnly": true,
       "riding": {
         "behaviours": {
@@ -229,6 +228,28 @@
           }
         ]
       }
+    },
+    {
+      "name": "Clone-Gmax",
+      "primaryType": "grass",
+      "secondaryType": "poison",
+      "maleRatio": 0.875,
+      "height": 240,
+      "weight": 0,
+      "pokedex": [
+        "cobblemon.species.venusaur-gmax-clone.desc"
+      ],
+      "labels": [
+        "gen8",
+        "gmax"
+      ],
+      "aspects": [
+        "clone",
+        "gmax"
+      ],
+      "experienceGroup": "fast",
+      "battleOnly": true,
+      "dynamaxBlocked": true
     }
   ]
 }

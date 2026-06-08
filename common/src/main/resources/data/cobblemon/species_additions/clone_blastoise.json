@@ -241,6 +241,27 @@
       "baseExperienceYield": 315,
       "dynamaxBlocked": true,
       "battleOnly": true
+    },
+    {
+      "name": "Clone-Gmax",
+      "primaryType": "water",
+      "maleRatio": 0.875,
+      "height": 280,
+      "weight": 0,
+      "pokedex": [
+        "cobblemon.species.charizard-gmax-clone.desc"
+      ],
+      "labels": [
+        "gen8",
+        "gmax"
+      ],
+      "aspects": [
+        "clone",
+        "gmax"
+      ],
+      "experienceGroup": "fast",
+      "dynamaxBlocked": true,
+      "battleOnly": true
     }
   ]
 }

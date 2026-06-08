@@ -15,6 +15,10 @@
     {
       "displayForm": "Clone-Mega-Y",
       "unlockForms": ["clone-mega-y"]
+    },
+    {
+      "displayForm": "Clone-Gmax",
+      "unlockForms": ["clone-gmax"]
     }
   ],
   "variations": []

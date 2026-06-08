@@ -8,6 +8,10 @@
     {
       "displayForm": "Clone-Mega",
       "unlockForms": ["clone-mega"]
-    }	
+    },
+    {
+      "displayForm": "Clone-Gmax",
+      "unlockForms": ["clone-gmax"]
+    }
   ]
 }

@@ -1,0 +1,57 @@
+{
+  "species": "cobblemon:charizard",
+  "order": 12,
+  "variations": [
+    {
+      "aspects": [
+        "cosmetic_item-gmax",
+        "clone"
+      ],
+      "poser": "cobblemon:charizard_gigantamax",
+      "model": "cobblemon:charizard_gigantamax.geo",
+      "texture": "cobblemon:textures/pokemon/0006_charizard/charizard_clone_gigantamax.png",
+      "layers": [
+        {
+          "name": "flame",
+          "texture": {
+            "frames": [
+              "cobblemon:textures/pokemon/0006_charizard/gmaxflames/flames_1.png",
+              "cobblemon:textures/pokemon/0006_charizard/gmaxflames/flames_2.png",
+              "cobblemon:textures/pokemon/0006_charizard/gmaxflames/flames_3.png",
+              "cobblemon:textures/pokemon/0006_charizard/gmaxflames/flames_4.png"
+            ],
+            "fps": 10,
+            "loop": true
+          },
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "cosmetic_item-gmax",
+        "clone",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0006_charizard/charizard_clone_gigantamax_shiny.png",
+      "layers": [
+        {
+          "name": "flame",
+          "texture": {
+            "frames": [
+              "cobblemon:textures/pokemon/0006_charizard/gmaxflames/flames_1.png",
+              "cobblemon:textures/pokemon/0006_charizard/gmaxflames/flames_2.png",
+              "cobblemon:textures/pokemon/0006_charizard/gmaxflames/flames_3.png",
+              "cobblemon:textures/pokemon/0006_charizard/gmaxflames/flames_4.png"
+            ],
+            "fps": 10,
+            "loop": true
+          },
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

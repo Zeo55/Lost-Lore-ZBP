@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:blackfog",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:blackfog",
+      "model": "cobblemon:blackfog.geo",
+      "texture": "cobblemon:textures/pokemon/1099_blackfog/blackfog.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "translucent": true,
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/1099_blackfog/blackfog_emissive.png"
+        }
+      ]
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/1099_blackfog/blackfog_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "translucent": true,
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/1099_blackfog/blackfog_emissive_shiny.png"
+        }
+      ]
+    }
+  ]
+}

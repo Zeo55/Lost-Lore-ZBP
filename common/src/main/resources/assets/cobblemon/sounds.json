@@ -6,5 +6,13 @@
         "volume": 1.5
       }
     ]
+  },
+  "pokemon.blackfog.cry": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/blackfog_cry",
+        "volume": 1.0
+      }
+    ]
   }
 }

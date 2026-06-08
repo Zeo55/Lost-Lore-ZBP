@@ -1,4 +1,8 @@
 {
+	name: "Frosty Winds",
+	num: 2102,
+	rating: 3.5,
+	flags: {},
 	onBasePowerPriority: 19,
 	onBasePower(basePower, attacker, defender, move) {
 		if (move.flags['wind']) {
@@ -10,9 +14,5 @@
     	if (move.flags['wind']) {
     		return this.chainModify([4506, 4096]);
     	}
-    },
-	flags: {},
-	name: "Frosty Winds",
-	rating: 3.5,
-	num: 9980,
+    }
 }

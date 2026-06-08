@@ -1,4 +1,8 @@
 {
+	name: "Crystalline",
+	num: 2202,
+	rating: 4,
+	flags: {},
 	onModifyTypePriority: -1,
 	onModifyType(move, pokemon) {
 		const noModifyType = [
@@ -13,9 +17,5 @@
 	onBasePowerPriority: 23,
 	onBasePower(basePower, pokemon, target, move) {
 		if (move.typeChangerBoosted === this.effect) return this.chainModify([4915, 4096]);
-	},
-	flags: {},
-	name: "Crystalline",
-	rating: 4,
-	num: 9981,
+	}
 }

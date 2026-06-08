@@ -1,6 +1,6 @@
 {
     name: "Hall of Mirrors",
-    num: 9982,
+    num: 2103,
     rating: 4,
     flags: {},
     onTryHit(target, source, move) {

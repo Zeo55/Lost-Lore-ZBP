@@ -1,5 +1,9 @@
 {
-    onStart(pokemon) {
+	name: "Shadow Pressure",
+	num: 2003,
+	rating: 4.5,
+	flags: {},
+	onStart(pokemon) {
         this.add('-ability', pokemon, 'Shadow Pressure');
     },
     onDeductPP(target, source) {
@@ -11,9 +15,5 @@
 		if (move.category === 'Status') return;
 		if (move.type !== 'Flying' && move.type !== 'Psychic') return;
 		return this.chainModify(1.5);
-	},
-	flags: {},
-	name: "Shadow Pressure",
-	rating: 4.5,
-	num: 9998,
+	}
 }

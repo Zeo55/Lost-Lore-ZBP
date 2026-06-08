@@ -1,7 +1,7 @@
 {
     name: "Ancient Horrors",
-    num: 9997,
-    rating: 4,
+    num: 2301,
+    rating: 4.5,
     flags: {},
     onModifyMove(move, source) {
         if (!this.effectState.used && move.selfdestruct === "always") {

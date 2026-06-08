@@ -1,4 +1,8 @@
 {
+    name: "Shadow Boost",
+    num: 2001,
+    rating: 5.0,
+    flags: {},
     onBasePowerPriority: 20,
     onBasePower(basePower, source, target, move) {
         if (!move || move.category === 'Status') return;
@@ -12,9 +16,5 @@
         if (mod !== 1) {
             return this.chainModify(mod);
         }
-    },
-    flags: {},
-    name: "Shadow Boost",
-    rating: 5.0,
-    num: 9999,
+    }
 }

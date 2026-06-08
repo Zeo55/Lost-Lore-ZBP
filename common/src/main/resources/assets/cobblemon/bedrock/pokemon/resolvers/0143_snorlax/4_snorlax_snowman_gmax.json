@@ -1,0 +1,37 @@
+{
+  "species": "cobblemon:snorlax",
+  "order": 4,
+  "variations": [
+    {
+      "aspects": [
+        "gmax",
+        "snowman"
+      ],
+      "poser": "cobblemon:snorlax_snowman_gigantamax",
+      "model": "cobblemon:snorlax_snowman_gigantamax.geo",
+      "texture": "cobblemon:textures/pokemon/0143_snorlax/snorlax_snowman_gigantamax.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0143_snorlax/snorlax_snowman_gigantamax_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "gmax",
+        "snowman",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0143_snorlax/snorlax_snowman_gigantamax_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0143_snorlax/snorlax_snowman_gigantamax_emissive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

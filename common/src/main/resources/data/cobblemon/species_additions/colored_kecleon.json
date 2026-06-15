@@ -12,7 +12,15 @@
       "aspects": ["reddy"],
       "pokedex": ["cobblemon.species.kecleon-reddy.desc"],
       "maleRatio": 1.0,
-      "catchRate": 50
+      "catchRate": 50,
+      "baseStats": {
+        "hp": 60,
+        "attack": 90,
+        "defence": 70,
+        "special_attack": 60,
+        "special_defence": 120,
+        "speed": 90
+      }
     }
   ]
 }

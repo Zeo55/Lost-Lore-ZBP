@@ -26,7 +26,7 @@
       ],
       "poser": "cobblemon:blastoisegmax",
       "model": "cobblemon:blastoise_clone_gmax.geo",
-      "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_clone_gmax.png",
+      "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_clone_gmax_shiny.png",
       "layers": [
         {
           "name": "glow",

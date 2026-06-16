@@ -3,7 +3,7 @@
   "forms": [
     {
       "name": "Crystal",
-      "primaryType": "crystal",
+      "primaryType": "rock",
 	  "pokedex": ["cobblemon.species.onix-crystal.desc"],
       "aspects": ["crystal"],
 	  "labels": [
@@ -88,7 +88,7 @@
         {
 		  "id": "onixcrystal_steelixcrystal",
 	  	  "variant": "level_up",
-		  "result": "steelix crystal=true tera_type=crystal",
+		  "result": "steelix crystal=true tera_type=steel",
 		  "consumeHeldItem": false,
 		  "learnableMoves": [],
 		  "requirements": [
